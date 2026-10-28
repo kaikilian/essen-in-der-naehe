@@ -67,7 +67,7 @@ jobs:
           FTP_HOST: ${{ secrets.FTP_HOST }}
           FTP_USER: ${{ secrets.FTP_USER }}
           FTP_PASS: ${{ secrets.FTP_PASS }}
-          FTP_ZIEL: ${{ vars.FTP_ZIEL || '/essen' }}
+          FTP_ZIEL: ${{ vars.FTP_ZIEL || '.' }}
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y --no-install-recommends lftp
