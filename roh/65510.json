@@ -1,0 +1,4630 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-28T12:25:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 258043150,
+      "lat": 50.1533417,
+      "lon": 8.1811204,
+      "tags": {
+        "addr:city": "Taunusstein",
+        "addr:housenumber": "218",
+        "addr:postcode": "65232",
+        "addr:street": "Aarstraße",
+        "addr:suburb": "Wehen",
+        "email": "info@schrank-taunusstein.de",
+        "name": "Schrank",
+        "opening_hours": "Mo,We-Fr 06:30-13:00,14:30-18:30; Sa 06:30-13:00, Su 13:30-17:00; Tu off",
+        "phone": "+49 6128 6624; +49 6128 86661",
+        "shop": "bakery",
+        "source": "http://www.schrank-taunusstein.de/",
+        "source:date": "2015-04-01",
+        "website": "http://www.schrank-taunusstein.de/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 260756960,
+      "lat": 50.2966746,
+      "lon": 8.2584078,
+      "tags": {
+        "amenity": "pub",
+        "name": "Papperlapapp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266056134,
+      "lat": 50.2994662,
+      "lon": 8.2967278,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:place": "Am Waldschloss",
+        "addr:postcode": "65520",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "email": "info@hotel-waldschloss.de",
+        "fax": "+49 6434 93074-70",
+        "horse": "yes",
+        "internet_access": "yes",
+        "name": "Hotel Waldschloss",
+        "opening_hours": "08:00+",
+        "operator": "Hermann Hofmann",
+        "phone": "+49 6434 93074-0",
+        "rooms": "23",
+        "short_name": "Waldschloss",
+        "source": "http://www.hotel-waldschloss.de/",
+        "source:date": "2014-11-10",
+        "tourism": "hotel",
+        "website": "http://www.hotel-waldschloss.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266056306,
+      "lat": 50.2993112,
+      "lon": 8.2532472,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:housenumber": "4",
+        "addr:postcode": "65520",
+        "addr:street": "Dieselstraße",
+        "amenity": "fast_food",
+        "name": "Chili Pepper"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266056459,
+      "lat": 50.3085187,
+      "lon": 8.2553038,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "153",
+        "addr:postcode": "65520",
+        "addr:street": "Limburger Straße",
+        "addr:suburb": "Erbach",
+        "amenity": "restaurant",
+        "name": "Gasthaus Weil - Zum roten Ochsen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266056625,
+      "lat": 50.2964095,
+      "lon": 8.2690136,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "turkish",
+        "name": "Alanya Pizza & Dönerhaus",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266056631,
+      "lat": 50.2957669,
+      "lon": 8.2673071,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Turnerstubb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266056770,
+      "lat": 50.3068503,
+      "lon": 8.2557242,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "125",
+        "addr:postcode": "65520",
+        "addr:street": "Limburger Straße",
+        "amenity": "pub",
+        "name": "Dorfschänke",
+        "opening_hours": "\"geschlossen\""
+      }
+    },
+    {
+      "type": "node",
+      "id": 266057275,
+      "lat": 50.2975045,
+      "lon": 8.2712088,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:housenumber": "2",
+        "addr:postcode": "65520",
+        "addr:street": "Chambray-lès-Tours-Platz",
+        "amenity": "restaurant",
+        "cuisine": "croatian",
+        "description": "Küche von 11:00-14:00 und 17:00-22:00",
+        "email": "info@kurhaus-camberg.de",
+        "name": "Kurhaus Bad Camberg",
+        "opening_hours": "Tu-Su 11:00-23:00; Mo off",
+        "operator": "Bosco Tomic",
+        "outdoor_seating": "yes",
+        "phone": "+49 6434 6224",
+        "source": "http://www.kurhaus-camberg.com/",
+        "source:date": "2014-11-10",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.kurhaus-camberg.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266057413,
+      "lat": 50.2968565,
+      "lon": 8.2688859,
+      "tags": {
+        "amenity": "bar",
+        "name": "8 bar die kultkneipe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266104465,
+      "lat": 50.2992495,
+      "lon": 8.2350799,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:postcode": "65520",
+        "addr:street": "An der A3",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "indoor_seating": "yes",
+        "name": "McDonald's",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266215449,
+      "lat": 50.3091244,
+      "lon": 8.2542559,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "65520",
+        "addr:street": "Herrngartenstraße",
+        "addr:suburb": "Erbach",
+        "amenity": "restaurant",
+        "name": "Gasthaus zum Emstal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266315989,
+      "lat": 50.3065767,
+      "lon": 8.2561962,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "110",
+        "addr:postcode": "65520",
+        "addr:street": "Limburger Straße",
+        "indoor_seating": "yes",
+        "name": "Bäckerei Heck",
+        "opening_hours": "Mo-Fr 06:00-18:30; Sa 06:00-12:30; Su 08:00-11:00",
+        "outdoor_seating": "no",
+        "shop": "bakery",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 266741628,
+      "lat": 50.2964098,
+      "lon": 8.2563064,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:housenumber": "2",
+        "addr:postcode": "65520",
+        "addr:street": "Caspar-Hofmann-Platz",
+        "amenity": "restaurant",
+        "email": "info@taunus-residence.de",
+        "fax": "+49 6434 905979",
+        "name": "Estragon",
+        "operator": "Best-Pöhland GbR",
+        "outdoor_seating": "yes",
+        "phone": "+49 6434 9048-0",
+        "source": "http://www.taunus-residence.de/",
+        "source:date": "2014-11-11",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.taunus-residence.de/",
+        "website:menu": "https://www.taunus-residence.de/restaurant/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 270588829,
+      "lat": 50.1375573,
+      "lon": 8.3045422,
+      "tags": {
+        "addr:city": "Wiesbaden",
+        "addr:country": "DE",
+        "addr:housenumber": "17",
+        "addr:postcode": "65207",
+        "addr:street": "Fondetter Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "diet:vegetarian": "no",
+        "name": "Pizzeria Matera",
+        "opening_hours": "12:00-14:30, 18:00-24:00; Mo off",
+        "phone": "+49 6127 62149",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 270588833,
+      "lat": 50.1350259,
+      "lon": 8.3014676,
+      "tags": {
+        "addr:city": "Wiesbaden",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "65207",
+        "addr:street": "Kirchhohl",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "delivery": "no",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "email": "info@zum-weissen-ross-naurod.de",
+        "image": "https://www.zum-weissen-ross-naurod.de/images/slide00.jpg",
+        "name": "Zum weißen Roß",
+        "note": "Heidemarie Müller",
+        "opening_hours": "Mo-Th 17:00-23:00; Fr 11:30-23:00; Sa 17:00-23:00; Su 11:30-23:00",
+        "operator": "Rainer Emmel",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:notes": "yes",
+        "phone": "+49 6127 61141",
+        "takeaway": "no",
+        "website": "https://zum-weissen-ross-naurod.de",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 272429110,
+      "lat": 50.295639,
+      "lon": 8.2736264,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:housenumber": "1",
+        "addr:postcode": "65520",
+        "addr:street": "Sebastian-Kneipp-Straße",
+        "amenity": "cafe",
+        "name": "Café Stern",
+        "phone": "+49 6434 7591",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 272429186,
+      "lat": 50.2981929,
+      "lon": 8.2707154,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:housenumber": "10",
+        "addr:postcode": "65520",
+        "addr:street": "Obertorstraße",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;mittagstisch",
+        "internet_access": "no",
+        "name": "Amthof Cafe",
+        "opening_hours": "Mo-We, Fr-Sa 09:00-18:00; Su 10:00-18:00; Th 14:00-00:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6434 4500",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.amthofcafe.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 279236935,
+      "lat": 50.2497084,
+      "lon": 8.1961764,
+      "tags": {
+        "addr:city": "Hünstetten",
+        "addr:housenumber": "4",
+        "addr:postcode": "65510",
+        "addr:street": "Auf dem Amthaupt",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Taverna Platia",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 285958209,
+      "lat": 50.2210722,
+      "lon": 8.4062,
+      "tags": {
+        "addr:city": "Glashütten",
+        "addr:country": "DE",
+        "addr:housenumber": "86",
+        "addr:postcode": "61479",
+        "addr:street": "Limburger Straße",
+        "amenity": "restaurant",
+        "email": "info@glashuettenerhof.com",
+        "fax": "+49 6174 6946",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Hotel-Restaurant Glashüttener Hof",
+        "operator": "Götzen GbR",
+        "outdoor_seating": "yes",
+        "phone": "+49 6174 6922",
+        "rooms": "9",
+        "tourism": "hotel",
+        "website": "https://glashuettenerhof.com/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 285958213,
+      "lat": 50.2194526,
+      "lon": 8.4040844,
+      "tags": {
+        "addr:city": "Glashütten",
+        "addr:country": "DE",
+        "addr:housenumber": "53",
+        "addr:postcode": "61479",
+        "addr:street": "Limburger Straße",
+        "amenity": "restaurant",
+        "contact:phone": "+49 6174 6911",
+        "indoor_seating": "yes",
+        "name": "Hotel-Restaurant Glashütten",
+        "outdoor_seating": "yes",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 285974605,
+      "lat": 50.3104518,
+      "lon": 8.2601239,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:housenumber": "4",
+        "addr:postcode": "65520",
+        "addr:street": "Horstweg",
+        "addr:suburb": "Erbach",
+        "amenity": "restaurant",
+        "cuisine": "thai;asian",
+        "delivery": "no",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Thai-Town",
+        "opening_hours": "Mo-Tu 11:30-14:00,17:00-21:00; Th-Fr 11:30-14:00,17:00-21:00; Sa 17:00-21:00; Su 11:30-14:00,17:00-21:00",
+        "outdoor_seating": "yes",
+        "phone": "+4964343854677",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://thai-town-camberg.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 285983570,
+      "lat": 50.3006186,
+      "lon": 8.2623523,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bistrot",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 286333094,
+      "lat": 50.3104816,
+      "lon": 8.2600047,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:housename": "Erlenbachhalle",
+        "addr:housenumber": "4",
+        "addr:postcode": "65520",
+        "addr:street": "Horstweg",
+        "addr:suburb": "Erbach",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Erbacher Stubb",
+        "old_name": "Erbacher Stubb",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 287466048,
+      "lat": 50.2803648,
+      "lon": 8.2847851,
+      "tags": {
+        "amenity": "pub",
+        "name": "Kyffhäuser Clubhaus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 297925351,
+      "lat": 50.2171654,
+      "lon": 8.2579018,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "65510",
+        "addr:street": "Am Bahnhof",
+        "amenity": "restaurant",
+        "contact:email": "croatia-idstein@web.de",
+        "contact:phone": "+49 6126 2267690",
+        "contact:website": "http://www.hotel-restaurant-croatia.de/",
+        "name": "Croatia",
+        "opening_hours": "Mo-Fr 11:30-14:30,17:30-23:00; Sa 17:30-23:00; Su 11:30-14:30,17:30-23:00; Tu off",
+        "outdoor_seating": "yes",
+        "source": "http://www.hotel-restaurant-croatia.de/",
+        "source:date": "2017-05-30",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 344468000,
+      "lat": 50.2169514,
+      "lon": 8.2675352,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "65510",
+        "addr:street": "Grunerstraße",
+        "amenity": "cafe",
+        "check_date": "2024-07-29",
+        "contact:phone": "+49 6126 3388",
+        "cuisine": "cake",
+        "name": "Café Bäckerei Lamshöft",
+        "opening_hours": "Mo-Fr 06:00-18:30; Sa 06:00-13:00; Su 07:00-17:00",
+        "shop": "bakery",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 345741699,
+      "lat": 50.2475582,
+      "lon": 8.2571621,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "2",
+        "addr:postcode": "65510",
+        "addr:street": "Hauptstraße",
+        "addr:suburb": "Wörsdorf",
+        "amenity": "fast_food",
+        "cuisine": "sushi;asian",
+        "delivery": "yes",
+        "drive_through": "no",
+        "name": "Origami Sushi&Asian Cuisine",
+        "opening_hours": "Mo-Th 11:30-15:00, 17:30-21:30; Fr-Su 11:30-22:00",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "node",
+      "id": 345748233,
+      "lat": 50.2457011,
+      "lon": 8.2548719,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "2",
+        "addr:postcode": "65510",
+        "addr:street": "Wallbacher Straße",
+        "addr:suburb": "Wörsdorf",
+        "amenity": "pub",
+        "contact:email": "mail@nassauer-hof-kneipe.de",
+        "contact:phone": "+49 6126 588886",
+        "contact:website": "http://www.nassauer-hof-kneipe.de/",
+        "cuisine": "german",
+        "name": "Nassauer Hof",
+        "operator": "Alex Schmidt",
+        "outdoor_seating": "terrace",
+        "source": "http://www.nassauer-hof-kneipe.de/",
+        "source:date": "2016-10-11",
+        "wheelchair": "limited",
+        "wikidata": "Q1771549"
+      }
+    },
+    {
+      "type": "node",
+      "id": 345748672,
+      "lat": 50.2466362,
+      "lon": 8.2568647,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "16",
+        "addr:postcode": "65510",
+        "addr:street": "Hauptstraße",
+        "addr:suburb": "Wörsdorf",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "La Strada",
+        "opening_hours": "Th-Tu 11:30-14:30,17:30-23:30; We off",
+        "operator": "Antonio Ricci",
+        "phone": "+49 6126 55199"
+      }
+    },
+    {
+      "type": "node",
+      "id": 345748829,
+      "lat": 50.2465852,
+      "lon": 8.257137,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "2",
+        "addr:postcode": "65510",
+        "addr:street": "Sackgasse",
+        "addr:suburb": "Wörsdorf",
+        "amenity": "pub",
+        "name": "Zum Kuhstall",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 345750203,
+      "lat": 50.2460578,
+      "lon": 8.2549386,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "3",
+        "addr:postcode": "65510",
+        "addr:street": "Wallbacher Straße",
+        "addr:suburb": "Wörsdorf",
+        "amenity": "restaurant",
+        "cuisine": "pizza;italian;ice_cream",
+        "name": "Forno Freddo",
+        "phone": "+49612653561",
+        "toilets:wheelchair": "no",
+        "website": "https://www.forno-freddo.de",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 346137167,
+      "lat": 50.2201729,
+      "lon": 8.234738,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "12",
+        "addr:postcode": "65510",
+        "addr:street": "Brunnenstraße",
+        "addr:suburb": "Niederauroff",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "email": "info@zum-haubental.de",
+        "fax": "+49 6126 953752",
+        "name": "Zum Haubental",
+        "opening_hours": "Fr-Su 11:30-14:30,17:00+; Tu-Th 17:00+",
+        "operator": "Christian Kadesch",
+        "phone": "+49 6126 953752",
+        "source": "http://www.zum-haubental.de/",
+        "source:date": "2014-11-11",
+        "website": "http://www.zum-haubental.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 348119211,
+      "lat": 50.2743635,
+      "lon": 8.3426376,
+      "tags": {
+        "addr:city": "Waldems",
+        "addr:housenumber": "1",
+        "addr:postcode": "65529",
+        "addr:street": "Camberger Straße",
+        "addr:suburb": "Steinfischbach",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "email": "info@zum-schinderhannes.de",
+        "name": "Gasthaus \"Zum Schinderhannes\"",
+        "opening_hours": "Mo-We,Fr-Sa 17:00-22:00, Su 11:30-22:00 open",
+        "operator": "Bernhard Meyer",
+        "phone": "+49 6087 2491",
+        "source": "https://www.zumschinderhannes-steinfischbach.de/",
+        "source:date": "2023-12-03"
+      }
+    },
+    {
+      "type": "node",
+      "id": 385710008,
+      "lat": 50.1533285,
+      "lon": 8.3505252,
+      "tags": {
+        "addr:city": "Eppstein",
+        "addr:housenumber": "1",
+        "addr:postcode": "65817",
+        "addr:street": "Zum Zimmerplatz",
+        "addr:suburb": "Niederjosbach",
+        "amenity": "restaurant",
+        "check_date": "2025-11-25",
+        "cuisine": "german",
+        "email": "info@kastanienhof-niederjosbach.de",
+        "fax": "+49 6198 3484725",
+        "name": "Kastanienhof",
+        "opening_hours": "We-Sa 17:00-22:00; Su 11:30-16:00,17:00-22:00",
+        "operator": "Restaurant + Catering GmbH",
+        "phone": "+49 6198 5880510",
+        "source": "Homepage",
+        "source:date": "2023-08-10",
+        "website": "https://www.kastanienhof-niederjosbach.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 401619498,
+      "lat": 50.135486,
+      "lon": 8.3015964,
+      "tags": {
+        "addr:city": "Wiesbaden",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "65207",
+        "addr:street": "Fondetter Straße",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "name": "Da Nico Pizzeria To Go",
+        "phone": "+49 6127 986 8990",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 429443045,
+      "lat": 50.1379091,
+      "lon": 8.2835406,
+      "tags": {
+        "addr:city": "Wiesbaden",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "65207",
+        "addr:street": "Kellerskopf",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Kellerskopf",
+        "opening_hours": "Mo-Fr 10:00-17:00",
+        "phone": "+49 6127 4926",
+        "website": "https://kellerskopf.de",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 429761298,
+      "lat": 50.2966617,
+      "lon": 8.2583565,
+      "tags": {
+        "amenity": "bar",
+        "name": "Orient Lounge",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 429761310,
+      "lat": 50.2953059,
+      "lon": 8.2692789,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Banyan Garden",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 431519206,
+      "lat": 50.2451922,
+      "lon": 8.2550643,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "35",
+        "addr:postcode": "65510",
+        "addr:street": "Hauptstraße",
+        "addr:suburb": "Wörsdorf",
+        "bakehouse": "yes",
+        "cafe": "yes",
+        "indoor_seating": "yes",
+        "name": "Bäckerei Heck",
+        "outdoor_seating": "no",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "shop": "bakery",
+        "snack": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476440804,
+      "lat": 50.1726157,
+      "lon": 8.2496492,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "65527",
+        "addr:street": "In der Lei",
+        "addr:suburb": "Engenhahn",
+        "amenity": "restaurant",
+        "email": "info@engenhahner.de",
+        "name": "Zum Engenhahner Kochkessel",
+        "opening_hours": "Su-Th 11:30-22:00; Fr,Sa 11:30-24:00",
+        "phone": "+49 6128 937-3373",
+        "source": "http://www.engenhahner.de/",
+        "website": "http://www.engenhahner.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 523105136,
+      "lat": 50.2983073,
+      "lon": 8.2696098,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:street": "Marktplatz",
+        "name": "Bäckerei Heck",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-11:00",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528679372,
+      "lat": 50.1836171,
+      "lon": 8.1497962,
+      "tags": {
+        "addr:city": "Hohenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:place": "Hofgut Georgenthal",
+        "addr:postcode": "65329",
+        "addr:suburb": "Streckenroth",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "email": "info@hofgut-georgenthal.de",
+        "fax": "+49 6128 943-333",
+        "name": "Giorgios",
+        "operator": "Hotel Hofgut Georgenthal GmbH & Co. KG",
+        "outdoor_seating": "yes",
+        "phone": "+49 6128 943-0",
+        "source": "http://www.hofgut-georgenthal.de/",
+        "source:date": "2015-02-26",
+        "website": "http://www.hofgut-georgenthal.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 542234454,
+      "lat": 50.1990974,
+      "lon": 8.384044,
+      "tags": {
+        "addr:city": "Glashütten",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "61479",
+        "addr:street": "Grabenstraße",
+        "addr:suburb": "Schloßborn",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "delivery": "yes",
+        "name": "Ristorante und Pizzeria Totó",
+        "opening_hours": "Tu-Sa 17:00-23:00, Su,PH 12:00-22:30; Mo off",
+        "outdoor_seating": "yes",
+        "phone": "+49 6174 61717",
+        "takeaway": "yes",
+        "website": "https://pizzeria-ristorante-toto-da-valentino.eatbu.com",
+        "website:menu": "https://cdn.website.dish.co/media/98/a5/7747494/Speisekarte.pdf",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 610242585,
+      "lat": 50.160272,
+      "lon": 8.315541,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "65527",
+        "addr:street": "Bahnhofstraße",
+        "amenity": "restaurant",
+        "contact:mobile": "+49 171 4741405",
+        "cuisine": "italian",
+        "delivery": "yes",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "email": "cittadella@web.de",
+        "name": "La Cittadella",
+        "opening_hours": "Tu-Su 11:30-14:30, Tu-Su 17:30-22:30; Mo off",
+        "operator": "Antonio D'Antuono",
+        "outdoor_seating": "yes",
+        "phone": "+49 6127 992088",
+        "source": "http://www.cittadella.de/",
+        "source:date": "2015-02-09",
+        "takeaway": "yes",
+        "website": "http://www.cittadella.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 693223867,
+      "lat": 50.1634365,
+      "lon": 8.3061127,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:housenumber": "10",
+        "addr:postcode": "65527",
+        "addr:street": "Am Sägewerk",
+        "brand": "Die Lohner's",
+        "brand:wikidata": "Q105688772",
+        "check_date:opening_hours": "2025-12-20",
+        "name": "Die Lohner's",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "shop": "bakery",
+        "website": "https://die-lohners.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 700334785,
+      "lat": 50.1538123,
+      "lon": 8.1845092,
+      "tags": {
+        "addr:city": "Taunusstein",
+        "addr:housenumber": "12",
+        "addr:postcode": "65232",
+        "addr:street": "Mainzer Allee",
+        "amenity": "cafe",
+        "name": "Chocolaterie Bienvenue",
+        "phone": "+49 6128 7400833",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 717466960,
+      "lat": 50.1791551,
+      "lon": 8.2832063,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "65527",
+        "addr:street": "Neugasse",
+        "addr:suburb": "Niederseelbach",
+        "amenity": "restaurant",
+        "check_date": "2026-04-17",
+        "cuisine": "italian;pizza",
+        "name": "Ristorante Pizzeria La Gondola",
+        "opening_hours": "Tu-Sa 11:30-14:30,17:30-23:30; Su 11:30-14:30,17:30-22:00; Mo off",
+        "operator": "Domenico und Patrizia Bonsignore",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "phone": "+49 6127 999944",
+        "phone:mobile": "+49 160 96613475",
+        "source": "http://www.ristorante-pizzeria-la-gondola.de/",
+        "source:date": "2014-11-13",
+        "website": "http://www.ristorante-pizzeria-la-gondola.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1214555709,
+      "lat": 50.2157447,
+      "lon": 8.4013565,
+      "tags": {
+        "addr:city": "Glashütten",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "61479",
+        "addr:street": "Schloßborner Weg",
+        "amenity": "restaurant",
+        "contact:email": "info@restaurant-buergerklause.de",
+        "contact:phone": "+49 6174 63550",
+        "contact:website": "https://www.restaurant-buergerklause.de/",
+        "name": "Bürgerklause",
+        "opening_hours": "Mo-Sa 17:00-23:00; Su,PH 11:00-14:30,17:00-23:00; Tu off",
+        "operator": "Familie Zovko",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited",
+        "wheelchair:description": "Toilette im Bürgerhaus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1247718472,
+      "lat": 50.1526987,
+      "lon": 8.1922312,
+      "tags": {
+        "addr:city": "Taunusstein",
+        "addr:housenumber": "35",
+        "addr:postcode": "65232",
+        "addr:street": "Platter Straße",
+        "addr:suburb": "Wehen",
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "name": "Bella Napoli",
+        "opening_hours": "Mo-Su 17:00-22:00; Mo-Fr 11:30-14:00",
+        "operator": "Papa",
+        "phone": "+49 6128 982753",
+        "website": "www.bella-napoli-taunusstein.de/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1254023019,
+      "lat": 50.1626013,
+      "lon": 8.3171192,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:housenumber": "2",
+        "addr:postcode": "65527",
+        "addr:street": "Freiherr-vom-Stein-Straße",
+        "amenity": "cafe",
+        "name": "Bäckerei und Café am Rathaus - Huth",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-13:00",
+        "operator": "Bäckerei Huth GmbH & Co. KG",
+        "shop": "bakery",
+        "toilets:wheelchair": "no",
+        "website": "https://www.baeckerei-huth.de/fachgeschaefte/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1254023028,
+      "lat": 50.1623887,
+      "lon": 8.3171388,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:housenumber": "1",
+        "addr:postcode": "65527",
+        "addr:street": "Freiherr-vom-Stein-Straße",
+        "amenity": "ice_cream",
+        "internet_access": "no",
+        "name": "Coccinella",
+        "phone": "+49 6127 999933",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1271867489,
+      "lat": 50.1556567,
+      "lon": 8.184245,
+      "tags": {
+        "addr:postcode": "65232",
+        "amenity": "cafe",
+        "email": "capesco@web.de",
+        "name": "Capesco Coffee Lounge & Wine",
+        "opening_hours": "We-Mo 09:15-17:30",
+        "operator": "Frank Gerlach",
+        "phone": "+49 61 28 609 91 95",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1277296208,
+      "lat": 50.2965179,
+      "lon": 8.2552977,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Reiseland",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1323852640,
+      "lat": 50.1545624,
+      "lon": 8.1841138,
+      "tags": {
+        "addr:city": "Taunusstein",
+        "addr:housenumber": "6",
+        "addr:postcode": "65232",
+        "addr:street": "Mainzer Allee",
+        "addr:suburb": "Wehen",
+        "amenity": "restaurant",
+        "cuisine": "croatian",
+        "email": "zur-krone-split@t-online.de",
+        "fax": "+49 6128 968953",
+        "name": "Zur Krone Split",
+        "opening_hours": "Tu-Th 17:30-24:00; Fr-Su 11:30-14:30,17:30-24:00; Mo off",
+        "operator": "Dragan Lozina",
+        "outdoor_seating": "yes",
+        "phone": "+49 6128 6117",
+        "source": "http://www.zur-krone-split.de/",
+        "source:date": "2015-04-01",
+        "website": "http://www.zur-krone-split.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1353671647,
+      "lat": 50.189143,
+      "lon": 8.2367963,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "30",
+        "addr:postcode": "65510",
+        "addr:street": "Schwalbacher Straße",
+        "email": "info@backhaus-gibietz.de",
+        "name": "Gibietz",
+        "opening_hours": "Mo-Sa 06:00-12:00",
+        "operator": "Handwerksmeister Stefan Bach",
+        "phone": "+49 6126 959224",
+        "shop": "bakery",
+        "website": "https://backhaus-gibietz.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1411488676,
+      "lat": 50.2980543,
+      "lon": 8.2654256,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "turkish",
+        "name": "Kebap-Haus Munzur",
+        "outdoor_seating": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1449171494,
+      "lat": 50.2212503,
+      "lon": 8.2686474,
+      "tags": {
+        "addr:housenumber": "13",
+        "addr:postcode": "65510",
+        "addr:street": "Rodergasse",
+        "check_date": "2025-07-08",
+        "name": "Huth",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su off",
+        "shop": "bakery",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1449171497,
+      "lat": 50.221959,
+      "lon": 8.270463,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "65510",
+        "addr:street": "Himmelsgasse",
+        "amenity": "restaurant",
+        "check_date": "2025-07-08",
+        "check_date:opening_hours": "2025-03-05",
+        "contact:facebook": "https://www.facebook.com/pages/Dolce-sapore/361365027329156",
+        "contact:phone": "+49 6126 9594953",
+        "contact:website": "http://www.dolcesapore.de/",
+        "cuisine": "italian",
+        "indoor_seating": "yes",
+        "name": "Dolce Sapore",
+        "opening_hours": "Tu-Th 10:30-19:00; Fr 10:30-21:00; Sa 10:30-14:30; Su,PH off; Mo 10:30-14:30",
+        "outdoor_seating": "yes",
+        "shop": "bakery",
+        "source": "http://www.dolcesapore.de/",
+        "source:date": "2016-10-11"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1544705796,
+      "lat": 50.217961,
+      "lon": 8.2634696,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "47",
+        "addr:postcode": "65510",
+        "addr:street": "Wiesbadener Straße",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "delivery": "yes",
+        "name": "65 Burger",
+        "opening_hours": "Mo-Th 11:00-22:00; Fr 11:00-23:00; Sa,Su 14:00-23:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "source": "local_knowledge",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "website": "https://www.65burger.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1563697204,
+      "lat": 50.3003394,
+      "lon": 8.2627618,
+      "tags": {
+        "amenity": "fast_food",
+        "check_date": "2024-11-07",
+        "cuisine": "pizza",
+        "name": "Pizzeria Da Toni",
+        "opening_hours": "Mo-Su,PH 11:30-14:00,16:30-21:45",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1737366292,
+      "lat": 50.1690634,
+      "lon": 8.3357578,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "3a",
+        "addr:postcode": "65527",
+        "addr:street": "Wiesenstraße",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Im Taunusgarten",
+        "note": "Ehemaliger Name vor Pächterwechsel: Bauernstube",
+        "phone": "+49 6127 7003133",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1756365359,
+      "lat": 50.2979904,
+      "lon": 8.2661686,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "65520",
+        "addr:street": "Frankfurter Straße",
+        "name": "Bäckerei Wenz",
+        "shop": "bakery",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1786515322,
+      "lat": 50.2689498,
+      "lon": 8.293043,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "1",
+        "addr:place": "Morcher Mühle",
+        "addr:postcode": "65510",
+        "amenity": "biergarten",
+        "contact:fax": "+49 6434 930657",
+        "contact:phone": "+49 6434 3520",
+        "contact:website": "http://www.morcher-muehle.de/",
+        "name": "Morcher Mühle",
+        "source": "http://www.morcher-muehle.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1853280699,
+      "lat": 50.3084895,
+      "lon": 8.2558652,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "65520",
+        "addr:street": "Brunnenplatz",
+        "addr:suburb": "Erbach",
+        "name": "Bäckerei am Brunnenplatz",
+        "operator": "Schäfer",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1853280704,
+      "lat": 50.3047726,
+      "lon": 8.2570247,
+      "tags": {
+        "addr:postcode": "65520",
+        "amenity": "fast_food",
+        "name": "B8 Kebap Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1914283804,
+      "lat": 50.2200026,
+      "lon": 8.1991437,
+      "tags": {
+        "name": "Bäckerei Schäfer",
+        "shop": "bakery",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1919412487,
+      "lat": 50.2667006,
+      "lon": 8.2288387,
+      "tags": {
+        "name": "Bäckerei Heck",
+        "opening_hours": "Mo-Sa 06:30-18:30; Su 08:00-11:00",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1941280392,
+      "lat": 50.1708211,
+      "lon": 8.2102129,
+      "tags": {
+        "addr:city": "Taunusstein",
+        "addr:housenumber": "47",
+        "addr:postcode": "65232",
+        "addr:street": "Limburger Straße",
+        "addr:suburb": "Neuhof",
+        "amenity": "restaurant",
+        "beds": "54",
+        "cuisine": "regional",
+        "email": "buchung@hotel-zurburg.de",
+        "fax": "+49 6128 75160",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hotel Restaurant zur Burg",
+        "opening_hours": "Mo-Fr 07:00-10:30,18:00-21:30; Su,PH 08:00-10:30,12:00-14:30,18:00-21:30; Sa off",
+        "operator": "R. Sturm",
+        "outdoor_seating": "yes",
+        "phone": "+49 6128 977720",
+        "rooms": "28",
+        "source": "http://www.hotelzurburg.eu/",
+        "source:date": "2014-11-10",
+        "tourism": "hotel",
+        "website": "http://www.hotelzurburg.eu/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2029591339,
+      "lat": 50.1554541,
+      "lon": 8.1853365,
+      "tags": {
+        "addr:city": "Taunusstein",
+        "alt_name": "Ristorante M",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "M",
+        "opening_hours": "Mo-Fr 12:00-14:30; Tu off; Sa 18:00-22:30; Su 12:00-14:30,18:00-22:30",
+        "phone": "+49 6128 9374244",
+        "toilets:wheelchair": "no",
+        "website": "https://ristorante-m.com",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2086550396,
+      "lat": 50.1657476,
+      "lon": 8.2968037,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:housenumber": "22",
+        "addr:postcode": "65527",
+        "addr:street": "Waldstraße",
+        "addr:suburb": "Königshofen",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Schützenhaus Restaurant",
+        "opening_hours": "Tu-Fr 11:00-14:00,17:00-23:00; Sa 11:00-23:00; Su 10:00-23:00",
+        "phone": "+49 6127 967786",
+        "toilets:wheelchair": "no",
+        "website": "https://schuetzenhaus-koenigshofen.de/de",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2089402996,
+      "lat": 50.1615909,
+      "lon": 8.3051249,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "14a",
+        "addr:postcode": "65527",
+        "addr:street": "Lucas-Cranach-Straße",
+        "amenity": "pub",
+        "name": "The King's Crown - Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2095466258,
+      "lat": 50.1624386,
+      "lon": 8.3169428,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:housenumber": "1",
+        "addr:postcode": "65527",
+        "addr:street": "Freiherr-vom-Stein-Straße",
+        "amenity": "fast_food",
+        "cuisine": "kebab;turkish;pizza",
+        "name": "Antalya Pizza-Kebab-Döner-Haus",
+        "note": "Vorheriger Name: Döner Time, Geschäft wurde geschlossen und von neuem Betreiber erneut geöffnet",
+        "opening_hours": "Su-Fr 11:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2104362772,
+      "lat": 50.2946755,
+      "lon": 8.2698566,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:housenumber": "66",
+        "addr:postcode": "65520",
+        "addr:street": "Frankfurter Straße",
+        "amenity": "restaurant",
+        "name": "Frankfurter Hof",
+        "opening_hours": "Mo 17:30+; We-Su 11:30-14:00,17:30+; Tu off",
+        "operator": "Nermin Dazdarevic",
+        "phone": "+49 6434 1841",
+        "source": "http://www.frankfurterhof-badcamberg.de/; http://www.bad-camberg.info/cms/index.php/oeffnungszeiten/gastronomie/restaurants-und-gaststaetten",
+        "tourism": "guest_house",
+        "website": "http://www.frankfurterhof-badcamberg.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2190978050,
+      "lat": 50.1549335,
+      "lon": 8.1853938,
+      "tags": {
+        "addr:city": "Taunusstein",
+        "addr:housenumber": "6",
+        "addr:postcode": "65232",
+        "addr:street": "Weiherstraße",
+        "addr:suburb": "Wehen",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "fax": "+49 6128 853889",
+        "name": "Wirtshaus im Schloss",
+        "opening_hours": "Mo-Fr 16:00-01:00, Sa,Su,PH 11:00-01:00",
+        "operator": "Manfred Gärtner und Hans Niedermayer",
+        "phone": "+49 6128 853888",
+        "source": "http://www.wirtshaus-im-schloss.de/",
+        "source:date": "2014-11-11",
+        "website": "http://www.wirtshaus-im-schloss.de/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2274038023,
+      "lat": 50.2505063,
+      "lon": 8.3174967,
+      "tags": {
+        "addr:city": "Waldems",
+        "addr:housenumber": "2",
+        "addr:postcode": "65529",
+        "addr:street": "Frankfurter Straße",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "description:de": "Raucherraum; Sport-TV",
+        "name": "Da Giorgio",
+        "opening_hours": "Tu-Su 11:30-14:00,17:30-22:30",
+        "outdoor_seating": "yes",
+        "phone": "+49 6126 581648",
+        "reservation": "yes",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2324613203,
+      "lat": 50.2798709,
+      "lon": 8.207855,
+      "tags": {
+        "addr:city": "Hünstetten",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "65510",
+        "addr:street": "Wörsbachstraße",
+        "addr:suburb": "Beuerbach",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "email": "info@gasthof-gilberg.de",
+        "name": "Gaststätte Gilberg",
+        "opening_hours": "Tu-Sa 17:30+; Su 10:30-14:30,17:30+; Mo off",
+        "operator": "Magret Gilberg",
+        "phone": "+49 6438 6482",
+        "source": "http://www.gasthof-gilberg.de/",
+        "website": "http://www.gasthof-gilberg.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2324754499,
+      "lat": 50.280476,
+      "lon": 8.2103234,
+      "tags": {
+        "addr:street": "In den Gärten",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "L´evento",
+        "phone": "+49 6438 4933",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2324755557,
+      "lat": 50.2814943,
+      "lon": 8.2118026,
+      "tags": {
+        "addr:city": "Hünstetten",
+        "addr:country": "DE",
+        "addr:housenumber": "35",
+        "addr:postcode": "65510",
+        "addr:street": "Wörsbachstraße",
+        "addr:suburb": "Beuerbach",
+        "name": "Bäckerei Gibietz",
+        "shop": "bakery",
+        "website": "https://backhaus-gibietz.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2408329243,
+      "lat": 50.2968913,
+      "lon": 8.2689003,
+      "tags": {
+        "amenity": "pub",
+        "name": "Carmelo's Pizzastübchen",
+        "old_name": "Carmelo's Kleine Kneipe",
+        "opening_hours": "We-Mo 11:00-14:00,17:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2423124713,
+      "lat": 50.3027454,
+      "lon": 8.2608119,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "47",
+        "addr:postcode": "65520",
+        "addr:street": "Pommernstraße",
+        "brand": "Schäfer Dein Bäcker",
+        "brand:wikidata": "Q127417068",
+        "name": "Schäfer Dein Bäcker",
+        "shop": "bakery",
+        "website": "https://www.schaefer-dein-baecker.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2672255570,
+      "lat": 50.2637968,
+      "lon": 8.1544002,
+      "tags": {
+        "name": "Bäckerei Gibitz",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2754447351,
+      "lat": 50.2065041,
+      "lon": 8.1921893,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Krieger"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2834019801,
+      "lat": 50.2220226,
+      "lon": 8.2709833,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "65510",
+        "addr:street": "Weiherwiese",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Deli Dojo",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3029820625,
+      "lat": 50.1572636,
+      "lon": 8.3165543,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:housenumber": "43",
+        "addr:postcode": "65527",
+        "addr:street": "Wiesbadener Straße",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "email": "office@hotelrestaurantengel.de",
+        "name": "Engel Grill-Bar",
+        "opening_hours": "We-Su 17:00-22:30; Mo,Tu off",
+        "operator": "Roman Engel",
+        "phone": "+49 6127 5900",
+        "toilets:wheelchair": "no",
+        "website": "http://engel-grill-bar.de",
+        "website:menu": "http://engel-grill-bar.de/wp-content/uploads/2023/10/speisekarte_10.2023-HP.pdf",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3127888502,
+      "lat": 50.1558884,
+      "lon": 8.1850035,
+      "tags": {
+        "addr:city": "Taunusstein",
+        "addr:housenumber": "256",
+        "addr:postcode": "65232",
+        "addr:street": "Aarstraße",
+        "addr:suburb": "Wehen",
+        "amenity": "restaurant",
+        "cuisine": "polish;german",
+        "name": "Zur alten Post",
+        "opening_hours": "Mo-Sa 11:00-14:00,18:00-01:00, Su 18:00-01:00",
+        "phone": "+49 6128 6288",
+        "source": "http://zuraltenpost.eu/",
+        "source:date": "2014-11-11",
+        "tourism": "guest_house",
+        "website": "http://www.zuraltenpost.eu/",
+        "website:menu": "http://www.zuraltenpost.eu/index_htm_files/Speisekarte.pdf",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3127933843,
+      "lat": 50.2090419,
+      "lon": 8.2802242,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "70",
+        "addr:postcode": "65510",
+        "addr:street": "Seelbacher Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "info@barmondo-gmbh.de",
+        "name": "Trattoria Don Lillo",
+        "opening_hours": "Tu-Sa 18:00-23:00; Su 11:30-22:30",
+        "outdoor_seating": "yes",
+        "phone": "+49 6126 9514040",
+        "source": "local knowledge",
+        "source:date": "2019-12-31",
+        "tourism": "guest_house",
+        "website": "http://www.trattoria-donlillo.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3127933847,
+      "lat": 50.2197236,
+      "lon": 8.2714815,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "26",
+        "addr:postcode": "65510",
+        "addr:street": "Obergasse",
+        "amenity": "restaurant",
+        "email": "info@hoerhof.de",
+        "fax": "+49 6126 500-226",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Restaurant-Hotel Höerhof",
+        "opening_hours": "Mo 17:30-22:00; Tu-Sa 12:00-14:00,17:30-22:00; Su 12:00-14:00; PH 12:00-14:00,17:30-22:00",
+        "opening_hours:kitchen": "Tu-Sa 12:00-14:30,17:30-23:30",
+        "operator": "Kogge-Brockmann GmbH",
+        "outdoor_seating": "yes",
+        "phone": "+49 6126 500-26",
+        "rooms": "14",
+        "smoking": "no",
+        "source": "http://www.hoerhof.de/",
+        "source:date": "2015-04-01",
+        "stars": "4",
+        "toilets:wheelchair": "no",
+        "tourism": "hotel",
+        "website": "http://www.hoerhof.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3127944632,
+      "lat": 50.2210614,
+      "lon": 8.267843,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "27",
+        "addr:postcode": "65510",
+        "addr:street": "Rodergasse",
+        "amenity": "restaurant",
+        "contact:email": "info@zurtraube-idstein.de",
+        "contact:website": "https://www.zurtraube-idstein.de/",
+        "cuisine": "chinese",
+        "email": "hoteltraube@gmx.de",
+        "fax": "+49 6126 70667",
+        "name": "Golden Lotus",
+        "opening_hours": "Mo-Sa 11:30-15:00,18:00-23:00; Su 12:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6126 1233",
+        "source": "https://www.zurtraube-idstein.de/china-restaurant-golden-lotus/",
+        "source:date": "2017-05-30",
+        "website": "https://www.hoteltraube-idstein.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3152622122,
+      "lat": 50.2977072,
+      "lon": 8.2711926,
+      "tags": {
+        "amenity": "biergarten",
+        "email": "info@kurhaus-camberg.de",
+        "name": "Kurhaus Bad Camberg",
+        "opening_hours": "17:00+; Su 11:00+",
+        "operator": "Bosco Tomic",
+        "phone": "+49 6434 6224",
+        "source": "http://www.kurhaus-camberg.com/",
+        "website": "http://www.kurhaus-camberg.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3164291752,
+      "lat": 50.2256535,
+      "lon": 8.3797853,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "65510",
+        "addr:street": "Feldbergstraße",
+        "addr:suburb": "Kröftel",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Haus Schütz",
+        "opening_hours": "We,Fr-Su 11:30-14:00,17:00-23:00",
+        "phone": "+49 6082 2286"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3182559266,
+      "lat": 50.2581932,
+      "lon": 8.2530136,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "10",
+        "addr:postcode": "65510",
+        "addr:street": "Am Nassen Berg",
+        "addr:suburb": "Wörsdorf",
+        "amenity": "restaurant",
+        "cuisine": "german;tapas;burger",
+        "email": "restaurant@golfpark-idstein.de",
+        "fax": "+49 6126 9322-22",
+        "name": "Gut Henriettenthal",
+        "opening_hours": "Oct-Mar 12:00+; Apr-Sep 11:00+",
+        "operator": "Ines Heinz",
+        "outdoor_seating": "yes",
+        "phone": "+49 6126 9322-14",
+        "source": "http://www.golfpark-idstein.de/",
+        "source:date": "2014-11-11",
+        "website": "http://www.golfpark-idstein.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3183557642,
+      "lat": 50.2065877,
+      "lon": 8.1371407,
+      "tags": {
+        "addr:city": "Hohenstein",
+        "addr:housenumber": "33",
+        "addr:postcode": "65329",
+        "addr:street": "Scheidertalstraße",
+        "amenity": "restaurant",
+        "fixme": "position estimated",
+        "name": "Zum goldenen Löwen",
+        "operator": "Dieter Schneider",
+        "phone": "+49 6128 1496",
+        "source": "http://www.hohenstein-hessen.de/index.php?pid=97&117_id=11&117_action=mehr",
+        "source:date": "2014-11-12"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3395238667,
+      "lat": 50.2216335,
+      "lon": 8.2703409,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "65510",
+        "addr:street": "Himmelsgasse",
+        "amenity": "cafe",
+        "check_date": "2024-07-29",
+        "contact:phone": "+49 6126 57380",
+        "cuisine": "ice_cream",
+        "name": "Corso",
+        "opening_hours": "Tu-Sa 10:00+; Su 11:30+; PH 11:30+"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3395238668,
+      "lat": 50.2198768,
+      "lon": 8.2669907,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:postcode": "65510",
+        "check_date": "2025-10-22",
+        "name": "Simon",
+        "opening_hours": "Mo-Sa 06:30-13:00; Su 08:00-11:00",
+        "shop": "bakery",
+        "website": "https://baeckerei-simon.de/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3398798431,
+      "lat": 50.2680727,
+      "lon": 8.2764892,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "65510",
+        "addr:street": "Marrgrabenstraße",
+        "addr:suburb": "Walsdorf",
+        "amenity": "restaurant",
+        "biergarten": "yes",
+        "capacity": "50",
+        "contact:email": "petrathoene@t-online.de",
+        "contact:fax": "+49 6434 908966",
+        "contact:phone": "+49 6434 8520",
+        "contact:website": "http://www.bauernstube-walsdorf.de/",
+        "cuisine": "regional",
+        "delivery": "no",
+        "name": "Bauernstube",
+        "operator": "Matthias Thöne",
+        "smoking": "no",
+        "source": "http://www.bauernstube-walsdorf.de/",
+        "source:date": "2015-04-01",
+        "takeaway": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3429184547,
+      "lat": 50.1708367,
+      "lon": 8.2133389,
+      "tags": {
+        "addr:city": "Taunusstein",
+        "addr:housenumber": "2",
+        "addr:postcode": "65232",
+        "addr:street": "Ziegelhüttenweg",
+        "addr:suburb": "Neuhof",
+        "amenity": "restaurant",
+        "cuisine": "italian;german",
+        "delivery": "no",
+        "description": "Küche nur bis 14 bzw. 22 Uhr.",
+        "name": "vino e cucina",
+        "opening_hours": "Tu-Fr,Su 12:00-14:30,17:30-23:00; Sa 17:30-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6128 489398",
+        "toilets": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3429747733,
+      "lat": 50.1533103,
+      "lon": 8.1810812,
+      "tags": {
+        "addr:city": "Taunusstein",
+        "addr:housenumber": "218",
+        "addr:postcode": "65232",
+        "addr:street": "Aarstraße",
+        "addr:suburb": "Wehen",
+        "amenity": "cafe",
+        "email": "info@schrank-taunusstein.de",
+        "name": "Schrank",
+        "opening_hours": "Mo,We-Fr 08:30-18:00; Su 10:00-18:00; Sa,Tu off",
+        "phone": "+49 6128 6624; +49 6128 86661",
+        "source": "http://www.schrank-taunusstein.de/",
+        "source:date": "2015-04-01",
+        "website": "http://www.schrank-taunusstein.de/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3435495791,
+      "lat": 50.1757473,
+      "lon": 8.2187106,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "asian",
+        "name": "Asia Imbiss",
+        "opening_hours": "Mo-Fr 11:00-17:30; Sa,Su,PH off"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3435495792,
+      "lat": 50.1554413,
+      "lon": 8.1842321,
+      "tags": {
+        "addr:housenumber": "248",
+        "addr:street": "Aarstraße",
+        "amenity": "pub",
+        "name": "Pilsstube Tenne",
+        "opening_hours": "Mo-Su 16:00+",
+        "phone": "+49 6128 6116",
+        "website": "http://www.tenne-wehen.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3507269395,
+      "lat": 50.2945941,
+      "lon": 8.2540663,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:housenumber": "1a",
+        "addr:postcode": "65520",
+        "addr:street": "Beuerbacher Landstraße",
+        "brand": "Schäfer Dein Bäcker",
+        "brand:wikidata": "Q127417068",
+        "name": "Schäfer Dein Bäcker",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3586522067,
+      "lat": 50.2446954,
+      "lon": 8.1754449,
+      "tags": {
+        "addr:city": "Hünstetten",
+        "addr:housenumber": "6a",
+        "addr:street": "Hauptstraße",
+        "addr:suburb": "Limbach",
+        "amenity": "fast_food",
+        "cuisine": "schnitzel;pizza;burger;noodle",
+        "description": "Mitnahmepizzeria",
+        "name": "Da Aldo",
+        "opening_hours": "Su 15:00-22:00; Tu-Sa,PH 11:00-14:30, 17:00-22:00",
+        "outdoor_seating": "no",
+        "phone": "+49 6126 9839993",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3594182074,
+      "lat": 50.2260827,
+      "lon": 8.2654793,
+      "tags": {
+        "addr:postcode": "65510",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "name": "Saray",
+        "opening_hours": "Mo-Sa 11:30-20:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3735248244,
+      "lat": 50.2211958,
+      "lon": 8.2694912,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "65510",
+        "addr:street": "König-Adolf-Platz",
+        "amenity": "pub",
+        "email": "ampel.info@gmx.de",
+        "name": "Ampelmännchen",
+        "phone": "+49 6126 4693",
+        "smoking": "yes",
+        "website": "https://www.idstein-aktiv.de/ampelmaennchen.htm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3735248250,
+      "lat": 50.2208503,
+      "lon": 8.2702284,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "65510",
+        "addr:street": "Obergasse",
+        "amenity": "pub",
+        "check_date": "2024-07-29",
+        "name": "Struwwelpeter",
+        "opening_hours": "Tu-Th 19:00-01:00; Fr, Sa 19:00-02:00",
+        "smoking": "yes",
+        "website": "http://www.der-struwwel.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3735248251,
+      "lat": 50.2212081,
+      "lon": 8.2688387,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "65510",
+        "addr:street": "Rodergasse",
+        "amenity": "cafe",
+        "check_date": "2024-07-29",
+        "name": "süss & bitter",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su off",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "source": "http://www.suessundbitter.com/",
+        "website": "http://www.suessundbitter.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3739744790,
+      "lat": 50.2211151,
+      "lon": 8.2674516,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "3",
+        "addr:postcode": "65510",
+        "addr:street": "Limburger Straße",
+        "amenity": "fast_food",
+        "cuisine": "kebab;pizza;salad",
+        "delivery": "yes",
+        "drive_through": "no",
+        "level": "0",
+        "name": "Kebap Höhle XXL",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "website": "https://kebaphoehlexxl.de",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3739744816,
+      "lat": 50.2212912,
+      "lon": 8.269219,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "65510",
+        "addr:street": "König-Adolf-Platz",
+        "amenity": "cafe",
+        "check_date": "2024-07-29",
+        "contact:facebook": "https://www.facebook.com/baeckerei.huth",
+        "contact:phone": "+49 6126 9597535",
+        "contact:website": "http://www.baeckerei-huth.de/",
+        "cuisine": "Bäckerei Cafe",
+        "diet:vegetarian": "yes",
+        "name": "Café UNGRAD",
+        "opening_hours": "Mo-Sa 07:00-17:30; Su 08:00-17:30",
+        "operator": "Dominique & Sascha Huth",
+        "shop": "bakery",
+        "source": "http://www.baeckerei-huth.de/",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3739744818,
+      "lat": 50.2213953,
+      "lon": 8.2690765,
+      "tags": {
+        "amenity": "bar",
+        "name": "Edoardo",
+        "old_name": "Ypsilon",
+        "opening_hours": "Tu-Th 17:00-21:00, Fr-Sa 12:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3739751697,
+      "lat": 50.2210591,
+      "lon": 8.2699627,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "65510",
+        "addr:street": "Obergasse",
+        "amenity": "restaurant",
+        "check_date": "2023-10-07",
+        "contact:mobile": "+49 176 20576317",
+        "contact:phone": "+49 6126 946808",
+        "contact:website": "http://www.deutscheshaus-idstein.de/",
+        "cuisine": "spanish;greek",
+        "name": "Deutsches Haus",
+        "opening_hours": "Mo-Tu,Th-Fr 17:00-23:00; We off; Sa-Su,PH 11:30-14:30,17:00-23:00",
+        "outdoor_seating": "yes",
+        "source": "http://www.deutscheshaus-idstein.de/",
+        "source:date": "2016-10-11"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3739751701,
+      "lat": 50.2213234,
+      "lon": 8.2699352,
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:postcode": "65510",
+        "addr:street": "König-Adolf-Platz",
+        "amenity": "cafe",
+        "check_date": "2025-07-08",
+        "check_date:opening_hours": "2025-04-03",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:ssid": "Freifunk",
+        "name": "Aroma Coffee",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3739784155,
+      "lat": 50.2207606,
+      "lon": 8.2689923,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2024-07-29",
+        "contact:phone": "+49 6126 7004643",
+        "cuisine": "italian",
+        "delivery": "yes",
+        "description": "Kleine Bistrorante mit einer offenen Außenterrasse auf Idstein's Marktplatz",
+        "name": "Bistrorante Peperoncino",
+        "opening_hours": "Mo-Sa 10:00-22:00; Su 12:00-21:00",
+        "outdoor_seating": "yes",
+        "reservation": "yes",
+        "smoking": "outside",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3739784191,
+      "lat": 50.2205154,
+      "lon": 8.2695708,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "65510",
+        "addr:street": "Löherplatz",
+        "amenity": "restaurant",
+        "contact:email": "reservierung@zeitlos-idstein.de",
+        "contact:phone": "+49 6126 53449",
+        "contact:website": "http://www.zeitlos-idstein.de",
+        "name": "Zeitlos",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "outdoor_seating": "yes",
+        "sport": "10pin",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3741686547,
+      "lat": 50.2173185,
+      "lon": 8.2785828,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "65510",
+        "addr:street": "Himmelsbornweg",
+        "amenity": "restaurant",
+        "contact:email": "info@twoforyou-idstein.de",
+        "contact:mobile": "+49 172 66 183 44",
+        "contact:website": "https://heimspielrestaurant.de",
+        "cuisine": "african",
+        "email": "info@twoforyou-idstein.de",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Heimspiel",
+        "opening_hours": "We-Th 17:00-23:00; Fr-Su 17:00-23:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+49 6126 7002506",
+        "smoking": "outside",
+        "source": "https://twoforyou-idstein.de/",
+        "website": "https://heimspielrestaurant.de",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3744840185,
+      "lat": 50.2179764,
+      "lon": 8.2674108,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "65510",
+        "addr:street": "Veitenmühlweg",
+        "amenity": "pub",
+        "email": "info@alt-kalesch.de",
+        "name": "Alt Kalesch",
+        "opening_hours": "Mo-Fr 16:00+; Sa 18:00+; Su off",
+        "operator": "Angelika Gruber",
+        "outdoor_seating": "yes",
+        "phone": "+49 6126 5058733",
+        "source": "http://www.alt-kalesch.de/",
+        "source:date": "2016-10-11",
+        "toilets:wheelchair": "no",
+        "website": "http://www.alt-kalesch.de/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3810039707,
+      "lat": 50.2071005,
+      "lon": 8.2579001,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "4",
+        "addr:postcode": "65510",
+        "addr:street": "Am Wörtzgarten",
+        "amenity": "fast_food",
+        "cuisine": "sausage;fries",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "Wurstteufel",
+        "opening_hours": "Apr-Oct: Mo-Su 11:30-19:30",
+        "operator": "Wurstteufel GmbH",
+        "takeaway": "yes",
+        "website": "https://www.wurstteufel.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4181879970,
+      "lat": 50.1547283,
+      "lon": 8.1862013,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "kebab;pizza",
+        "name": "Anadolu 2",
+        "opening_hours": "Mo-Fr 10:30-22:00; Sa,Su,PH 11:30-22:00",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4247760044,
+      "lat": 50.2004999,
+      "lon": 8.3806099,
+      "tags": {
+        "addr:city": "Glashütten",
+        "addr:country": "DE",
+        "addr:housenumber": "42",
+        "addr:postcode": "61479",
+        "addr:street": "Weiherstraße",
+        "addr:suburb": "Schloßborn",
+        "check_date": "2025-09-29",
+        "contact:phone": "+49 6174 62562",
+        "name": "Bäckerei Heck",
+        "opening_hours": "Mo-Fr 06:00-18:30; Sa 06:00-13:00; Su 07:00-13:00",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4387463017,
+      "lat": 50.2212676,
+      "lon": 8.2693618,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "65510",
+        "addr:street": "König-Adolf-Platz",
+        "amenity": "cafe",
+        "contact:phone": "+49 6126 1280",
+        "internet_access": "wlan",
+        "internet_access:ssid": "Freifunk",
+        "name": "Café zum Löwen",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4444509738,
+      "lat": 50.2252182,
+      "lon": 8.2656759,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "51",
+        "addr:postcode": "65510",
+        "addr:street": "Limburger Straße",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Orchidee",
+        "opening_hours": "Mo-Sa 11:30-15:00,17:30-23:00; Su 11:30-22:00",
+        "phone": "+49 6126 9579991",
+        "source": "http://www.thairestaurant-idstein.de/",
+        "website": "http://www.thairestaurant-idstein.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4614322732,
+      "lat": 50.2093412,
+      "lon": 8.2584713,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "65510",
+        "addr:street": "Richard-Klinger-Straße",
+        "amenity": "restaurant",
+        "delivery": "no",
+        "fast_food": "cafeteria",
+        "name": "Kasino Black&Decker",
+        "opening_hours": "Mo-Fr 11:30-14:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6126 227488",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4777961338,
+      "lat": 50.1994895,
+      "lon": 8.381485,
+      "tags": {
+        "addr:city": "Glashütten",
+        "addr:housenumber": "24",
+        "addr:postcode": "61479",
+        "addr:street": "Weiherstraße",
+        "addr:suburb": "Schloßborn",
+        "amenity": "restaurant",
+        "check_date": "2025-09-29",
+        "cuisine": "pizza",
+        "disused:name": "Pizzeria Toni",
+        "disused:opening_hours": "Tu-Th 11:30-14:00,17:00-22:00; Fr,Sa 11:30-14:00,17:00-22:30; Su 11:30-22:00; Mo 17:00-22:00",
+        "name": "Pizzeria Toni",
+        "opening_hours": "Mo,We-Su 17:00-22:00; Tu off",
+        "phone": "+49 6174 9469992"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4800506807,
+      "lat": 50.298326,
+      "lon": 8.2714978,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:housenumber": "2",
+        "addr:postcode": "65520",
+        "addr:street": "Hirtengasse",
+        "amenity": "ice_cream",
+        "name": "Eiscafe Camastro",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6434 3855087",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5075911350,
+      "lat": 50.2172093,
+      "lon": 8.2628667,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "58",
+        "addr:postcode": "65510",
+        "addr:street": "Wiesbadener Straße",
+        "brand": "Die Lohner's",
+        "brand:wikidata": "Q105688772",
+        "name": "Die Lohner's",
+        "opening_hours": "Mo-Sa 08:00-21:00, Su 08:00-11:00",
+        "operator": "Achim Lohner GmbH & Co. KG",
+        "shop": "bakery",
+        "website": "https://www.die-lohners.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5291564095,
+      "lat": 50.2974212,
+      "lon": 8.2682499,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "65520",
+        "addr:street": "Strackgasse",
+        "amenity": "restaurant",
+        "name": "Altstadtkeller",
+        "opening_hours": "Tu-Su 11:30-14:00,17:30-21:30",
+        "phone": "+49 6434 6262",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5291564096,
+      "lat": 50.2975069,
+      "lon": 8.2682861,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "65520",
+        "addr:street": "Strackgasse",
+        "amenity": "pub",
+        "name": "Berti's Pilsstübchen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5291564098,
+      "lat": 50.2976859,
+      "lon": 8.2687059,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:street": "Strackgasse",
+        "name": "Wenz",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5318506712,
+      "lat": 50.2257162,
+      "lon": 8.2016668,
+      "tags": {
+        "name": "döner61",
+        "shop": "deli",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5366450560,
+      "lat": 50.2478241,
+      "lon": 8.2589789,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:postcode": "65510",
+        "addr:street": "Walsdorfer Straße",
+        "name": "Bäckerei Huth",
+        "opening_hours": "Mo-Sa 07:00-21:30; Su 07:00-11:00",
+        "shop": "bakery",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5457568318,
+      "lat": 50.2977913,
+      "lon": 8.267342,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "65520",
+        "addr:street": "Kirchgasse",
+        "amenity": "bar",
+        "name": "Weincafé am Kirchplatz",
+        "opening_hours": "Tu-Th 18:00-22:00; Fr 18:00-23:00; Sa 17:00-23:00",
+        "operator": "Christine Traut-Biadatz",
+        "phone": "+49 6434 9078750",
+        "website": "https://www.weincafe-badcamberg.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5849546999,
+      "lat": 50.1511784,
+      "lon": 8.2045631,
+      "tags": {
+        "amenity": "fast_food",
+        "contact:email": "leosburgerandbroiler@cmail.com",
+        "contact:facebook": "https://www.facebook.com/LeosBurgerandBroiler/",
+        "contact:phone": "+49 6128 2019200",
+        "cuisine": "american",
+        "name": "Leo's Burger and Broiler",
+        "opening_hours": "Mo-Fr 11:30-14:30,17:30-22:00; We off; Sa 17:00-22:00; Su 11:30-22:00",
+        "operator": "Ciulia Fiusco",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6166385485,
+      "lat": 50.2959863,
+      "lon": 8.2563501,
+      "tags": {
+        "addr:housenumber": "55",
+        "addr:street": "Bahnhofstraße",
+        "amenity": "restaurant",
+        "name": "Camberger",
+        "opening_hours": "Tu-Su 09:30-22:30",
+        "phone": "+49 6434 9309393",
+        "website": "https://camberger-restaurant.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6329241065,
+      "lat": 50.1617306,
+      "lon": 8.3166364,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:housenumber": "6",
+        "addr:postcode": "65527",
+        "addr:street": "Idsteiner Straße",
+        "amenity": "restaurant",
+        "name": "Zum Bierkieser",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6651353752,
+      "lat": 50.1506571,
+      "lon": 8.3285041,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:housenumber": "10-12",
+        "addr:postcode": "65527",
+        "addr:street": "Frankfurter Straße",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "delivery": "no",
+        "diet:vegetarian": "yes",
+        "level": "0",
+        "microbrewery": "no",
+        "name": "Thai Chili",
+        "outdoor_seating": "yes",
+        "phone": "+49 6127 6759205",
+        "reservation": "yes",
+        "takeaway": "yes",
+        "website": "https://thai-chili.eatbu.com",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6651353753,
+      "lat": 50.1505662,
+      "lon": 8.3288915,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:housenumber": "10-12",
+        "addr:postcode": "65527",
+        "addr:street": "Frankfurter Straße",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Piccola Roma",
+        "website": "http://piccola-roma-niedernhausen.de"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6657525699,
+      "lat": 50.1680752,
+      "lon": 8.3173083,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:housenumber": "28",
+        "addr:postcode": "65527",
+        "addr:street": "Lenzhahner Weg",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "Bodega Don Carlos",
+        "opening_hours": "18:00-01:00; Tu off",
+        "outdoor_seating": "yes",
+        "website": "https://bodega-don-carlos-tapasbar-restaurant.eatbu.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6657525700,
+      "lat": 50.1526245,
+      "lon": 8.3254544,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:housenumber": "2",
+        "addr:postcode": "65527",
+        "addr:street": "Frankfurter Straße",
+        "amenity": "restaurant",
+        "cuisine": "turkish",
+        "name": "King of Kebap",
+        "phone": "+49 6127 7003821",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7003218862,
+      "lat": 50.1619667,
+      "lon": 8.3180771,
+      "tags": {
+        "check_date:opening_hours": "2025-11-20",
+        "name": "die Mühlenbäcker",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su 07:00-11:00",
+        "shop": "bakery",
+        "website": "https://www.die-muehlenbaecker.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7036906189,
+      "lat": 50.1621722,
+      "lon": 8.3153851,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:housenumber": "7a",
+        "addr:postcode": "65527",
+        "addr:street": "Idsteiner Straße",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "name": "Döner-Haus Niedernhausen",
+        "opening_hours": "Mo-Fr 11:00-21:30; Su 12:00-21:30; PH 12:00-21:30",
+        "phone": "+49 6127 6758953"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7058322300,
+      "lat": 50.2844829,
+      "lon": 8.2756956,
+      "tags": {
+        "amenity": "pub",
+        "name": "Gemeindezentrum Würges",
+        "opening_hours": "Tu-Sa 17:00-24:00; Su 10:00-14:00, 17:00-24:00",
+        "operator": "Gemeinde Bad Camberg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8048537535,
+      "lat": 50.2256707,
+      "lon": 8.264701,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:postcode": "65510",
+        "brand": "Die Lohner's",
+        "brand:wikidata": "Q105688772",
+        "brand:wikipedia": "de:Achim Lohner",
+        "name": "Die Lohner's",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "operator": "Achim Lohner GmbH & Co. KG",
+        "shop": "bakery",
+        "website": "https://die-lohners.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8569317284,
+      "lat": 50.2206364,
+      "lon": 8.2699124,
+      "tags": {
+        "amenity": "bar",
+        "name": "Casablanca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8577009486,
+      "lat": 50.1623129,
+      "lon": 8.3176521,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Mangia e Bevi",
+        "old_name": "Ratskeller",
+        "opening_hours": "Mo 09:00-15:30,17:30-22:00; Tu off; We-Fr 09:00-15:30,17:30-22:00; Sa-Su 10:00-15:00,17:30-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9124409758,
+      "lat": 50.1746387,
+      "lon": 8.3658364,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2025-11-25",
+        "cuisine": "italian",
+        "name": "Altes Spritzenhaus",
+        "opening_hours": "We-Mo 17:00-21:00; Tu off",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "phone": "+49 6198 5885952",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9155793251,
+      "lat": 50.1519173,
+      "lon": 8.1988887,
+      "tags": {
+        "addr:city": "Taunusstein",
+        "addr:postcode": "65232",
+        "addr:suburb": "Wehen",
+        "name": "Bäckerei Driess",
+        "opening_hours": "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 07:30-12:00",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9155808112,
+      "lat": 50.1552415,
+      "lon": 8.1841218,
+      "tags": {
+        "addr:city": "Taunusstein",
+        "name": "Bäckerei Schäfer",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-11:30",
+        "phone": "+49 6128 858955",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10069170368,
+      "lat": 50.2272519,
+      "lon": 8.2020757,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Pizzeria Görsroth"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10142798070,
+      "lat": 50.1620021,
+      "lon": 8.3160524,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Bosko Cafe",
+        "opening_hours": "Tu-Sa 10:00-17:00; Su 12:00-18:00",
+        "phone": "+49 6127 9161346",
+        "website": "https://bosko-cafe-niedernhausen.eatbu.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10156404328,
+      "lat": 50.3010476,
+      "lon": 8.2369424,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10212268730,
+      "lat": 50.2480659,
+      "lon": 8.2583542,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "8",
+        "addr:postcode": "65510",
+        "addr:street": "Walsdorfer Straße",
+        "addr:suburb": "Wörsdorf",
+        "amenity": "cafe",
+        "cuisine": "ice_cream;italian;sandwich",
+        "name": "PuntoGusto",
+        "opening_hours": "Mo-Fr 09:00-17:30",
+        "origin": "italian",
+        "website": "https://puntogusto.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10237551871,
+      "lat": 50.2491813,
+      "lon": 8.1954208,
+      "tags": {
+        "name": "Bäckerei Heck",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10292016039,
+      "lat": 50.1695115,
+      "lon": 8.307319,
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "98",
+        "addr:postcode": "65527",
+        "addr:street": "Idsteiner Straße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Firenze",
+        "opening_hours": "12:00-14:30,17:30-22:00; Tu off",
+        "website": "https://ristorante-firenze-niedernhausen.eatbu.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10745138391,
+      "lat": 50.2217792,
+      "lon": 8.2710517,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Sportbistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10795903426,
+      "lat": 50.2215459,
+      "lon": 8.2686713,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Felsenkeller"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10914472692,
+      "lat": 50.2981907,
+      "lon": 8.2698524,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:street": "Marktplatz",
+        "amenity": "cafe",
+        "name": "Café Kuss",
+        "opening_hours": "Th-Sa 09:00-17:00; Su 10:00-17:00",
+        "outdoor_seating": "yes",
+        "website": "https://www.cafekuss.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10916643181,
+      "lat": 50.2225726,
+      "lon": 8.4063232,
+      "tags": {
+        "name": "Die Mühlenbäcker",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+49 6174 619925",
+        "shop": "bakery",
+        "website": "https://www.die-muehlenbaecker.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11001930245,
+      "lat": 50.2197388,
+      "lon": 8.2677292,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "2",
+        "addr:postcode": "65510",
+        "addr:street": "Veitenmühlweg",
+        "amenity": "restaurant",
+        "cuisine": "mittagstisch",
+        "delivery": "no",
+        "drive_through": "no",
+        "fast_food": "cafeteria",
+        "name": "Obst & Gemüse G. Zauzig u. D. Korput",
+        "opening_hours": "Mo-Fr 09:00-15:00",
+        "phone": "+496126 9590138",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11014180369,
+      "lat": 50.2857096,
+      "lon": 8.2775809,
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:housenumber": "126a",
+        "addr:postcode": "65520",
+        "addr:street": "Frankfurter Straße",
+        "addr:suburb": "Würges",
+        "brand": "Schäfer Dein Bäcker",
+        "brand:wikidata": "Q127417068",
+        "name": "Schäfer Dein Bäcker",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:00-16:00; Su 08:00-16:00",
+        "phone": "+49 6434 4028423",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11033309313,
+      "lat": 50.2568395,
+      "lon": 8.2544016,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "cake;getränke",
+        "name": "Halfway House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11668938470,
+      "lat": 50.1389382,
+      "lon": 8.3042706,
+      "tags": {
+        "name": "Die Mühlenbäcker",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su 07:00-11:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+49 6127 703210",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11949617344,
+      "lat": 50.2213912,
+      "lon": 8.2681882,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Kapadokya doner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11993128872,
+      "lat": 50.2485352,
+      "lon": 8.3102927,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Schnitzelhaus",
+        "phone": "+49 6126 9574744",
+        "website": "https://www.schnitzelhausesch.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12080915116,
+      "lat": 50.2216795,
+      "lon": 8.2711591,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2024-07-29",
+        "email": "info@tasteofindia-idstein.de",
+        "name": "Taste Of India",
+        "opening_hours": "11:00-22:00",
+        "phone": "+49 6126 9577070",
+        "website": "https://www.tasteofindiaidstein.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12092833071,
+      "lat": 50.2197277,
+      "lon": 8.2676757,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-10-22",
+        "description": "Mittagstisch bis 1h vor Schließung",
+        "email": "kaucich@leckerschmecker-gastromanagement.de",
+        "name": "Barmondo",
+        "opening_hours": "Mo-Th 11:00-16:00; Fr 11:00-15:00; Sa-Su off",
+        "phone": "+49 1578 3747039"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12273149820,
+      "lat": 50.1555676,
+      "lon": 8.1851012,
+      "tags": {
+        "addr:city": "Taunusstein",
+        "addr:housenumber": "245",
+        "addr:postcode": "65232",
+        "addr:street": "Aarstraße",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop;cake",
+        "name": "Manufactur Rösterei am Taunus",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6128 9716446"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12581616935,
+      "lat": 50.1553761,
+      "lon": 8.1840325,
+      "tags": {
+        "addr:city": "Taunusstein",
+        "addr:country": "DE",
+        "addr:housenumber": "246",
+        "addr:postcode": "65232",
+        "addr:street": "Aarstraße",
+        "addr:suburb": "Wehen",
+        "amenity": "fast_food",
+        "contact:phone": "+49 6128 2017715",
+        "contact:website": "https://okame-sushi.restaurant-king.de/",
+        "cuisine": "japanese;sushi",
+        "delivery": "yes",
+        "indoor_seating": "yes",
+        "name": "Okame Sushi",
+        "opening_hours": "Tu-Th 11:30-21:00; Fr 11:30-21:30; Sa 14:30-21:30; Su 14:30-21:00",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12647405601,
+      "lat": 50.1989803,
+      "lon": 8.2579451,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Bruzzelstubb Gio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12759721025,
+      "lat": 50.2254264,
+      "lon": 8.2627804,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Cafè Schloßpark"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12785240359,
+      "lat": 50.3010704,
+      "lon": 8.2369986,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Segafredo",
+        "brand:wikidata": "Q21282762",
+        "cuisine": "coffee_shop",
+        "name": "Segafredo",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12785240361,
+      "lat": 50.2992392,
+      "lon": 8.2351515,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Coffee Fellows",
+        "brand:wikidata": "Q23461429",
+        "cuisine": "coffee_shop",
+        "name": "Coffee Fellows",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12988100505,
+      "lat": 50.22218,
+      "lon": 8.2704004,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2025-07-08",
+        "cuisine": "asian",
+        "name": "Vina Tada",
+        "phone": "+49 6126 2298739"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12988100506,
+      "lat": 50.2219283,
+      "lon": 8.2691861,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-08-31",
+        "description": "Weinprobierstand - Bei Regen oder Unwetter geschlossen.",
+        "drink:wine": "yes",
+        "name": "Christian Faust",
+        "opening_hours": "Apr-Sep: Th-Sa 17:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13103464058,
+      "lat": 50.1532464,
+      "lon": 8.3503321,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Kastanienhof"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13110477363,
+      "lat": 50.2208663,
+      "lon": 8.26807,
+      "tags": {
+        "name": "Mamma Lupi",
+        "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-14:00",
+        "shop": "deli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13119025801,
+      "lat": 50.160345,
+      "lon": 8.315252,
+      "tags": {
+        "amenity": "biergarten",
+        "name": "3eck Pilsstube"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13249897219,
+      "lat": 50.2167184,
+      "lon": 8.2583084,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2025-10-22",
+        "name": "Gasthof zur Ziegelhütte",
+        "opening_hours": "Mo-Tu,Th-Sa 17:00-21:00; We off; Su 11:30-14:30,17:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+49 6126 9527146",
+        "website": "https://www.ziegelhuette-idstein.de"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13249897220,
+      "lat": 50.2199528,
+      "lon": 8.2671084,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2025-10-22",
+        "name": "Cafe Ma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13432981585,
+      "lat": 50.1992527,
+      "lon": 8.2574485,
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "7",
+        "addr:postcode": "65510",
+        "addr:street": "Am Frauwald",
+        "amenity": "cafe",
+        "cuisine": "breakfast;coffee_shop;cake;pastry",
+        "delivery": "yes",
+        "email": "emmyscake.idstein@gmail.com",
+        "name": "Auftragskonditorei und Café Emmys Cake",
+        "outdoor_seating": "no",
+        "phone": "+49 1626054388",
+        "toilets": "yes",
+        "website": "https://www.emmyscake-idstein.de/",
+        "website:menu": "https://emmyscake-idstein.de/wp-content/uploads/2025/09/MenueKaffee_250905.pdf"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14297647126,
+      "lat": 50.1356381,
+      "lon": 8.3002137,
+      "tags": {
+        "addr:city": "Wiesbaden",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "65207",
+        "addr:street": "Obergasse",
+        "cafe": "yes",
+        "contact:instagram": "https://www.instagram.com/petite.violette.baeckerei.cafe",
+        "diet:lactose_free": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drink:coffee": "yes",
+        "indoor_seating": "yes",
+        "name": "Petite Violette",
+        "opening_hours": "Mo-Fr 06:00-17:00; Sa 06:00-13:00",
+        "phone": "+49 6127 700 2415",
+        "shop": "bakery",
+        "website": "https://petite-violette-baeckerei-and-cafe.jimdosite.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14323829501,
+      "lat": 50.3088708,
+      "lon": 8.2549234,
+      "tags": {
+        "addr:housenumber": "161",
+        "addr:postcode": "65520",
+        "addr:street": "Limburger Straße",
+        "amenity": "cafe",
+        "cuisine": "breakfast;coffee_shop;ice_cream",
+        "email": "kontakt@sellinis.de",
+        "name": "Sellinis Café und Eisparadies",
+        "opening_hours": "Do 18:00-21:30; Fr 09:00-13:30, 18:00-21:30; Sa 09:00-17:00; So 14:00-18:00",
+        "phone": "06434 2103586",
+        "website": "https://www.sellinis.de/",
+        "website:menu": "https://www.sellinis.de/datei/speisekarte"
+      }
+    },
+    {
+      "type": "way",
+      "id": 41174927,
+      "center": {
+        "lat": 50.1557861,
+        "lon": 8.1857567
+      },
+      "tags": {
+        "addr:city": "Taunusstein",
+        "addr:housenumber": "1",
+        "addr:postcode": "65232",
+        "addr:street": "Weiherstraße",
+        "addr:suburb": "Wehen",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "ice_cream",
+        "name": "Eiscafe Venezia",
+        "opening_hours": "Feb-Nov 10:00-22:00",
+        "phone": "+49 6128 6154",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 49800775,
+      "center": {
+        "lat": 50.1606604,
+        "lon": 8.3116731
+      },
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:housenumber": "7",
+        "addr:postcode": "65527",
+        "addr:street": "Ilfelder Platz",
+        "amenity": "fast_food",
+        "building": "public",
+        "building:levels": "1",
+        "cuisine": "kebab",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "indoor_seating": "yes",
+        "name": "Kebap Höhle",
+        "opening_hours": "11:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6127 903649",
+        "roof:levels": "0",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 51528524,
+      "center": {
+        "lat": 50.2359916,
+        "lon": 8.3122263
+      },
+      "tags": {
+        "addr:city": "Waldems",
+        "addr:country": "DE",
+        "addr:housenumber": "28",
+        "addr:postcode": "65529",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "croatian;german",
+        "name": "Bermbacher Stübchen",
+        "old_name": "Restaurant Saloniki",
+        "opening_hours": "Mo - Su 17:00-22:00, Su 11:00-14:30, Tu closed",
+        "outdoor_seating": "yes",
+        "phone": "+49 6126 2299355",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52008053,
+      "center": {
+        "lat": 50.2216264,
+        "lon": 8.2700381
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "65510",
+        "addr:street": "Himmelsgasse",
+        "amenity": "restaurant",
+        "building": "yes",
+        "check_date": "2025-07-08",
+        "cuisine": "german;regional",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Zur Peif",
+        "opening_hours": "Th-Tu 17:00-01:00, Sa,Su,PH 17:00-18:00 off",
+        "outdoor_seating": "no",
+        "phone": "+49 6126 57357",
+        "source": "http://www.gasthof-zur-peif.de/",
+        "website": "http://www.gasthof-zur-peif.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52008070,
+      "center": {
+        "lat": 50.2213829,
+        "lon": 8.2702032
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "65510",
+        "addr:street": "König-Adolf-Platz",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:fax": "+49 6126 91352",
+        "contact:phone": "+49 6126 3111",
+        "contact:website": "http://www.taunushof.com/",
+        "internet_access": "wlan",
+        "internet_access:ssid": "Freifunk",
+        "name": "Taunushof",
+        "opening_hours": "Mo-Su 11:30-14:30,17:30-22:00; Th off",
+        "operator": "Familie Scheibe",
+        "outdoor_seating": "yes",
+        "source": "http://www.taunushof.com/",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52009282,
+      "center": {
+        "lat": 50.2218921,
+        "lon": 8.268043
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housename": "\"Alte Feuerwache\"",
+        "addr:housenumber": "6",
+        "addr:postcode": "65510",
+        "addr:street": "Schulgasse",
+        "amenity": "restaurant",
+        "biergarten": "yes",
+        "building": "yes",
+        "check_date": "2025-10-22",
+        "craft": "brewery",
+        "description": "Durchgehend warme Küche bis 22:00 Uhr. Biergarten.",
+        "email": "info@brauhaus-alte-feuerwache.de",
+        "fax": "+49 6126 224212",
+        "historic": "building",
+        "microbrewery": "yes",
+        "name": "Idsteiner Brauhaus",
+        "opening_hours": "Mo-Tu off; We-Sa 12:00-22:30; Su 12:00-21:00",
+        "operator": "Idsteiner Brauhaus GmbH",
+        "phone": "+49 6126 958112",
+        "source": "http://www.brauhaus-alte-feuerwache.de/",
+        "source:date": "2016-10-11",
+        "website": "http://www.brauhaus-alte-feuerwache.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52010700,
+      "center": {
+        "lat": 50.2216475,
+        "lon": 8.2686374
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "65510",
+        "addr:street": "Schulgasse",
+        "amenity": "restaurant",
+        "building": "yes",
+        "fax": "+49 6126 9311-193",
+        "name": "Hotel Restaurant Felsenkeller",
+        "operator": "Lars Kochendörfer",
+        "phone": "+49 6126 9311-0",
+        "rooms": "28",
+        "source": "http://www.hotel-felsenkeller-idstein.de/",
+        "source:date": "2015-04-01",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "website": "http://www.hotel-felsenkeller-idstein.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52010767,
+      "center": {
+        "lat": 50.2208959,
+        "lon": 8.2691627
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Bistorante Peperoncino"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52132240,
+      "center": {
+        "lat": 50.2207839,
+        "lon": 8.2680847
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "34",
+        "addr:postcode": "65510",
+        "addr:street": "Schulze-Delitzsch-Straße",
+        "amenity": "cafe",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:ssid": "Freifunk",
+        "name": "Ohlers Kaffeewelt",
+        "opening_hours": "Mo-Sa 09:00-17:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52194574,
+      "center": {
+        "lat": 50.2207537,
+        "lon": 8.2701123
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "65510",
+        "addr:street": "Obergasse",
+        "amenity": "restaurant",
+        "building": "yes",
+        "check_date": "2025-08-31",
+        "contact:email": "schwanen-idstein@t-online.de",
+        "contact:phone": "+49 6126 9573954",
+        "contact:website": "https://www.zumschwanen-idstein.de/",
+        "cuisine": "german",
+        "name": "Zum Schwanen",
+        "opening_hours": "Tu-Sa 17:00-22:00; PH 11:30-14:00,17:00-21:00; Su,Mo off",
+        "source": "https://www.zumschwanen-idstein.de/",
+        "source:date": "2017-05-30"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52202617,
+      "center": {
+        "lat": 50.2213859,
+        "lon": 8.2707919
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "65510",
+        "addr:street": "Borngasse",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:facebook": "twoforyou.idstein",
+        "contact:fax": "+49 911 30844-66007",
+        "contact:instagram": "twoforyou.idstein",
+        "contact:phone": "+49 6126 8074",
+        "contact:website": "https://twoforyou-idstein.de/",
+        "cuisine": "tapas",
+        "name": "Two for You",
+        "opening_hours": "Tu-Th 17:00-22:00; Fr 11:30-15:00,17:00-23:00; Sa 11:30-23:00; Su 11:30-22:00; Mo off",
+        "outdoor_seating": "patio",
+        "source": "https://twoforyou-idstein.de/",
+        "source:date": "2025-08-31"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52287722,
+      "center": {
+        "lat": 50.2215616,
+        "lon": 8.2713035
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "65510",
+        "addr:street": "Weiherwiese",
+        "amenity": "restaurant",
+        "building": "yes",
+        "check_date": "2024-07-29",
+        "cuisine": "mexican",
+        "name": "La Cazuela",
+        "opening_hours": "Mo,Su off; Tu-Th 17:30-22:00; Fr-Sa 17:30-23:00",
+        "outdoor_seating": "sidewalk",
+        "phone": "+49 6126 956251",
+        "website": "https://www.cazuela-idstein.de"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52719160,
+      "center": {
+        "lat": 50.2247372,
+        "lon": 8.2813934
+      },
+      "tags": {
+        "addr:housenumber": "26",
+        "addr:street": "Konrad-Adenauer-Straße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Ristorante Pizzeria San Remo",
+        "opening_hours": "Tu-Fr 11:30-14:30,17:00-22:30; Sa,Su 11:30-22:30",
+        "outdoor_seating": "yes",
+        "phone": "+49 6126 953211",
+        "website": "https://pizzeria-san-remo-idstein.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52875490,
+      "center": {
+        "lat": 50.2179467,
+        "lon": 8.2636375
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "47",
+        "addr:postcode": "65510",
+        "addr:street": "Wiesbadener Straße",
+        "building": "apartments",
+        "building:levels": "2",
+        "name": "Brot Fenster",
+        "opening_hours": "Tu-Fr 14:30-18:30",
+        "roof:levels": "1",
+        "roof:shape": "gabled",
+        "shop": "bakery",
+        "source": "local_knowledge",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52875608,
+      "center": {
+        "lat": 50.2176505,
+        "lon": 8.264496
+      },
+      "tags": {
+        "addr:housenumber": "48",
+        "addr:street": "Wiesbadener Straße",
+        "brand": "Schäfer Dein Bäcker",
+        "brand:wikidata": "Q127417068",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2024-07-29",
+        "name": "Schäfer Dein Bäcker",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:00-17:00; PH,Su 08:00-17:00",
+        "outdoor_seating": "yes",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "way",
+      "id": 59232881,
+      "center": {
+        "lat": 50.2126923,
+        "lon": 8.2394783
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "6",
+        "addr:postcode": "65510",
+        "addr:street": "Am Dorfbrunnen",
+        "addr:suburb": "Oberauroff",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "german",
+        "email": "service@hotelkern.de",
+        "fax": "+49 6126 71164",
+        "internet_access": "yes",
+        "name": "Hotel Restaurant Gasthof Kern",
+        "opening_hours": "Mo,We-Sa 18:00-21:30; Su 12:00-14:00, 17:30-21:00",
+        "operator": "Hotel Kern GbR",
+        "phone": "+49 6126 8474",
+        "rooms": "22",
+        "source": "http://www.hotelkern.de/",
+        "source:date": "2014-11-10",
+        "tourism": "hotel",
+        "website": "http://www.hotelkern.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 88120423,
+      "center": {
+        "lat": 50.2955678,
+        "lon": 8.2832078
+      },
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "29",
+        "addr:postcode": "65520",
+        "addr:street": "Robert-Koch-Straße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "german",
+        "name": "St. Georg",
+        "opening_hours": "17:00+; Sa,Su,PH 11:00+; Tu off"
+      }
+    },
+    {
+      "type": "way",
+      "id": 89226752,
+      "center": {
+        "lat": 50.2476814,
+        "lon": 8.1937326
+      },
+      "tags": {
+        "addr:city": "Hünstetten",
+        "addr:housenumber": "18",
+        "addr:postcode": "65510",
+        "addr:street": "Auf der Langwies",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Tennishalle Wallbach"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123799765,
+      "center": {
+        "lat": 50.2616281,
+        "lon": 8.2190822
+      },
+      "tags": {
+        "addr:city": "Hünstetten",
+        "addr:housenumber": "32",
+        "addr:postcode": "65510",
+        "addr:street": "Am Forsthaus",
+        "addr:suburb": "Wallrabenstein",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "international",
+        "description": "(Am Sportplatz)",
+        "email": "zumschwarzenhahn@hotmail.de",
+        "name": "Zum Schwarzen Hahn",
+        "opening_hours": "Mo-Fr 17:30-23:00; Sa 16:00-22:00; Su,PH 11:00-22:00; We off",
+        "operator": "Özcan Öner",
+        "outdoor_seating": "yes",
+        "phone": "+49 6126 956096",
+        "source": "http://www.zumschwarzenhahn.eu/",
+        "source:date": "2014-11-11",
+        "website": "http://www.zumschwarzenhahn.eu/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123799766,
+      "center": {
+        "lat": 50.2605653,
+        "lon": 8.2226117
+      },
+      "tags": {
+        "addr:housenumber": "27",
+        "addr:street": "Am Forsthaus",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Reiterhof Conny"
+      }
+    },
+    {
+      "type": "way",
+      "id": 124656493,
+      "center": {
+        "lat": 50.2446024,
+        "lon": 8.1736571
+      },
+      "tags": {
+        "addr:city": "Hünstetten",
+        "addr:housenumber": "1",
+        "addr:postcode": "65510",
+        "addr:street": "Bruchweg",
+        "addr:suburb": "Limbach",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "schnitzel;italian;pizza",
+        "email": "info@zum-adler-limbach.de",
+        "name": "Zum Adler",
+        "opening_hours": "Mo 17:30-21:00;Tu,We,Th 17:30-22:00;Fr,Sa 17:30-23:00;Su 10:30-14:00,17:30-22:00",
+        "phone": "+49 6126 56363",
+        "source": "http://www.zum-adler-limbach.de/",
+        "source:date": "2014-11-11",
+        "tourism": "guest_house",
+        "website": "http://www.zum-adler-limbach.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136393966,
+      "center": {
+        "lat": 50.2621867,
+        "lon": 8.2636101
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:postcode": "65510",
+        "addr:street": "Am Nassen Berg",
+        "addr:suburb": "Wörsdorf",
+        "amenity": "restaurant",
+        "building": "yes",
+        "email": "nordkurs@golfpark-idstein.de",
+        "fax": "+49 6126 9322-33",
+        "name": "Bistro-Pavillon im Golfpark Idstein",
+        "outdoor_seating": "yes",
+        "phone": "+49 6126 9322-0",
+        "source": "http://www.golfpark-idstein.de/",
+        "website": "http://www.golfpark-idstein.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136529259,
+      "center": {
+        "lat": 50.2690383,
+        "lon": 8.2933008
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "1",
+        "addr:place": "Morcher Mühle",
+        "addr:postcode": "65510",
+        "addr:suburb": "Walsdorf",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "description": "Landgasthof. Durchgehend warme Küche. Sonntags Brunch 10:30-15:00.",
+        "email": "mail@morcher-muehle.de",
+        "fax": "+49 6434 920657",
+        "horse": "yes",
+        "name": "Morcher Mühle",
+        "opening_hours": "Tu-Sa 17:00-22:00; Su 11:30-22:00; Mo off",
+        "operator": "Marc-Oliver Kettenbach",
+        "outdoor_seating": "yes",
+        "phone": "+49 6434 3520",
+        "rooms": "3",
+        "source": "http://www.morcher-muehle.de/",
+        "source:date": "2014-11-10",
+        "tourism": "guest_house",
+        "website": "http://www.morcher-muehle.de/",
+        "website:menu": "https://www.morcher-muehle.de/landgasthof-fremdenzimmer/speisekarte.php"
+      }
+    },
+    {
+      "type": "way",
+      "id": 137061432,
+      "center": {
+        "lat": 50.2501588,
+        "lon": 8.3143139
+      },
+      "tags": {
+        "addr:city": "Waldems",
+        "addr:housenumber": "23",
+        "addr:postcode": "65529",
+        "addr:street": "Schwalbacher Straße",
+        "addr:suburb": "Esch",
+        "building": "yes",
+        "name": "Bäckerei Ries",
+        "opening_hours": "Tu-Fr 06:00-13:00,14:30-18:00; Sa 06:00-12:30; PH closed",
+        "payment:cash": "yes",
+        "shop": "bakery",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 137321367,
+      "center": {
+        "lat": 50.2817547,
+        "lon": 8.2751392
+      },
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:housenumber": "73",
+        "addr:postcode": "65520",
+        "addr:street": "Schulstraße",
+        "addr:suburb": "Würges",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza;italian",
+        "delivery": "yes",
+        "name": "Trattoria Da Grifo und Familie",
+        "opening_hours": "Tu-Su 11:30-14:30,17:30-23:00; Mo off",
+        "phone": "+49 6434 9089886",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 137326239,
+      "center": {
+        "lat": 50.2836305,
+        "lon": 8.2788557
+      },
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:housenumber": "146",
+        "addr:postcode": "65520",
+        "addr:street": "Frankfurter Straße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "capacity": "10",
+        "contact:mobile": "+49 177 2456516;+49 178 4792372",
+        "cuisine": "pizza;italian",
+        "delivery": "yes",
+        "description": "Kleine Pizzeria",
+        "fax": "+49 6434 901740",
+        "name": "Pizzeria Bacco",
+        "opening_hours": "Mo-Su 11:30-14:00,17:00-22:30",
+        "operator": "Baldev Singh",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 6434 4100",
+        "smoking": "outside",
+        "source": "http://www.pizzeriabacco.de/",
+        "source:date": "2014-11-10",
+        "takeaway": "yes",
+        "website": "http://www.pizzeriabacco.de/",
+        "website:menu": "http://www.pizzeriabacco.de/speisekarte-bacco.pdf",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 137350730,
+      "center": {
+        "lat": 50.2961959,
+        "lon": 8.2701376
+      },
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "65520",
+        "addr:street": "Burgstraße",
+        "amenity": "ice_cream",
+        "building": "yes",
+        "name": "Phil's Ice Cream",
+        "opening_hours": "\"Derzeit geschlossen\"",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 137354935,
+      "center": {
+        "lat": 50.3002263,
+        "lon": 8.2703418
+      },
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "65520",
+        "addr:street": "Peter-Cathrein-Straße",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Die Kneipp"
+      }
+    },
+    {
+      "type": "way",
+      "id": 146396355,
+      "center": {
+        "lat": 50.2957836,
+        "lon": 8.2527272
+      },
+      "tags": {
+        "addr:housenumber": "4A",
+        "addr:postcode": "65520",
+        "addr:street": "Beuerbacher Landstraße",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "commercial",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Fr 00:00-00:30,09:00-24:00; Sa-Su 00:00-01:00,09:00-24:00",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 166095411,
+      "center": {
+        "lat": 50.2179318,
+        "lon": 8.2578135
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:housenumber": "3",
+        "addr:postcode": "65510",
+        "addr:street": "Am Bahnhof",
+        "brand": "Schäfer Dein Bäcker",
+        "brand:wikidata": "Q127417068",
+        "building": "construction",
+        "height": "4",
+        "name": "Schäfer Dein Bäcker",
+        "opening_hours": "Mo-Sa 06:00-20:00, Su,PH 08:00-16:00",
+        "operator": "Schäfer Dein Bäcker GmbH & Co. KG",
+        "phone": "+49 6126 5058751",
+        "roof:shape": "flat",
+        "shop": "bakery",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 195075180,
+      "center": {
+        "lat": 50.2172808,
+        "lon": 8.2544881
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "65510",
+        "addr:street": "Auroffer Straße",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "commercial",
+        "contact:phone": "+49 6126 953238",
+        "contact:website": "https://www.mcdonalds.de/restaurant?url=idstein-auroffer-str-2&/de",
+        "cuisine": "burger",
+        "delivery": "no",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "operator": "Kiefer Systemgastronomie e.K.",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 195078388,
+      "center": {
+        "lat": 50.2185566,
+        "lon": 8.2561588
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "71",
+        "addr:postcode": "65510",
+        "addr:street": "Wiesbadener Straße",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "building": "commercial",
+        "cuisine": "burger",
+        "diet:vegan": "yes",
+        "name": "Burger King",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 195078396,
+      "center": {
+        "lat": 50.2178366,
+        "lon": 8.2536423
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "65510",
+        "addr:street": "Auroffer Straße",
+        "amenity": "restaurant",
+        "biergarten": "yes",
+        "building": "yes",
+        "cuisine": "italian",
+        "email": "info@peperoncino-ristorante.de",
+        "name": "Peperoncino Ristorante",
+        "opening_hours": "Tu-Su 11:30-14:30,17:30-22:00",
+        "phone": "+49 6126 5049377",
+        "website": "https://www.peperoncino-ristorante.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 199252469,
+      "center": {
+        "lat": 50.1604103,
+        "lon": 8.315295
+      },
+      "tags": {
+        "amenity": "pub",
+        "building": "public",
+        "check_date": "2024-07-05",
+        "name": "Dreieck Pilsstube"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218081485,
+      "center": {
+        "lat": 50.1648234,
+        "lon": 8.3237304
+      },
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "59",
+        "addr:postcode": "65527",
+        "addr:street": "Zur Steinritz",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "italian",
+        "name": "La Stella",
+        "phone": "+49 6127 9999 766",
+        "website": "https://www.la-stella-niedernhausen.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 244127527,
+      "center": {
+        "lat": 50.1706019,
+        "lon": 8.2201784
+      },
+      "tags": {
+        "addr:city": "Taunusstein",
+        "addr:country": "DE",
+        "addr:postcode": "65232",
+        "addr:street": "Auf dem kleinen Feld",
+        "addr:suburb": "Neuhof",
+        "building": "yes",
+        "name": "Schäfer",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 265230199,
+      "center": {
+        "lat": 50.2369097,
+        "lon": 8.4006521
+      },
+      "tags": {
+        "addr:city": "Glashütten",
+        "addr:housenumber": "18",
+        "addr:postcode": "61479",
+        "addr:street": "Frankfurter Straße",
+        "addr:suburb": "Oberems",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "building": "yes",
+        "email": "hotel@zdhs.de",
+        "fax": "+49 6082 3391",
+        "indoor_seating": "yes",
+        "loc_name": "Deutsches Haus",
+        "name": "Zum Deutschen Haus",
+        "opening_hours": "Tu 17:00+; We-Fr 11:00-14:00,17:00-24:00; Sa,Su,PH 11:00-24:00; Mo off",
+        "operator": "Roland Seel",
+        "outdoor_seating": "yes",
+        "phone": "+49 6082 3103",
+        "phone:mobile": "+49 171 4277177",
+        "source": "http://www.zdhs.de/",
+        "toilets:wheelchair": "no",
+        "tourism": "hotel;apartment;chalet",
+        "website": "http://www.zdhs.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 294814244,
+      "center": {
+        "lat": 50.2833175,
+        "lon": 8.2788205
+      },
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "148",
+        "addr:postcode": "65520",
+        "addr:street": "Frankfurter Straße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "1",
+        "capacity": "100",
+        "cuisine": "german;pizza;international;pasta;pakistani",
+        "delivery": "yes",
+        "description": "Seit 1996 bin ich Inhaber des Restaurants \"Zum Schwarzen Ross\".Zusammen mit meinem erfahrenen Team biete ich Ihnen ein großes Angebot an Speisen deutscher und italienischer Küche sowie internationale Spezialitäten an.",
+        "description_2": "Lieferung frei Haus nach Bad Camberg, Würges und Walsdorf",
+        "fax": "+49 6434 903233",
+        "name": "Zum schwarzen Roß",
+        "note": "Lieferung frei Haus nach Bad Camberg, Würges und Walsdorf Mindestbestellung ab 9,- € : Dombach, Wallrabenstein, Esch, Oberselters, Erbach 13,- € : Niederselters, Steinfischbach, Beuerbach, Bermbach, Schwickershausen, Wörsdorf 15,- € : Eisenbach, Reiche",
+        "opening_hours": "Mo-Su 11:00-14:00,17:30-22:30",
+        "operator": "Jani Hussain Karamat",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "payment:mastercard": "yes",
+        "phone": "+49 6434 8424",
+        "smoking": "outside",
+        "source": "http://www.zum-schwarzen-ross-bad-camberg.de/",
+        "source:date": "2014-11-11",
+        "takeaway": "yes",
+        "website": "http://www.zum-schwarzen-ross-bad-camberg.de",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 332403627,
+      "center": {
+        "lat": 50.2224356,
+        "lon": 8.2680576
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "65510",
+        "addr:street": "Am Hexenturm",
+        "amenity": "restaurant",
+        "building": "yes",
+        "check_date": "2025-10-22",
+        "cuisine": "burger;international;mediterranean",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "email": "info@ambach-idstein.de",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Ambach",
+        "note": "Küche: Mo,We-Sa 17:30-22:00, Fr 11:30-14:30; Tu,PH off; Su 16:00-21:00",
+        "opening_hours": "Mo,We-Th 17:30-24:00; Tu,PH off; Fr 11:30-14:30,17:30-01:00; Sa 17:30-01:00; Su 16:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 6126 7002927",
+        "reservation": "yes",
+        "source": "http://www.ambach-idstein.de/",
+        "source:date": "2017-10-05",
+        "source:opening_hours": "Speisekarte",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.ambach-idstein.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 343033691,
+      "center": {
+        "lat": 50.1357225,
+        "lon": 8.3022298
+      },
+      "tags": {
+        "addr:city": "Wiesbaden",
+        "addr:postcode": "65207",
+        "amenity": "bar",
+        "building": "house",
+        "name": "Zum Röschen",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368452651,
+      "center": {
+        "lat": 50.1686512,
+        "lon": 8.3345807
+      },
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "65527",
+        "addr:street": "Niederjosbacher Straße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Gasthaus zum kühlen Grund",
+        "opening_hours": "Th-Sa 17:00-22:00",
+        "website": "https://www.zumkuehlengrund.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368926426,
+      "center": {
+        "lat": 50.1706018,
+        "lon": 8.3365197
+      },
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "65527",
+        "addr:street": "Am Alten Rathaus",
+        "building": "residential",
+        "name": "Bäckerei Bohrmann",
+        "opening_hours": "Mo-We 06:30-12:30; Th,Fr 06:30-12:30; Sa 07:00-12:00; Su 08:00-11:00",
+        "phone": "+49 6127 703557",
+        "shop": "bakery",
+        "website": "https://www.landbaeckerei-bohrmann.de",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 368926427,
+      "center": {
+        "lat": 50.1704339,
+        "lon": 8.3364587
+      },
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "65527",
+        "addr:street": "Limburger Straße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:mobile": "+49 176 23234536",
+        "cuisine": "german;croatian",
+        "email": "info@gasthaus-lindenkopf.de",
+        "fax": "+49 6127 918882",
+        "name": "Gasthaus zum Lindenkopf",
+        "operator": "Ivica Jokic",
+        "phone": "+49 6127 7059321",
+        "source": "http://www.gasthaus-lindenkopf.de/",
+        "source:date": "2015-02-09",
+        "tourism": "guest_house",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 369439749,
+      "center": {
+        "lat": 50.221812,
+        "lon": 8.2702762
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "65510",
+        "addr:street": "Himmelsgasse",
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "building": "yes",
+        "check_date": "2025-04-03",
+        "check_date:diet:vegan": "2025-04-03",
+        "check_date:diet:vegetarian": "2025-04-03",
+        "check_date:smoking": "2025-04-03",
+        "cuisine": "italian",
+        "description": "Kartenzahlung ab 20€",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "email": "info@lafattoria-idstein.de",
+        "indoor_seating": "yes",
+        "name": "La Fattoria",
+        "opening_hours": "Mo off; Tu-Su 12:00-15:00,18:00-23:00",
+        "operator": "Salvatore Montana",
+        "outdoor_seating": "pedestrian_zone",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+49 6126 4534",
+        "smoking": "outside",
+        "source": "http://www.lafattoria-idstein.de/",
+        "start_date": "1979",
+        "website": "http://www.lafattoria-idstein.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 370472017,
+      "center": {
+        "lat": 50.218162,
+        "lon": 8.2883144
+      },
+      "tags": {
+        "addr:city": "Idstein",
+        "addr:country": "DE",
+        "addr:housenumber": "70",
+        "addr:postcode": "65510",
+        "addr:street": "Schützenhausstraße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "check_date": "2024-07-29",
+        "cuisine": "\"außer Donnerstags\" schnitzel; \"Nur Donnerstags\" burger; pizza",
+        "name": "Ponyhof",
+        "opening_hours": "Mo-Tu off; We-Sa 17:00-22:00; Su 11:30-21:00",
+        "operator": "Oliver Lindner",
+        "outdoor_seating": "yes",
+        "phone": "+49 6126 54258",
+        "source": "http://www.restaurant-ponyhof-idstein.de/",
+        "source:date": "2014-11-10",
+        "website": "http://www.restaurant-ponyhof-idstein.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 466071326,
+      "center": {
+        "lat": 50.1709558,
+        "lon": 8.2097892
+      },
+      "tags": {
+        "addr:city": "Taunusstein",
+        "addr:country": "DE",
+        "addr:housenumber": "45",
+        "addr:postcode": "65232",
+        "addr:street": "Limburger Straße",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Pizzeria Portobello",
+        "opening_hours": "Tu-Sa 11:00-14:00,17:00-22:00; Su 17:00+",
+        "phone": "+49 6128 73104"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550233762,
+      "center": {
+        "lat": 50.1765766,
+        "lon": 8.284195
+      },
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:housenumber": "1a",
+        "addr:postcode": "65527",
+        "addr:street": "Am Heideborn",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "name": "Sportheim Niederseelbach",
+        "phone": "+49 6127 1811"
+      }
+    },
+    {
+      "type": "way",
+      "id": 553810402,
+      "center": {
+        "lat": 50.2672594,
+        "lon": 8.2332903
+      },
+      "tags": {
+        "addr:city": "Hünstetten",
+        "addr:housenumber": "4",
+        "addr:postcode": "65510",
+        "addr:street": "Lindenplatz",
+        "addr:suburb": "Wallrabenstein",
+        "amenity": "restaurant",
+        "building": "yes",
+        "check_date": "2026-09-22",
+        "name": "Restaurant La Laguna"
+      }
+    },
+    {
+      "type": "way",
+      "id": 680657712,
+      "center": {
+        "lat": 50.2678228,
+        "lon": 8.2336081
+      },
+      "tags": {
+        "addr:city": "Hünstetten",
+        "addr:housenumber": "4",
+        "addr:postcode": "65510",
+        "addr:street": "Beuerbacher Weg",
+        "addr:suburb": "Wallrabenstein",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza;italian;mediterranean",
+        "name": "Peperoncino Hünstetten",
+        "outdoor_seating": "no",
+        "phone": "+49 6126 2293637",
+        "website": "https://peperoncino-huenstetten.de"
+      }
+    },
+    {
+      "type": "way",
+      "id": 779273787,
+      "center": {
+        "lat": 50.1760601,
+        "lon": 8.3442335
+      },
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:postcode": "65527",
+        "addr:suburb": "Oberjosbach",
+        "amenity": "pub",
+        "building": "yes",
+        "description": "Öffnungszeiten wechselnd; Stand 08/20\nIm Wochenendgebiet am östlichen Ortsrand; nur zu Fuß erreichbar.",
+        "name": "Apfelwein-Straußwirtschaft Schindtriescher Hütte",
+        "opening_hours": "Sa,Su 12:00-20:00",
+        "phone": "+49 6127 929595",
+        "website": "https://www.strausswirtschaft-oberjosbach.de"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1120995992,
+      "center": {
+        "lat": 50.2070767,
+        "lon": 8.2546794
+      },
+      "tags": {
+        "addr:housenumber": "16",
+        "addr:street": "Am Wörtzgarten",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "thai",
+        "drive_through": "no",
+        "name": "Little Thai",
+        "opening_hours": "Mo-Sa 12:00-20:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 1520 3273835"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1160702696,
+      "center": {
+        "lat": 50.2983526,
+        "lon": 8.2697765
+      },
+      "tags": {
+        "addr:city": "Bad Camberg",
+        "addr:country": "DE",
+        "addr:housenumber": "13",
+        "addr:postcode": "65520",
+        "addr:street": "Marktplatz",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "international;pizza;italian",
+        "name": "Sankt Josefshaus",
+        "opening_hours": "Mo-Su 11:30-14:30,17:00-22:00; Tu off",
+        "phone": "+49 6434 9041525",
+        "website": "https://st-josefshaus-badcamberg.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1376069596,
+      "center": {
+        "lat": 50.1468843,
+        "lon": 8.3291181
+      },
+      "tags": {
+        "access": "customers",
+        "amenity": "restaurant",
+        "breakfast": "yes",
+        "capacity": "300",
+        "dinner": "yes",
+        "indoor_seating": "yes",
+        "level": "-1",
+        "level:ref": "UG",
+        "lunch": "yes",
+        "name": "Gaumenfreund",
+        "opening_hours": "Mo-Fr 06:30-10:30, 12:00-15:00, 18:00-22:30; Sa,Su 06:30-11:00, 12:00-15:00, 18:00-22:30",
+        "outdoor_seating": "yes",
+        "website:menu": "https://www.h-hotels.com/_Resources/Persistent/c/f/a/8/cfa8442216369b57e27c4ca57075188d2a9bdea5/speisekarte-allgemein-hplus-hotel-2024.pdf",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1482873211,
+      "center": {
+        "lat": 50.1535609,
+        "lon": 8.3244573
+      },
+      "tags": {
+        "addr:city": "Niedernhausen",
+        "addr:housenumber": "1a",
+        "addr:postcode": "65527",
+        "addr:street": "Frankfurter Straße",
+        "brand": "Schäfer Dein Bäcker",
+        "brand:wikidata": "Q127417068",
+        "building": "yes",
+        "name": "Schäfer Dein Bäcker",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 14744942,
+      "center": {
+        "lat": 50.2461393,
+        "lon": 8.187524
+      },
+      "tags": {
+        "addr:city": "Hünstetten",
+        "addr:housenumber": "1",
+        "addr:postcode": "65510",
+        "addr:street": "Hühnerkirche",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Hühnerkirche",
+        "phone": "+4961268321",
+        "place": "isolated_dwelling",
+        "type": "building",
+        "wheelchair": "no",
+        "wikidata": "Q1652174",
+        "wikipedia": "de:Hühnerkirche"
+      }
+    }
+  ]
+}

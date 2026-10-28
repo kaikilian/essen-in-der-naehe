@@ -1,0 +1,7 @@
+# Verzeichnisschutz. Die .htpasswd legt man am einfachsten über den
+# Verzeichnisschutz im Alfahosting-Kundenmenü an - der erzeugt beide Dateien
+# und trägt den richtigen absoluten Pfad unten ein.
+AuthType Basic
+AuthName "PLZ-Wuensche"
+AuthUserFile /absoluter/pfad/zu/.htpasswd
+Require valid-user

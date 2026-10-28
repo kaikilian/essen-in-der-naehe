@@ -1,0 +1,326 @@
+{
+  "_hinweis": "Von Hand gepflegte Korrekturen. \"eintraege\" zeigt auf OSM-IDs, \"zusaetzlich\" sind Lokale, die OpenStreetMap nicht kennt. Angaben bitte bei Gelegenheit auf den Seiten der Betriebe gegenprüfen.",
+  "eintraege": {
+    "node/30088308": {
+      "name": "AnDi – Asian Restaurant",
+      "hinweis": "Keine Kartenzahlung"
+    },
+    "node/6564521347": {
+      "name": "Moon Kitchen",
+      "hinweis": "Täglich durchgehend geöffnet"
+    },
+    "node/1860257331": {
+      "name": "Viva Pizza"
+    },
+    "node/25186140": {
+      "name": "Restaurant am TCR",
+      "hinweis": "Im Tennisclub Rüppurr"
+    },
+    "way/240164533": {
+      "name": "Extrem anders",
+      "hinweis": "Spielberg, bekannt für Cordon bleu"
+    }
+  },
+  "zusaetzlich": [
+    {
+      "name": "Schwitzer’s Gourmet",
+      "kueche": "Fine Dining",
+      "gruppe": "Gehoben",
+      "ort": "Waldbronn-Reichenbach",
+      "tel": "07243 354850",
+      "url": "https://www.schwitzers.de/",
+      "ruhetag": "Mo, Di, So",
+      "hinweis": "Nur 16 Plätze, Menü, reservieren",
+      "liefert": false,
+      "km": 0
+    },
+    {
+      "name": "Fricke-Bäck",
+      "kueche": "Bäckerei-Café",
+      "gruppe": "Café, Eis & Bäckerei",
+      "ort": "Waldbronn-Reichenbach",
+      "tel": "07243 61510",
+      "url": "http://www.fricke-baeck.de/",
+      "ruhetag": "Mo, Di",
+      "hinweis": "Reichenbach",
+      "liefert": false,
+      "km": 0
+    },
+    {
+      "name": "Schwitzer’s Pur",
+      "kueche": "Gehoben",
+      "gruppe": "Gehoben",
+      "ort": "Waldbronn-Reichenbach",
+      "tel": "07243 354850",
+      "url": "https://www.schwitzers.de/",
+      "ruhetag": "Mi, Do",
+      "hinweis": "",
+      "liefert": false,
+      "km": 0
+    },
+    {
+      "name": "Geflügelhof Denninger",
+      "kueche": "Hofladen, Frühstück",
+      "gruppe": "Café, Eis & Bäckerei",
+      "ort": "Karlsbad-Mutschelbach",
+      "tel": "07202 9421546",
+      "url": "https://www.gefluegelhof-denninger.de/",
+      "ruhetag": "Mo–Mi, So",
+      "hinweis": "Nur Do bis Sa geöffnet",
+      "liefert": false,
+      "km": 2
+    },
+    {
+      "name": "Sportsbar Triangel",
+      "kueche": "Deutsch",
+      "gruppe": "Deutsch & Badisch",
+      "ort": "Karlsbad-Langensteinbach",
+      "tel": "07202 3031",
+      "url": "",
+      "ruhetag": "Mo, Di",
+      "hinweis": "Schnitzel, Sport, Billard",
+      "liefert": false,
+      "km": 2.5
+    },
+    {
+      "name": "Tiny’s House",
+      "kueche": "Thai und Italienisch",
+      "gruppe": "Italienisch & Pizza",
+      "ort": "Ettlingen-Spessart",
+      "tel": "07243 7662073",
+      "url": "https://www.tinyshouse.de/",
+      "ruhetag": "Sa, So",
+      "hinweis": "Nur Mittagstisch 11.30–13.30 Uhr",
+      "liefert": false,
+      "km": 2.8
+    },
+    {
+      "name": "Restaurant Minoan",
+      "kueche": "Griechisch",
+      "gruppe": "Griechisch & Mediterran",
+      "ort": "Ettlingen",
+      "tel": "07243 7404944",
+      "url": "http://www.restaurant-minoan.de/",
+      "ruhetag": "",
+      "hinweis": "Im Sportpark, Terrasse mit Blick",
+      "liefert": false,
+      "km": 5.3
+    },
+    {
+      "name": "Beef Republic",
+      "kueche": "BBQ, Steak",
+      "gruppe": "Steak, Grill & BBQ",
+      "ort": "Karlsbad-Ittersbach",
+      "tel": "0173 6832961",
+      "url": "https://www.beef-republic.de/",
+      "ruhetag": "Mo",
+      "hinweis": "Ittersbach",
+      "liefert": false,
+      "km": 5.3
+    },
+    {
+      "name": "Essenz",
+      "kueche": "Modern",
+      "gruppe": "Gehoben",
+      "ort": "Ettlingen",
+      "tel": "07243 725680",
+      "url": "",
+      "ruhetag": "Mo, So",
+      "hinweis": "Australischer Küchenchef",
+      "liefert": false,
+      "km": 5.3
+    },
+    {
+      "name": "Romè Pizza",
+      "kueche": "Pizza, Pasta",
+      "gruppe": "Italienisch & Pizza",
+      "ort": "Ettlingen",
+      "tel": "07243 7404961",
+      "url": "",
+      "ruhetag": "Mo",
+      "hinweis": "Auch Sandwiches",
+      "liefert": true,
+      "km": 5.3
+    },
+    {
+      "name": "Ronja’s Kebaphaus",
+      "kueche": "Türkisch, Pizza",
+      "gruppe": "Türkisch & Kebap",
+      "ort": "Ettlingen",
+      "tel": "07243 9492083",
+      "url": "",
+      "ruhetag": "",
+      "hinweis": "",
+      "liefert": true,
+      "km": 5.3
+    },
+    {
+      "name": "EXTREM PIZZA",
+      "kueche": "Pizza",
+      "gruppe": "Italienisch & Pizza",
+      "ort": "Ettlingen",
+      "tel": "07243 9388606",
+      "url": "https://extrempizza.de/",
+      "ruhetag": "Mo",
+      "hinweis": "Pizza nach Wunsch zusammenstellen",
+      "liefert": true,
+      "km": 5.3
+    },
+    {
+      "name": "Meister Grill",
+      "kueche": "Imbiss, Grill",
+      "gruppe": "Imbiss & Grill",
+      "ort": "Ettlingen",
+      "tel": "0178 6061274",
+      "url": "",
+      "ruhetag": "So",
+      "hinweis": "Huttenkreuzstraße",
+      "liefert": false,
+      "km": 5.3
+    },
+    {
+      "name": "Partyservice M. Nagel",
+      "kueche": "Catering",
+      "gruppe": "Sonstiges",
+      "ort": "Marxzell",
+      "tel": "07248 5813",
+      "url": "http://www.nagels-partyservice.de/",
+      "ruhetag": "",
+      "hinweis": "Nur auf Vorbestellung",
+      "liefert": false,
+      "km": 5.4
+    },
+    {
+      "name": "Nittaya’s Thai Pfanne",
+      "kueche": "Thai",
+      "gruppe": "Asiatisch",
+      "ort": "Ettlingen-Schöllbronn",
+      "tel": "0175 1809999",
+      "url": "",
+      "ruhetag": "Mo–Do, So",
+      "hinweis": "Nur Fr und Sa mittags, vorbestellen",
+      "liefert": false,
+      "km": 5.8
+    },
+    {
+      "name": "Farkas Gaststätte",
+      "kueche": "Ungarisch",
+      "gruppe": "Osteuropäisch",
+      "ort": "Marxzell-Pfaffenrot",
+      "tel": "07248 5123",
+      "url": "http://farkasgaststatte.eatbu.com/",
+      "ruhetag": "Mo",
+      "hinweis": "Pfaffenrot",
+      "liefert": false,
+      "km": 6.7
+    },
+    {
+      "name": "Gasthaus Zum Laub",
+      "kueche": "Deutsch",
+      "gruppe": "Deutsch & Badisch",
+      "ort": "Pfinztal-Wöschbach",
+      "tel": "0721 469499",
+      "url": "https://www.zumlaub.de/",
+      "ruhetag": "Mo",
+      "hinweis": "Gasthaus seit dem Jahr 1500",
+      "liefert": false,
+      "km": 6.8
+    },
+    {
+      "name": "Pizzeria da Domenica",
+      "kueche": "Pizza",
+      "gruppe": "Italienisch & Pizza",
+      "ort": "Ettlingen-Bruchhausen",
+      "tel": "07243 9623",
+      "url": "https://dadomenica.de/",
+      "ruhetag": "Mo",
+      "hinweis": "Im Tennisclub Bruchhausen",
+      "liefert": false,
+      "km": 6.9
+    },
+    {
+      "name": "Waldklause Bruchhausen",
+      "kueche": "Deutsch",
+      "gruppe": "Deutsch & Badisch",
+      "ort": "Ettlingen-Bruchhausen",
+      "tel": "07243 91015",
+      "url": "",
+      "ruhetag": "Mo",
+      "hinweis": "",
+      "liefert": false,
+      "km": 6.9
+    },
+    {
+      "name": "Esskultur Ettlingenweier",
+      "kueche": "Deutsch",
+      "gruppe": "Deutsch & Badisch",
+      "ort": "Ettlingenweier",
+      "tel": "",
+      "url": "",
+      "ruhetag": "Mo",
+      "hinweis": "Schnitzel frisch geklopft",
+      "liefert": false,
+      "km": 7
+    },
+    {
+      "name": "Böckels Beste",
+      "kueche": "Imbiss, Grill",
+      "gruppe": "Imbiss & Grill",
+      "ort": "Ettlingen-West",
+      "tel": "",
+      "url": "https://boeckels-beste.de/",
+      "ruhetag": "So",
+      "hinweis": "Ettlingen-West, Hertzstraße",
+      "liefert": false,
+      "km": 7.1
+    },
+    {
+      "name": "Restaurant Vogelpark",
+      "kueche": "Kroatisch, Balkan",
+      "gruppe": "Osteuropäisch",
+      "ort": "Pfinztal",
+      "tel": "0721 79197248",
+      "url": "",
+      "ruhetag": "Di, Mi",
+      "hinweis": "",
+      "liefert": false,
+      "km": 7.1
+    },
+    {
+      "name": "Zum Elsternest",
+      "kueche": "Ungarisch",
+      "gruppe": "Osteuropäisch",
+      "ort": "Karlsruhe-Rüppurr",
+      "tel": "0721 883413",
+      "url": "",
+      "ruhetag": "Mo, Di",
+      "hinweis": "Spielplatz für Kinder",
+      "liefert": false,
+      "km": 7.6
+    },
+    {
+      "name": "Restaurant Alte Post",
+      "kueche": "Griechisch",
+      "gruppe": "Griechisch & Mediterran",
+      "ort": "Karlsruhe-Rüppurr",
+      "tel": "0721 98961995",
+      "url": "",
+      "ruhetag": "Mo",
+      "hinweis": "",
+      "liefert": false,
+      "km": 7.6
+    },
+    {
+      "name": "Kühners Wirtshaus",
+      "kueche": "Bayrisch",
+      "gruppe": "Deutsch & Badisch",
+      "ort": "Karlsruhe-Rüppurr",
+      "tel": "0721 572657",
+      "url": "",
+      "ruhetag": "Do",
+      "hinweis": "",
+      "liefert": false,
+      "km": 7.6
+    }
+  ]
+}

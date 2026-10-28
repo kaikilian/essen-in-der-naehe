@@ -1,0 +1,28 @@
+{
+  "76337": {
+    "label": "Waldbronn",
+    "mitte": [
+      48.9231,
+      8.4753
+    ],
+    "radius": 8000,
+    "bundesland": "Baden-Württemberg",
+    "intro": "im Umkreis von Waldbronn-Reichenbach. Spaltenkopf antippen zum Sortieren.",
+    "kmnote": "Entfernung ist Luftlinie ab Waldbronn-Reichenbach, keine Fahrzeit — im Albtal fährt man deutlich länger, als sie vermuten lässt.",
+    "veroeffentlicht": true,
+    "reihenfolge": 1
+  },
+  "65510": {
+    "label": "Idstein",
+    "mitte": [
+      50.2214,
+      8.2697
+    ],
+    "radius": 10000,
+    "bundesland": "Hessen",
+    "intro": "in Idstein, den Ortsteilen und den Nachbargemeinden. Spaltenkopf antippen zum Sortieren.",
+    "kmnote": "Entfernung ist Luftlinie ab dem König-Adolf-Platz, keine Fahrzeit — im Taunus weichen beide spürbar voneinander ab.",
+    "veroeffentlicht": true,
+    "reihenfolge": 2
+  }
+}

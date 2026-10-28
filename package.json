@@ -1,0 +1,16 @@
+{
+  "name": "essen-in-der-naehe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Erzeugt aus OpenStreetMap statische Seiten mit Lokalen rund um eine Postleitzahl.",
+  "license": "MIT",
+  "scripts": {
+    "hole": "node generator/hole.js",
+    "bau": "node generator/bau.js",
+    "alles": "node generator/hole.js && node generator/bau.js"
+  },
+  "dependencies": {
+    "opening_hours": "3.9.0"
+  },
+  "engines": { "node": ">=20" }
+}

@@ -1,0 +1,28 @@
+{
+  "_hinweis": "Vorlage zum Kopieren. Dateiname ist die PLZ, also z. B. 65183.json",
+  "eintraege": {
+    "node/0000000000": {
+      "name": "So soll es heißen",
+      "kueche": "Italienisch, Pizza",
+      "gruppe": "Italienisch & Pizza",
+      "hinweis": "Was man wissen sollte",
+      "note": 4
+    },
+    "way/0000000001": { "loeschen": true, "warum": "gibt es nicht mehr" },
+    "node/0000000002": { "dublette_von": "node/0000000000" }
+  },
+  "zusaetzlich": [
+    {
+      "name": "Kennt OpenStreetMap nicht",
+      "kueche": "Deutsch",
+      "gruppe": "Deutsch & Badisch",
+      "ort": "Musterdorf",
+      "tel": "01234 56789",
+      "url": "https://example.de/",
+      "ruhetag": "Mo, Di",
+      "hinweis": "",
+      "liefert": false,
+      "km": 4.2
+    }
+  ]
+}

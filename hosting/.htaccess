@@ -1,0 +1,9 @@
+# HTTPS erzwingen
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+# Die Wunschliste ist nicht fürs Publikum
+<Files "anfragen.json">
+  Require all denied
+</Files>

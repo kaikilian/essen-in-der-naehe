@@ -1,0 +1,5851 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-28T12:25:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 24958688,
+      "lat": 48.8648803,
+      "lon": 8.4951836,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:housename": "Waldgaststätte",
+        "addr:housenumber": "2",
+        "addr:postcode": "76307",
+        "addr:street": "Am Sportplatz",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Waldgaststätte Schützenhaus",
+        "opening_hours": "Mo-Tu 16:00-22:00; Fr 16:00-22:00; Sa-Su 11:00-21:30",
+        "phone": "+49 7248 450156",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.albtal-tourismus.de/gastronomie/restaurant-waldgaststaette-schuetzenhaus-5afacfba00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 24969583,
+      "lat": 48.9102635,
+      "lon": 8.4653337,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "42",
+        "addr:postcode": "76337",
+        "addr:street": "Hohbergstraße",
+        "addr:suburb": "Etzenrot",
+        "amenity": "restaurant",
+        "contact:fax": "+49 7243 572749",
+        "contact:phone": "+49 7243 572747",
+        "contact:website": "http://www.hirsch-etzenrot.de/",
+        "cuisine": "german",
+        "diet:vegetarian": "yes",
+        "name": "Hirsch",
+        "opening_hours": "Th 19:00-24:00, Fr,Sa 19:00-01:00, Su 17:00-22:00",
+        "operator": "Martin Steigert",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 25186140,
+      "lat": 48.9679044,
+      "lon": 8.4118915,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:housenumber": "36",
+        "addr:postcode": "76199",
+        "addr:street": "Tulpenstraße",
+        "amenity": "restaurant",
+        "contact:email": "tcr-restaurant@web.de",
+        "contact:facebook": "https://www.facebook.com/Restaurant.am.TCR",
+        "contact:phone": "+49 721 85143155",
+        "contact:website": "https://tcr-restaurant.de",
+        "cuisine": "mediterranean;regional",
+        "diet:vegetarian": "yes",
+        "name": "TCR Restaurant",
+        "opening_hours": "Tu-Su 17:00-22:00, Su 12:00-14:30; Mo off",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "yes",
+        "reservation": "yes",
+        "website": "https://www.tcr.de/Restaurant",
+        "website:menu": "https://tcr-restaurant.de/speisekarte/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 25508380,
+      "lat": 48.9525046,
+      "lon": 8.5181549,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:housenumber": "3",
+        "addr:postcode": "76228",
+        "addr:street": "Zum Sportzentrum",
+        "addr:suburb": "Stupferich",
+        "amenity": "restaurant",
+        "contact:email": "reservierung@aubrac-restaurant.de",
+        "contact:facebook": "http://facebook.com/aubrac.stupferich",
+        "contact:instagram": "https://www.instagram.com/aubrac.restaurant/",
+        "contact:phone": "+49 721 474 552",
+        "contact:tiktok": "https://www.tiktok.com/@aubrac.restaurant",
+        "contact:website": "https://www.aubrac-restaurant.de/",
+        "contact:youtube": "https://www.youtube.com/@AubracRestaurant",
+        "cuisine": "regional",
+        "name": "Aubrac Restaurant & Terrasse",
+        "opening_hours": "Mo-Tu 11:30-14:30,17:00-23:00; We off; Th-Su 11:30-14:30,17:00-23:00",
+        "operator": "Roger Nagler",
+        "operator:type": "private",
+        "start_date": "2023-10-16",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 26963741,
+      "lat": 48.9850603,
+      "lon": 8.4394002,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:housenumber": "1",
+        "addr:postcode": "76227",
+        "addr:street": "Erlachseeweg",
+        "alt_name": "Sportgaststätte Oberwaldstadion",
+        "amenity": "restaurant",
+        "contact:email": "dasclubhouse@spvgg-durlach-aue.de",
+        "contact:phone": "+49 721 79075888",
+        "contact:website": "https://www.dasclubhouse.de/",
+        "diet:vegetarian": "yes",
+        "name": "Das Club House",
+        "official_name": "Das Club House Durlach Aue GmbH",
+        "opening_hours": "Tu-Fr 17:00+; Sa,Su 12:00+; Mo off",
+        "smoking": "isolated",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 28233150,
+      "lat": 48.925547,
+      "lon": 8.4781357,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "43",
+        "addr:postcode": "76337",
+        "addr:street": "Stuttgarter Straße",
+        "amenity": "restaurant",
+        "check_date": "2025-08-05",
+        "contact:website": "https://lindenbraeu-waldbronn.de/",
+        "cuisine": "german;regional;barbecue",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "no",
+        "level": "0",
+        "microbrewery": "yes",
+        "name": "Lindenbräu",
+        "opening_hours": "Mo-Sa 16:00-24:00; PH,Su 11:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 652881",
+        "takeaway": "no",
+        "website": "https://lindenbraeu-waldbronn.de/",
+        "website:menu": "https://lindenbraeu-waldbronn.de/speisekarte-neu/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 29422200,
+      "lat": 48.9375204,
+      "lon": 8.4151125,
+      "tags": {
+        "addr:housenumber": "51",
+        "addr:street": "Schöllbronner Straße",
+        "amenity": "restaurant",
+        "cuisine": "noodle;pizza;italian",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Luisenstube",
+        "opening_hours": "Tu-Sa 11:30-14:00,17:30-22:30; PH,Su 11:30-14:30,17:30-21:30",
+        "outdoor_seating": "yes",
+        "phone": "+4972434600",
+        "reservation": "recommended",
+        "smoking": "outside",
+        "website": "http://www.luisenstube-ettlingen.de/",
+        "website:menu": "http://www.luisenstube-ettlingen.de/dokumente/mittagstisch.pdf",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30080758,
+      "lat": 48.9427376,
+      "lon": 8.4089334,
+      "tags": {
+        "amenity": "fast_food",
+        "indoor_seating": "yes",
+        "name": "Dersim",
+        "opening_hours": "Mo-Th 11:00-23:00; Fr,Sa 11:00-24:00; Su 11:00-23:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30080759,
+      "lat": 48.942479,
+      "lon": 8.4087834,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:housenumber": "13",
+        "addr:street": "Kronenstraße",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "indoor_seating": "yes",
+        "name": "Flammaurant \"Zum Engele\"",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 9494194",
+        "smoking": "outside",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30080762,
+      "lat": 48.9416983,
+      "lon": 8.4084846,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "GOLDBLOND",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30080763,
+      "lat": 48.9413793,
+      "lon": 8.4083515,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "5-7",
+        "addr:postcode": "76275",
+        "addr:street": "Kirchenplatz",
+        "amenity": "ice_cream",
+        "email": "ettlingen@cafe-pierod.de",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Pierod",
+        "opening_hours": "Apr-Sep: Mo 09:00-20:00; Apr-Sep: Tu-Sa 09:00-22:00; Apr-Sep: Su,PH 11:00-22:00; Oct-Mar: Mo-We,Fr 09:00-20:00; Oct-Mar: Su,PH 11:00-20:00; Oct-Mar: Th off",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 12742",
+        "smoking": "outside",
+        "website": "https://www.cafe-pierod.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30080770,
+      "lat": 48.9408142,
+      "lon": 8.4068637,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "76275",
+        "addr:street": "Marktstraße",
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "indoor_seating": "yes",
+        "name": "Zum Sternen",
+        "opening_hours": "Mo-Su 10:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 537613",
+        "smoking": "outside",
+        "website": "https://www.albtal-tourismus.de/gastronomie/restaurant-zum-sternen-45e2710b39",
+        "website:menu": "https://www.zum-sternen.com/speisekarten",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30080771,
+      "lat": 48.9408509,
+      "lon": 8.4063187,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "76275",
+        "addr:street": "Badener-Tor-Straße",
+        "amenity": "cafe",
+        "contact:email": "info@tiziano-ettlingen.de",
+        "contact:website": "https://www.tiziano-ettlingen.de/",
+        "cuisine": "ice_cream",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Tiziano",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su, PH 10:00-20:00",
+        "operator": "Claudio Colle",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30080773,
+      "lat": 48.9413866,
+      "lon": 8.4054141,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "76275",
+        "addr:street": "Badener-Tor-Straße",
+        "amenity": "restaurant",
+        "check_date": "2024-07-13",
+        "contact:phone": "+49 7243 524330",
+        "indoor_seating": "yes",
+        "name": "Palladio",
+        "opening_hours": "Mo-Sa 11:30-23:00; Sa 11:00-23:00; Su, PH 14:00-23:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "website": "https://www.palladio-ettlingen.de/",
+        "website:menu": "https://www.palladio-ettlingen.de/mittagstsich",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30080780,
+      "lat": 48.9405192,
+      "lon": 8.4071058,
+      "tags": {
+        "amenity": "fast_food",
+        "check_date:opening_hours": "2023-01-27",
+        "cuisine": "kebab;pizza",
+        "indoor_seating": "yes",
+        "name": "Adoo",
+        "opening_hours": "Mo-Sa 11:00-21:00; PH,Su 12:00-20:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "smoking": "outside",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30080787,
+      "lat": 48.9425626,
+      "lon": 8.4082739,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "11a",
+        "addr:postcode": "76275",
+        "addr:street": "Kronenstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "indoor_seating": "yes",
+        "name": "Portobello",
+        "opening_hours": "Tu-Sa 12:00-14:00,17:30-22:00; Su,PH 12:00-14:00,17:30-22:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "website": "https://www.portobello-ettlingen.de/",
+        "website:menu": "https://www.portobello-ettlingen.de/wp-content/uploads/Speisekarte-2025.pdf",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30084719,
+      "lat": 48.9399145,
+      "lon": 8.4064719,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:housenumber": "8",
+        "addr:postcode": "76275",
+        "addr:street": "Klostergasse",
+        "amenity": "restaurant",
+        "contact:phone": "+49 7243 525675",
+        "indoor_seating": "yes",
+        "name": "Pot au Feu",
+        "opening_hours": "Tu-Fr 12:00-14:00,17:30+; Sa,Su 12:00+",
+        "opening_hours:kitchen": "Tu-Fr 12:00-14:00,17:30-21:30; Sa 12:00-21:30; Su 12:00-21:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30088308,
+      "lat": 48.9406169,
+      "lon": 8.4043028,
+      "tags": {
+        "amenity": "restaurant",
+        "contact:phone": "+49 7243 719395",
+        "cuisine": "vietnamese",
+        "indoor_seating": "yes",
+        "name": "An Di",
+        "old_name": "Asia Bistro Hong",
+        "opening_hours": "Mo-Fr 11:30-15:00,17:00-22:00; Sa 17:00-22:00; Su,PH 12:00-22:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "website": "https://www.andi-ettlingen.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30113157,
+      "lat": 48.947485,
+      "lon": 8.4094051,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:kosher": "no",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Veritas",
+        "opening_hours": "We-Fr,Su,Mo 11:30-14:30, We-Mo 17:30-24:00; Tu off",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "website": "https://www.veritas-restaurant.de/",
+        "website:menu": "https://www.veritas-restaurant.de/files/downloads/speisekarte-veritas-restaurant.pdf",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30116859,
+      "lat": 48.9188364,
+      "lon": 8.3708049,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "48",
+        "addr:postcode": "76275",
+        "addr:street": "Seestraße",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "email": "hellas@restaurant-kouros.de",
+        "name": "Kouros am See",
+        "old_name": "Seelig;Kouros",
+        "opening_hours": "Tu-Sa 17:00-23:00; Su,PH 11:30-14:30,17:00-21:00",
+        "phone": "+49 7243 39290",
+        "website": "https://www.restaurant-kouros.de",
+        "website:menu": "https://www.restaurant-kouros.de/app/download/5819739072/Speisekarte5.pdf",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30116868,
+      "lat": 48.9420834,
+      "lon": 8.4097606,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "76275",
+        "addr:street": "Seminarstraße",
+        "amenity": "restaurant",
+        "check_date": "2025-01-11",
+        "contact:website": "http://www.padellino.de/",
+        "cuisine": "italian",
+        "indoor_seating": "yes",
+        "name": "Padellino",
+        "opening_hours": "Mo,Tu,Th-Sa 12:00-14:30,18:00-23:30; Su,PH 12:00-14:00,17:30-23:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30116887,
+      "lat": 48.9413488,
+      "lon": 8.4090473,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:housenumber": "29",
+        "addr:postcode": "76275",
+        "addr:street": "Albstraße",
+        "amenity": "pub",
+        "brewery": "Guinness",
+        "contact:facebook": "https://www.facebook.com/ONeills.Irish.Pub.Ettlingen/",
+        "contact:phone": "+49 7243 77336",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "O'Neill's Irish Pub",
+        "note": "Rauchen ist nur draußen auf öffentlichem Gelände möglich oder wenn Außenbestuhlung vorhanden.",
+        "opening_hours": "Mo-Sa 17:00-23:00",
+        "operator": "Eamonn Ferry",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30119974,
+      "lat": 48.9676689,
+      "lon": 8.3991574,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-06-30",
+        "contact:email": "bierhaeusle-rueppurr@web.de",
+        "contact:phone": "+49 721 1833704",
+        "name": "Bierhäusle",
+        "opening_hours": "Mo-Th 17:00+; Fr,Sa 18:00+; Su 18:00+",
+        "operator": "Marion Eller",
+        "smoking": "dedicated",
+        "source": "survey",
+        "website": "http://www.bierhaeusle-rueppurr.de"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30119975,
+      "lat": 48.9688811,
+      "lon": 8.4002587,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:housenumber": "47",
+        "addr:postcode": "76199",
+        "addr:street": "Lange Straße",
+        "amenity": "restaurant",
+        "check_date": "2025-06-30",
+        "cuisine": "italian",
+        "name": "Zum Lamm - Da Sandro",
+        "opening_hours": "Mo,Tu,Th,Fr 11:30-14:00,17:30-22:00; Sa 17:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 721 890534",
+        "smoking": "outside",
+        "source": "survey",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30119977,
+      "lat": 48.972283,
+      "lon": 8.4034478,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76199",
+        "addr:street": "Lange Straße",
+        "amenity": "restaurant",
+        "contact:email": "kontakt@taqueria-taol.de",
+        "contact:phone": "+49 721 20440252",
+        "contact:website": "https://www.taqueria-taol.de/",
+        "cuisine": "mexican",
+        "indoor_seating": "yes",
+        "name": "Taqueria Taol",
+        "old_name": "Kofflers Heuriger Hotel",
+        "opening_hours": "We-Th 16:00-00:00; Fr 16:00-01:00; Sa 10:00-01:00; Su 10:00-00:00; Mo,Tu off",
+        "operator": "El Taquito Gaststättenbetriebs GmbH",
+        "outdoor_seating": "yes",
+        "start_date": "2024-03-13"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30484219,
+      "lat": 48.9540194,
+      "lon": 8.3794774,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:housenumber": "50 A",
+        "addr:postcode": "76275",
+        "addr:street": "Hohewiesenstraße",
+        "amenity": "restaurant",
+        "contact:email": "die-rosine@gmx.de",
+        "contact:phone": "+49 7243 7668814",
+        "contact:website": "https://wirtshaus-rosine.de/restaurant-ettlingen/",
+        "cuisine": "cake;breakfast;local",
+        "name": "Rosine",
+        "opening_hours": "Mo,Tu off; We-Sa 16:00-23:00; Su 09:00-22:00",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30484222,
+      "lat": 48.9521914,
+      "lon": 8.3833095,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "73",
+        "addr:postcode": "76275",
+        "addr:street": "Pappelweg",
+        "amenity": "fast_food",
+        "contact:phone": "+49 7243 9242520",
+        "contact:website": "https://www.pinseria-bufala.de/",
+        "cuisine": "pizza",
+        "name": "Pinseria Bufala",
+        "opening_hours": "Mo-Th 16:00-24:00; Fr,Sa 16:00-02:00; Su,PH 12:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 47879112,
+      "lat": 48.9659012,
+      "lon": 8.5541699,
+      "tags": {
+        "addr:city": "Pfinztal",
+        "addr:country": "DE",
+        "addr:housenumber": "7a",
+        "addr:postcode": "76327",
+        "addr:street": "Pforzheimer Straße",
+        "addr:suburb": "Kleinsteinbach",
+        "level": "0",
+        "name": "Bäckerei Bauer",
+        "opening_hours": "Tu-Fr 06:30-16:30; Sa 06:30-12:30; Su 08:00-12:30; PH off",
+        "phone": "+49 7240 5949",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 83350882,
+      "lat": 48.9658639,
+      "lon": 8.5538379,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Gasthaus Adler",
+        "opening_hours": "We-Fr 11:30-14:00; We-Su 17:00-22:00; Su 11:30-14:30",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 247267690,
+      "lat": 48.9665756,
+      "lon": 8.5548611,
+      "tags": {
+        "addr:city": "Pfinztal",
+        "addr:housenumber": "4",
+        "addr:postcode": "76327",
+        "addr:street": "Burgstraße",
+        "amenity": "restaurant",
+        "cuisine": "chicken;burger",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Hühnerdieb",
+        "opening_hours": "Tu-Fr 12:00-14:00,17:00-24:00, Sa 17:00-24:00, Su,PH 12:00-22:00",
+        "phone": "+49 7240 928793",
+        "website": "https://www.huehnerdieb.info/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 248698019,
+      "lat": 48.912535,
+      "lon": 8.4669699,
+      "tags": {
+        "amenity": "restaurant",
+        "contact:email": "hotelstrauss@web.de",
+        "contact:phone": "+49 7243 3449577",
+        "name": "Strauss",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 251973484,
+      "lat": 48.9552083,
+      "lon": 8.5694178,
+      "tags": {
+        "name": "Baguette & co.",
+        "opening_hours": "Mo-Fr 07:00-13:00, Mo,Th 15:00-17:00, Sa 07:00-12:30",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 254149805,
+      "lat": 48.9598467,
+      "lon": 8.5633055,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Schützenhaus",
+        "opening_hours": "We-Sa 17:00-22:30; Su 12:00-14:30,17:00-21:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 7232 72841",
+        "toilets": "yes",
+        "toilets:access": "permissive",
+        "website": "https://www.schuetzenhaus-singen.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 259665021,
+      "lat": 48.9463929,
+      "lon": 8.574587,
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "75196",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Landgasthof Zum Hirsch",
+        "opening_hours": "Tu-Sa 12:00-13:45,18:00-23:00",
+        "opening_hours:kitchen": "Tu-Sa 12:00-13:45,18:00-20:30",
+        "phone": "+49 7232 7 96 36",
+        "tourism": "hotel",
+        "website": "https://www.hirsch-remchingen.de/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 260712615,
+      "lat": 48.9087672,
+      "lon": 8.4293779,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:housenumber": "18",
+        "addr:street": "Linienring",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Spessarter Hof",
+        "opening_hours": "We-Su 17:30-23:00; Sa, Su 12:00-14:30",
+        "phone": "+49 7243 2498",
+        "website": "http://www.spessarterhof.de",
+        "website:menu": "http://www.spessarterhof.de/Speisekarte/Zimmer/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271930095,
+      "lat": 48.9283866,
+      "lon": 8.568148,
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:country": "DE",
+        "addr:housenumber": "62",
+        "addr:postcode": "75196",
+        "addr:street": "Karlsbader Straße",
+        "name": "Bäckerei Rebmann",
+        "opening_hours": "Mo-Fr 06:00-13:00,15:00-18:00; Sa 06:00-12:30",
+        "phone": "+49 7232 3683-0",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 274232578,
+      "lat": 48.9671721,
+      "lon": 8.5526006,
+      "tags": {
+        "addr:city": "Pfinztal",
+        "addr:housenumber": "9",
+        "addr:postcode": "76327",
+        "addr:street": "Söllinger Straße",
+        "amenity": "restaurant",
+        "cuisine": "pizza;italian",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Made In Italy",
+        "opening_hours": "Tu off",
+        "phone": "+49 7240 2092200",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 287724648,
+      "lat": 48.9931913,
+      "lon": 8.4612483,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Romulus et Remus",
+        "opening_hours": "Mo,We,Th 11:30-14:30,17:30-22:00; Fr,Sa 17:00-22:30; Su 12:00-14:30,17:00-22:00; Tu off",
+        "outdoor_seating": "yes",
+        "phone": "+49 721 44360",
+        "website": "https://www.romulus-et-remus.eu/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 288167919,
+      "lat": 48.940374,
+      "lon": 8.5293842,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Zum Waldenser",
+        "opening_hours": "Mo 17:00-22:00; Th 17:00-23:00; Fr,Sa 17:00-22:00; Su 12:00-22:00; Tu,We off",
+        "phone": "+49 7202 405945",
+        "website": "https://www.zumwaldenser.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 288841913,
+      "lat": 48.9060835,
+      "lon": 8.5740333,
+      "tags": {
+        "addr:city": "Keltern",
+        "addr:country": "DE",
+        "addr:housenumber": "40",
+        "addr:postcode": "75210",
+        "addr:street": "Frankenstraße",
+        "amenity": "restaurant",
+        "name": "Kleintierzuchtverein C 40 Ellmendingen",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294957118,
+      "lat": 48.9166667,
+      "lon": 8.5080753,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "76307",
+        "addr:street": "Pforzheimer Straße",
+        "name": "Bäckerei Graap",
+        "opening_hours": "Tu-Sa 06:30-12:00",
+        "phone": "+49 7202 2122",
+        "shop": "bakery",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 296384444,
+      "lat": 48.911981,
+      "lon": 8.368524,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "cuisine:crossover": "local;italian,german",
+        "email": "Zur.linde.ettlingen@gmail.com",
+        "name": "Zur Linde Ettlingen",
+        "payment:american_express": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 7243 715 97 42",
+        "website": "https://zur-linde-ettlingen.metro.rest",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 296887988,
+      "lat": 48.9680525,
+      "lon": 8.5039631,
+      "tags": {
+        "name": "Backlädle Thomashof",
+        "opening_hours": "Tu-Fr 07:30-18:00; Sa 07:30-12:00; PH off",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 299309933,
+      "lat": 48.8797749,
+      "lon": 8.5099077,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Industrie Imbiss",
+        "opening_hours": "Mo-Sa 11:00-20:00",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 300725592,
+      "lat": 48.9432397,
+      "lon": 8.4079627,
+      "tags": {
+        "addr:housenumber": "23-25",
+        "addr:street": "Lauergasse",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Lauerturmstüble",
+        "opening_hours": "Tu-Sa 18:00+",
+        "phone": "+49 7243 4445",
+        "website": "https://www.lauerturmstueble.de/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 304091190,
+      "lat": 48.9319981,
+      "lon": 8.4626544,
+      "tags": {
+        "name": "Richard Nussbaumer",
+        "opening_hours": "Mo-Fr 05:00-18:30; Sa 05:00-13:00; Su 07:00-17:00",
+        "shop": "bakery",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 306948028,
+      "lat": 48.860858,
+      "lon": 8.4599278,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Blume",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 308351865,
+      "lat": 48.8746139,
+      "lon": 8.5409987,
+      "tags": {
+        "addr:city": "Straubenhardt",
+        "addr:country": "DE",
+        "addr:housenumber": "54",
+        "addr:postcode": "75334",
+        "addr:street": "Hindenburgstraße",
+        "addr:suburb": "Ottenhausen",
+        "contact:phone": "+49 7082 942140",
+        "name": "de gute Bäck",
+        "operator": "Werner König",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 310894953,
+      "lat": 48.9532226,
+      "lon": 8.5723078,
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "75196",
+        "addr:street": "Bahnhofstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Remchinger Hof",
+        "opening_hours": "Mo-Su 11:30-14:00,17:30-23:30; Tu off",
+        "outdoor_seating": "yes",
+        "phone": "+49 7232 77068",
+        "price": "regular",
+        "toilets:wheelchair": "no",
+        "website": "https://remchingerhof.de/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 311930859,
+      "lat": 48.9446044,
+      "lon": 8.5748609,
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "75196",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Pizzeria Rössle",
+        "opening_hours": "Tu-Fr 11:30-14:00,17:00-22:00, Sa 17:00-22:00, Su 11:30-14:00, Su 17:00-21:00; Mo off",
+        "phone": "+49 7232 72327",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 321770919,
+      "lat": 48.9203721,
+      "lon": 8.5046245,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76307",
+        "addr:street": "Benzstraße",
+        "name": "Hatz Bäckerei & Cafe",
+        "opening_hours": "Mo-Fr 05:30-19:00; Sa 05:30-13:00; Su 07:00-13:00",
+        "phone": "+49 7202 1411",
+        "shop": "bakery",
+        "website": "https://www.bäcker-hatz.de",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 321770936,
+      "lat": 48.9206395,
+      "lon": 8.5036721,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "76307",
+        "addr:street": "Benzstraße",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/people/Lambada-Karlsbad/",
+        "contact:instagram": "lambada_karlsbad",
+        "cuisine": "regional",
+        "level": "0",
+        "name": "Lambada",
+        "old_name": "Pilsstüble",
+        "opening_hours": "Mo-Th 15:00-23:00; Fr 13:00-01:00; Sa 10:00-01:00; Su 10:00-17:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 7202 6542",
+        "smoking": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 337388039,
+      "lat": 48.9930042,
+      "lon": 8.461071,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "76",
+        "addr:postcode": "76227",
+        "addr:street": "Auer Straße",
+        "amenity": "fast_food",
+        "cuisine": "turkish",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Aslan",
+        "opening_hours": "Mo-Fr 11:00-21:30; Sa,Su,PH 12:00-21:30",
+        "outdoor_seating": "yes",
+        "phone": "+49 721 4848475",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 343567990,
+      "lat": 48.8751316,
+      "lon": 8.5404797,
+      "tags": {
+        "addr:city": "Straubenhardt",
+        "addr:country": "DE",
+        "addr:housenumber": "61",
+        "addr:postcode": "75334",
+        "addr:street": "Hindenburgstraße",
+        "addr:suburb": "Ottenhausen",
+        "amenity": "pub",
+        "name": "Bären"
+      }
+    },
+    {
+      "type": "node",
+      "id": 369736860,
+      "lat": 48.9921085,
+      "lon": 8.4603725,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "76227",
+        "addr:street": "Westmarkstraße",
+        "name": "Bäckerei Weber",
+        "opening_hours": "Mo-Fr 05:30-17:00; Sa 05:30-13:00",
+        "operator": "Weber",
+        "payment:cash": "yes",
+        "payment:contactless": "no",
+        "payment:girocard": "no",
+        "shop": "bakery",
+        "website": "http://www.weber-bäckerei.de"
+      }
+    },
+    {
+      "type": "node",
+      "id": 372972719,
+      "lat": 48.9687126,
+      "lon": 8.4781456,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "76228",
+        "addr:street": "Tiefentalstraße",
+        "check_date": "2026-09-06",
+        "name": "Bäckerei Nußbaumer",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-17:00",
+        "shop": "bakery",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389014907,
+      "lat": 48.9541442,
+      "lon": 8.5089433,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Sonne",
+        "opening_hours": "Mo-Sa 17:30+; Su,PH off",
+        "tourism": "hotel",
+        "website": "https://www.sonne-karlsruhe.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 389014911,
+      "lat": 48.9529682,
+      "lon": 8.5100985,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:housenumber": "21",
+        "addr:postcode": "76228",
+        "addr:street": "Ortsstraße",
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2025-12-11",
+        "cuisine": "indian",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Haveli Restaurant",
+        "opening_hours:signed": "no",
+        "phone": "+4972149048050",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 409852856,
+      "lat": 48.9745171,
+      "lon": 8.4537346,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "38",
+        "addr:postcode": "76228",
+        "addr:street": "Steinkreuzstraße",
+        "addr:suburb": "Wolfartsweier",
+        "name": "Nussbaumer",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su,PH 08:00-12:00",
+        "shop": "bakery",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 413321213,
+      "lat": 48.9639591,
+      "lon": 8.4704409,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76228",
+        "addr:street": "Schilling-von-Canstatt-Straße",
+        "addr:suburb": "Hohenwettersbach",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Gatto Nero",
+        "phone": "+49 721 705685",
+        "website": "https://www.mygattonero.de"
+      }
+    },
+    {
+      "type": "node",
+      "id": 413677459,
+      "lat": 48.8966251,
+      "lon": 8.4683175,
+      "tags": {
+        "check_date:opening_hours": "2024-02-20",
+        "name": "Richard Nussbaumer",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-11:00",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 439999931,
+      "lat": 48.9445761,
+      "lon": 8.5737898,
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:housenumber": "11",
+        "addr:postcode": "75196",
+        "addr:street": "Nöttinger Straße",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "fax": "+49 7232 318659",
+        "name": "DUY",
+        "opening_hours": "We-Su 11:30-14:00,16:30-20:45; Sa 16:30-20:45",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:maestro": "no",
+        "phone": "+49 7232 317398",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 442385871,
+      "lat": 48.9457716,
+      "lon": 8.4103751,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "diet:kosher": "no",
+        "diet:vegetarian": "no",
+        "indoor_seating": "yes",
+        "name": "Keglerheim",
+        "opening_hours": "Tu-Fr 17:00-24:00; PH,Sa,Su 11:00-22:30; Mo off",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "website": "https://keglerheim-ettlingen.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 459953822,
+      "lat": 48.9144074,
+      "lon": 8.5067149,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "45",
+        "addr:postcode": "76307",
+        "addr:street": "Hirtenstraße",
+        "addr:suburb": "Langensteinbach",
+        "indoor_seating": "yes",
+        "internet_access": "no",
+        "name": "Nussbaumer",
+        "opening_hours": "Mo-Fr 05:30-18:00; Sa 05:30-17:00; Su,PH 07:00-17:00; Jan 01,easter - 2 days,Dec 25-26 off",
+        "outdoor_seating": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 7202 924768",
+        "shop": "bakery",
+        "toilets:wheelchair": "yes",
+        "website": "https://baeckerei-nussbaumer.de",
+        "wheelchair": "yes",
+        "wheelchair:description": "Behinderten-WC im Untergeschoss des neuen Rathauses (Fahrstuhl)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 463225367,
+      "lat": 48.9852444,
+      "lon": 8.5260659,
+      "tags": {
+        "addr:city": "Pfinztal",
+        "addr:country": "DE",
+        "addr:floor": "0",
+        "addr:housenumber": "1",
+        "addr:postcode": "76327",
+        "addr:street": "Weinhof",
+        "addr:suburb": "Söllingen",
+        "amenity": "restaurant",
+        "check_date": "2024-08-03",
+        "contact:facebook": "https://de-de.facebook.com/WeinhofRupp/",
+        "cuisine": "german;regional",
+        "diet:vegetarian": "yes",
+        "name": "Gaststätte Weinhof Rupp",
+        "opening_hours": "We-Sa 11:30-21:00; Su 10:00-21:00",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "phone": "+49 7240 1524"
+      }
+    },
+    {
+      "type": "node",
+      "id": 470452174,
+      "lat": 48.945289,
+      "lon": 8.3989493,
+      "tags": {
+        "addr:housenumber": "90",
+        "addr:postcode": "76275",
+        "addr:street": "Rheinstraße",
+        "amenity": "fast_food",
+        "check_date:opening_hours": "2026-01-19",
+        "cuisine": "kebab;pizza",
+        "indoor_seating": "yes",
+        "name": "Wasen Döner Pizza",
+        "opening_hours:signed": "no",
+        "operator": "Rafet Torunlar",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 524469",
+        "smoking": "outside",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 470452176,
+      "lat": 48.9449825,
+      "lon": 8.3992596,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "82",
+        "addr:postcode": "76275",
+        "addr:street": "Rheinstraße",
+        "amenity": "restaurant",
+        "check_date": "2026-05-17",
+        "check_date:opening_hours": "2026-05-17",
+        "cuisine": "asian",
+        "indoor_seating": "yes",
+        "name": "My. Chow",
+        "opening_hours": "Tu-Fr 11:00-14:00, 17:00-22:00; Sa-Su 16:00-22:00",
+        "outdoor_seating": "no",
+        "phone": "+49 7243 9243334",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471826093,
+      "lat": 48.9433178,
+      "lon": 8.4092135,
+      "tags": {
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Wanfu",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 480010459,
+      "lat": 48.9422821,
+      "lon": 8.4065468,
+      "tags": {
+        "amenity": "cafe",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "MoccaSin Coffee",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "toilets:wheelchair": "no",
+        "website": "https://moccasin-coffee.de/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Die meisten Tische sind Barrierefrei erreichbar, Eingang ist stufenlos. Im Café selbst, gibt es keine Barrierefreie Toilette, diese ist auf der Gebäuderückseite, Schlüssel ist bei den Angestellten."
+      }
+    },
+    {
+      "type": "node",
+      "id": 495992166,
+      "lat": 48.8841841,
+      "lon": 8.5097553,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "name": "K2",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527872500,
+      "lat": 48.9294285,
+      "lon": 8.471088,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "76337",
+        "addr:street": "Marktplatz",
+        "amenity": "cafe",
+        "check_date": "2026-08-16",
+        "check_date:diet:vegetarian": "2026-01-03",
+        "check_date:opening_hours": "2026-08-16",
+        "contact:website": "http://www.gelateria-michelino.de/",
+        "cuisine": "ice_cream",
+        "diet:vegetarian": "yes",
+        "name": "Gelateria Michelino",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 68 39 9",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 563834310,
+      "lat": 48.9611754,
+      "lon": 8.5408281,
+      "tags": {
+        "addr:city": "Pfinztal",
+        "addr:country": "DE",
+        "addr:housenumber": "80",
+        "addr:postcode": "76327",
+        "addr:street": "Bockstalstraße",
+        "amenity": "restaurant",
+        "contact:facebook": "risrorantedesiderio",
+        "contact:instagram": "ristorante_desiderio",
+        "cuisine": "italian",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "email": "kontakt@ristorante-desiderio.com",
+        "fixme": "Bitte nicht löschen;siehe http://wiki.openstreetmap.org/index.php?title=DE:Naturfreundehäuser",
+        "internet_access": "wlan",
+        "name": "Ristorante Desiderio",
+        "opening_hours": "Th 17:00-23:00 \"Küche schliesst um 21 Uhr\"; Fr-Sa 11:00-22:00 \"Küche schliesst um 21 Uhr\"; Su 11:00-21:00; PH open; \"Für Gruppen ab 30 Personen nach Absprache göffnet\"",
+        "operator": "NaturFreunde Deutschland",
+        "phone": "+49 7240 4747",
+        "ref": "L 073",
+        "self_service": "no",
+        "source": "Datenspende der NaturFreunde Deutschland",
+        "website": "https://ristorante-desiderio.com",
+        "website:menu": "https://ristorante-desiderio.com/pizza/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 609218941,
+      "lat": 48.9930868,
+      "lon": 8.4611571,
+      "tags": {
+        "addr:housenumber": "74",
+        "addr:postcode": "76227",
+        "addr:street": "Auer Straße",
+        "amenity": "bar",
+        "cuisine": "italian",
+        "name": "Sette Colli",
+        "old_name": "Pica Gelato & Caffé",
+        "opening_hours": "We-Mo 11:00-20:00; Tu off",
+        "outdoor_seating": "yes",
+        "phone": "+49 721 94191877",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 653275619,
+      "lat": 48.8884042,
+      "lon": 8.5496171,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Kleintierzüchterverein C 655 Weiler e. V."
+      }
+    },
+    {
+      "type": "node",
+      "id": 678441736,
+      "lat": 48.9453866,
+      "lon": 8.3900036,
+      "tags": {
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Katz",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 678442010,
+      "lat": 48.9453033,
+      "lon": 8.390035,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "kebab;pizza",
+        "level": "0",
+        "name": "Kutun Döner",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 688779820,
+      "lat": 48.9231422,
+      "lon": 8.4752788,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "34",
+        "addr:postcode": "76337",
+        "addr:street": "Pforzheimer Straße",
+        "name": "Frickebäck",
+        "opening_hours": "Sa 04:30-12:00; Su 07:00-11:00; Tu-Fr 04:30-18:00; Mo off",
+        "phone": "+49 7243 61510",
+        "shop": "bakery",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 720991338,
+      "lat": 48.8765371,
+      "lon": 8.4378031,
+      "tags": {
+        "addr:city": "Marxzell",
+        "addr:housenumber": "7",
+        "addr:postcode": "76359",
+        "addr:street": "Am Windeck",
+        "amenity": "restaurant",
+        "cuisine": "pizza;regional;burger;mediterranean",
+        "name": "Schlemmereck \"Zum Windeck\"",
+        "phone": "+49 7248 935915"
+      }
+    },
+    {
+      "type": "node",
+      "id": 740233551,
+      "lat": 48.9167884,
+      "lon": 8.5056606,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76307",
+        "addr:street": "Ettlinger Straße",
+        "addr:suburb": "Langensteinbach",
+        "amenity": "restaurant",
+        "contact:email": "info@gruenerbaum-karlsbad.de",
+        "contact:phone": "+49 7202 9384437",
+        "contact:website": "https://www.gruenerbaum-karlsbad.de/",
+        "cuisine": "german",
+        "indoor_seating": "yes",
+        "name": "Grüner Baum",
+        "opening_hours": "Tu -Su 11:00-23:00; Mo off",
+        "opening_hours:kitchen": "Tu -Su 11:30-21:30",
+        "operator": "Michael Huber;Stefan Merz",
+        "outdoor_seating": "yes",
+        "reservation": "yes",
+        "website:menu": "https://www.gruenerbaum-karlsbad.de/wp-content/uploads/2026/07/Speisekarte-Gruener-Baum-202606.pdf",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 740233552,
+      "lat": 48.9107812,
+      "lon": 8.5045196,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "114",
+        "addr:postcode": "76307",
+        "addr:street": "Hauptstraße",
+        "addr:suburb": "Langensteinbach",
+        "amenity": "fast_food",
+        "contact:fax": "+49 7202 938917",
+        "contact:mobile": "+49 151 64817808",
+        "contact:phone": "+49 7202 938916",
+        "contact:website": "http://www.asia-wok-karlsbad.com/",
+        "cuisine": "asian",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "name": "Asia Wok",
+        "opening_hours": "Mo off; Tu-Sa 11:00-21:00; Su 12:00-21:00",
+        "takeaway": "yes",
+        "website:menu": "https://asia-wok-karlsbad.com/?page_id=92",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 740233556,
+      "lat": 48.915591,
+      "lon": 8.5064712,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "22",
+        "addr:postcode": "76307",
+        "addr:street": "Hauptstraße",
+        "amenity": "bar",
+        "name": "Shisha-Bar",
+        "phone": "+49 7202 937580",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 740233557,
+      "lat": 48.9084394,
+      "lon": 8.5021465,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "76307",
+        "addr:street": "Spielberger Straße",
+        "amenity": "ice_cream",
+        "contact:email": "linas.gelateria@yahoo.com",
+        "contact:phone": "+49 7202 3989446",
+        "name": "Lina's Gelateria",
+        "opening_hours": "Mo-Su 12:00-21:00",
+        "website": "https://linas-gelateria.eatbu.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 758830910,
+      "lat": 48.970176,
+      "lon": 8.5488128,
+      "tags": {
+        "addr:city": "Pfinztal",
+        "addr:country": "DE",
+        "addr:housenumber": "162",
+        "addr:postcode": "76327",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "contact:website": "http://www.villa-hammerschmiede.de",
+        "cuisine": "regional",
+        "diet:vegetarian": "no",
+        "name": "Villa Hammerschmiede",
+        "opening_hours": "Tu-Fr 12:00-13:30,18:00-20:30; Sa 18:00-20:30; Su,Mo off",
+        "phone": "+49 7240 6010",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 799622763,
+      "lat": 48.9553803,
+      "lon": 8.4699371,
+      "tags": {
+        "name": "Nussbaumer",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 799622817,
+      "lat": 48.955522,
+      "lon": 8.4697952,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "kebab;pizza",
+        "name": "Malatya Pizza & Kebap",
+        "opening_hours": "Mo-Su 11:00-22:00; Sa off",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 840493783,
+      "lat": 48.9400753,
+      "lon": 8.4086803,
+      "tags": {
+        "check_date": "2026-06-08",
+        "indoor_seating": "no",
+        "name": "Reiter's",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-13:00",
+        "outdoor_seating": "no",
+        "phone": "+49 7243 530788",
+        "shop": "bakery",
+        "takeaway": "only",
+        "website": "https://reiters-cafe.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 840493789,
+      "lat": 48.9402715,
+      "lon": 8.4076103,
+      "tags": {
+        "check_date": "2024-07-21",
+        "name": "Ettli",
+        "opening_hours": "Mo,Tu,Th,Fr 09:00-18:30; We 08:30-18:30; Sa 08:00-14:00; PH,Su off",
+        "shop": "deli",
+        "website": "https://ettli.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 859330567,
+      "lat": 48.9233738,
+      "lon": 8.4757235,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "76337",
+        "addr:street": "Kronenstraße",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Ratskeller",
+        "opening_hours": "We-Fr 12:00-24:00; Sa,Su 11:00-24:00",
+        "phone": "+49 7243 66763",
+        "website": "https://www.ratskeller-waldbronn.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 867525356,
+      "lat": 48.9126594,
+      "lon": 8.5056013,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "82",
+        "addr:postcode": "76307",
+        "addr:street": "Hauptstraße",
+        "amenity": "fast_food",
+        "contact:phone": "+49 1520 9937563",
+        "cuisine": "kebab;italian",
+        "delivery": "yes",
+        "description": "Lieferung ist möglich, jedoch ist der Mindestbestellwert nach Entfernung gestaffelt.",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Berlinter - Kebab Haus",
+        "opening_hours": "Mo-Sa 11:00-22:00; Su 12:00-22:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 894535318,
+      "lat": 48.9281432,
+      "lon": 8.5684025,
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:country": "DE",
+        "addr:housenumber": "59",
+        "addr:postcode": "75196",
+        "addr:street": "Karlsbader Straße",
+        "amenity": "restaurant",
+        "diet:vegetarian": "no",
+        "name": "Gasthaus Traube",
+        "opening_hours": "Mo-Fr 07:30-13:00, Th,Fr 15:00-18:00, Sa 07:00-12:00",
+        "phone": "+49 7232 79611",
+        "shop": "butcher",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 894575437,
+      "lat": 48.9517498,
+      "lon": 8.5710306,
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:country": "DE",
+        "addr:housenumber": "97",
+        "addr:postcode": "75196",
+        "addr:street": "Hauptstraße",
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Cosma Eiscafé",
+        "opening_hours": "Mo-Su 11:00-21:00; PH 11:00-21:00; Oct-Feb closed",
+        "outdoor_seating": "yes",
+        "phone": "+49 7232 70008",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 908958999,
+      "lat": 48.9235761,
+      "lon": 8.4749803,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "28",
+        "addr:postcode": "76337",
+        "addr:street": "Pforzheimer Straße",
+        "amenity": "pub",
+        "check_date:opening_hours": "2026-05-23",
+        "name": "Milljöh",
+        "opening_hours": "Mo-Fr 10:00-14:00,16:00-22:00",
+        "phone": "+49 7243 67872"
+      }
+    },
+    {
+      "type": "node",
+      "id": 909065767,
+      "lat": 48.9275876,
+      "lon": 8.470863,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "30",
+        "addr:postcode": "76337",
+        "addr:street": "Bergstraße",
+        "amenity": "fast_food",
+        "check_date:opening_hours": "2026-05-22",
+        "email": "info@schwitzers-bistro.de",
+        "name": "Schwitzer's Bistro in der Albtherme",
+        "opening_hours": "Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 09:00-20:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 35 48 50",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.schwitzers-bistro.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 909111789,
+      "lat": 48.9229033,
+      "lon": 8.4768461,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "76337",
+        "addr:street": "Kronenstraße",
+        "amenity": "restaurant",
+        "name": "Zur Krone",
+        "opening_hours": "Mo-Sa 17:30+; We off; Su 11:30-14:30",
+        "website": "https://hotelkrone-waldbronn.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 918688069,
+      "lat": 48.9423042,
+      "lon": 8.5784147,
+      "tags": {
+        "amenity": "pub",
+        "name": "Bistro Wunderbar",
+        "opening_hours": "We,Th 15:00-22:00, Fr 15:00-24:00, Sa 12:00-24:00, Su 12:00-22:00; Mo,Tu off",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 921753767,
+      "lat": 48.9762531,
+      "lon": 8.4073755,
+      "tags": {
+        "brand": "Peters gute Backstube",
+        "brand:wikidata": "Q67987587",
+        "contact:website": "https://www.petersgutebackstube.de/",
+        "indoor_seating": "yes",
+        "name": "Peters gute Backstube",
+        "opening_hours": "Mo-Fr 06:00-19:30; Sa 06:00-15:00; Su 08:00-11:00",
+        "outdoor_seating": "yes",
+        "shop": "bakery",
+        "smoking": "outside",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 924488879,
+      "lat": 48.9293885,
+      "lon": 8.4726921,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "76337",
+        "addr:street": "Marktplatz",
+        "check_date:opening_hours": "2025-12-30",
+        "email": "mail@gousto-genuss.de",
+        "name": "Gousto",
+        "opening_hours": "Mo-Fr 10:00-18:30; Sa 10:00-16:00",
+        "phone": "+49 7243 9499339",
+        "shop": "deli",
+        "website": "https://www.gousto-genuss.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 924496460,
+      "lat": 48.9294076,
+      "lon": 8.4713981,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "76337",
+        "addr:street": "Marktplatz",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "delivery": "no",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "La Capannina",
+        "opening_hours": "We-Sa 11:30-14:00,17:00-22:30; Su 11:30-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 52 32 315",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "http://la-capannina-mamma-mia.de",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 925151307,
+      "lat": 48.9298205,
+      "lon": 8.4724897,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "76337",
+        "addr:street": "Marktplatz",
+        "check_date:opening_hours": "2026-01-02",
+        "name": "Badische Backstub'",
+        "opening_hours": "Mo-Fr 05:30-18:00; Sa 06:00-16:00; Su 07:30-17:00",
+        "phone": "+49 7243 65 24 36",
+        "shop": "bakery",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 936614482,
+      "lat": 48.9696517,
+      "lon": 8.4238288,
+      "tags": {
+        "addr:housenumber": "85",
+        "addr:street": "Battstraße",
+        "amenity": "restaurant",
+        "check_date": "2023-05-06",
+        "contact:email": "frank@radhaus-karlsruhe.de",
+        "cuisine": "regional",
+        "name": "Radhaus",
+        "note": "Winterpause ab 1. November",
+        "opening_hours": "Su, PH 11:30-18:00;Mo-Sa off;\"Bei schlechtem Wetter bzw. bei Veranstaltungen können die Öffnungszeiten varieren.\"",
+        "website": "https://www.radhaus-karlsruhe.de/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 940552187,
+      "lat": 48.9054314,
+      "lon": 8.498618,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "76307",
+        "addr:street": "Kurfürstenbadstraße",
+        "amenity": "restaurant",
+        "contact:phone": "+49 7202 7814",
+        "contact:website": "https://www.lancora-karlsbad.de",
+        "cuisine": "italian;pizza",
+        "delivery": "Tu-Su 11:00-13:45,17:00-21:45",
+        "name": "L'Ancora",
+        "opening_hours": "Mo off; Tu-Su 12:00-14:00,17:00-22:00",
+        "opening_hours:kitchen": "Tu-Su 12:00-14:00,17:00-21:30",
+        "toilets:wheelchair": "yes",
+        "website:menu": "https://www.lancora-karlsbad.de/heimservice",
+        "wheelchair": "yes",
+        "wheelchair:description": "Behinderten-WC im anliegenden Senioren-Zentrum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 940588668,
+      "lat": 48.9061142,
+      "lon": 8.4988137,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76307",
+        "addr:street": "Kurfürstenbadstraße",
+        "amenity": "pub",
+        "name": "Bierbrunnen",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Ein Behinderten-WC befindet sich im Untergeschoss des Seniorenheims"
+      }
+    },
+    {
+      "type": "node",
+      "id": 940661889,
+      "lat": 48.9149796,
+      "lon": 8.5063855,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "38",
+        "addr:postcode": "76307",
+        "addr:street": "Hauptstraße",
+        "addr:suburb": "Langensteinbach",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Gasthaus zum Anker",
+        "note": "Kein \"normaler\" Gaststättenbetrieb, Räume können für Veranstaltungen gebucht werden",
+        "operator": "Jochen Stucky",
+        "phone": "+49 7202 9389293",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 940669880,
+      "lat": 48.9202732,
+      "lon": 8.5046786,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76307",
+        "addr:street": "Benzstraße",
+        "amenity": "pub",
+        "name": "Schießhütte"
+      }
+    },
+    {
+      "type": "node",
+      "id": 993505579,
+      "lat": 48.9423752,
+      "lon": 8.4023011,
+      "tags": {
+        "bakehouse": "yes",
+        "check_date": "2026-05-29",
+        "indoor_seating": "no",
+        "name": "Reuss",
+        "opening_hours": "Mo-Fr 06:00-18:30; Sa 06:00-13:30",
+        "outdoor_seating": "no",
+        "pastry": "yes",
+        "shop": "bakery",
+        "snack": "yes",
+        "takeaway": "only",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1003202865,
+      "lat": 48.9411461,
+      "lon": 8.4055928,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "17",
+        "addr:postcode": "76275",
+        "addr:street": "Badener-Tor-Straße",
+        "amenity": "fast_food",
+        "check_date:opening_hours": "2026-05-08",
+        "cuisine": "kebab",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Best Kebap",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "yes",
+        "smoking": "outside",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1003202875,
+      "lat": 48.9406547,
+      "lon": 8.4071697,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "76275",
+        "addr:street": "Leopoldstraße",
+        "check_date": "2026-05-31",
+        "indoor_seating": "no",
+        "name": "Badische Backstub'",
+        "opening_hours": "Mo-Fr 07:30-17:00; Sa 07:00-13:30; PH closed",
+        "outdoor_seating": "no",
+        "shop": "bakery",
+        "takeaway": "only",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1024140019,
+      "lat": 48.9076255,
+      "lon": 8.5010026,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "kebab;pizza",
+        "drive_through": "no",
+        "name": "Istanbul Döner- und Pizzahaus",
+        "phone": "+49 7202 4099630",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1125189206,
+      "lat": 48.8815588,
+      "lon": 8.5099975,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "25",
+        "addr:postcode": "76307",
+        "addr:street": "Im Stöckmädle",
+        "addr:suburb": "Ittersbach",
+        "brand": "Markt-Bäckerei",
+        "brand:wikidata": "Q1719433",
+        "name": "Markt-Bäckerei",
+        "old_name": "K&U Bäckerei",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1125194547,
+      "lat": 48.8841858,
+      "lon": 8.5095622,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "76307",
+        "addr:street": "Desco-Straße",
+        "addr:suburb": "Ittersbach",
+        "check_date": "2024-02-18",
+        "contact:phone": "+49 7248 1420",
+        "name": "Bäckerei Nussbaumer",
+        "opening_hours": "Mo-Fr 05:30-19:00; Sa 05:30-17:30; Su 07:00-17:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1170355505,
+      "lat": 48.9500752,
+      "lon": 8.3849563,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:housenumber": "2",
+        "addr:postcode": "76275",
+        "addr:street": "Odertalweg",
+        "check_date": "2025-07-09",
+        "check_date:opening_hours": "2026-04-10",
+        "contact:phone": "+49 7243 9391315",
+        "contact:website": "https://www.baeckerei-koehler.de/ettlingen",
+        "indoor_seating": "yes",
+        "lottery": "yes",
+        "name": "Köhler's Landbäckerei",
+        "opening_hours": "Mo-Sa 05:30-12:00; Su 07:30-11:00",
+        "outdoor_seating": "yes",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1187425308,
+      "lat": 48.941335,
+      "lon": 8.4045135,
+      "tags": {
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Erbprinz",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1188900940,
+      "lat": 48.9447009,
+      "lon": 8.5758672,
+      "tags": {
+        "amenity": "fast_food",
+        "check_date:opening_hours": "2025-10-18",
+        "cuisine": "pizza",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Pizza-Blitz",
+        "opening_hours": "Tu-Fr 16:30-22:30; Sa 14:00-23:00; Su 11:00-22:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1246630552,
+      "lat": 48.9721781,
+      "lon": 8.4032144,
+      "tags": {
+        "check_date": "2025-07-21",
+        "indoor_seating": "yes",
+        "name": "Badische Backstub'",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:00-13:00; PH,Su 08:00-11:00",
+        "outdoor_seating": "no",
+        "shop": "bakery",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1248645942,
+      "lat": 48.9450142,
+      "lon": 8.5745145,
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:housenumber": "6",
+        "addr:postcode": "75196",
+        "addr:street": "Nöttinger Straße",
+        "name": "Nikas Glück",
+        "opening_hours": "Mo-Fr 14:30-17:30, Tu-Fr 08:30-13:00, Sa,Su 14:30-17:00, Sa 07:30-13:00, Su 08:30-12:30",
+        "phone": "+49 7232 2307",
+        "shop": "bakery",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1248669216,
+      "lat": 48.9461315,
+      "lon": 8.5747731,
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "75196",
+        "addr:street": "Hauptstraße",
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2025-10-18",
+        "cuisine": "kebab",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Stern Kebap",
+        "opening_hours": "Mo-Th 11:00-22:00; Fr,Sa 11:00-23:00; Su 12:00-22:00",
+        "restaurant": "fast_food",
+        "takeaway": "only",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1250841531,
+      "lat": 48.9511475,
+      "lon": 8.5652814,
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:housenumber": "1",
+        "addr:postcode": "75196",
+        "addr:street": "Buchwaldwiesen",
+        "amenity": "restaurant",
+        "email": "Info@restaurant-buchwald.de",
+        "name": "Restaurant Buchwald",
+        "opening_hours": "Tu-Sa 16:00-22:00, Su 11:00-21:00; Mo off",
+        "phone": "+49 176 62775132",
+        "website": "https://restaurant-buchwald.eatbu.com/",
+        "website:menu": "https://restaurant-buchwald.eatbu.com/?lang=de#menu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1278347777,
+      "lat": 48.8686122,
+      "lon": 8.5104722,
+      "tags": {
+        "addr:housenumber": "14",
+        "addr:postcode": "76307",
+        "addr:street": "Bahnhofstraße",
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "check_date": "2024-10-18",
+        "check_date:diet:vegan": "2024-10-18",
+        "check_date:smoking": "2024-10-18",
+        "contact:website": "http://ristorante-birkenhof.de/",
+        "cuisine": "italian",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Pizzeria Birkenhof",
+        "opening_hours": "Tu-Su 12:00-14:00,18:00-22:00",
+        "operator": "Veronik Tedesco",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "yes",
+        "phone": "+49 7248 88 11",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1288749699,
+      "lat": 48.926071,
+      "lon": 8.3678088,
+      "tags": {
+        "name": "Maische Bäck",
+        "opening_hours": "Tu-Fr 05:00-18:30; Sa 05:30-12:45; Su 07:00-11:00; Mo off",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1288749700,
+      "lat": 48.9262221,
+      "lon": 8.3690443,
+      "tags": {
+        "amenity": "fast_food",
+        "check_date": "2025-07-24",
+        "cuisine": "pizza;turkish",
+        "delivery": "no",
+        "name": "DesTan",
+        "opening_hours": "Su-Fr 11:00-22:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1326744933,
+      "lat": 48.8963769,
+      "lon": 8.4708305,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:housenumber": "12",
+        "addr:postcode": "76307",
+        "addr:street": "Dobelstraße",
+        "addr:suburb": "Spielberg",
+        "name": "Haffner",
+        "opening_hours": "Mo-Th 06:00-12:30; Fr 06:00-15:00; Sa 06:00-12:00",
+        "shop": "bakery",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1336868801,
+      "lat": 48.9213093,
+      "lon": 8.5007234,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:housenumber": "7",
+        "addr:postcode": "76307",
+        "addr:street": "Draisstraße",
+        "name": "Bäckerei Nussbaumer",
+        "opening_hours": "Mo-Fr 06:30-19:00, Sa 06:30-17:00",
+        "operator": "Bäckerei Nussbaumer GmbH & Co.KG",
+        "phone": "+49 7202 936470",
+        "shop": "bakery",
+        "toilets:wheelchair": "yes",
+        "website": "https://baeckerei-nussbaumer.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1339581990,
+      "lat": 48.9538565,
+      "lon": 8.5083311,
+      "tags": {
+        "check_date:opening_hours": "2025-10-19",
+        "name": "Bäckerei Nussbaumer",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-11:00",
+        "shop": "bakery",
+        "wheelchair": "yes",
+        "wheelchair:description": "Rampe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1583639085,
+      "lat": 48.8953705,
+      "lon": 8.4031848,
+      "tags": {
+        "amenity": "restaurant",
+        "contact:phone": "+49 7243 3434949",
+        "contact:website": "https://www.tv-schluttenbach.de/gasthaus-waldeck/",
+        "cuisine": "greek",
+        "name": "Gasthaus Waldeck",
+        "opening_hours": "Mo,Tu,Th,Fr,Sa 17:00-23:00; We off; Su 11:30-14:30,17:00-22:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1619097088,
+      "lat": 48.9732915,
+      "lon": 8.4155292,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:housenumber": "1",
+        "addr:postcode": "76199",
+        "addr:street": "Steinmannstraße",
+        "addr:suburb": "Rüppurr",
+        "amenity": "restaurant",
+        "cuisine": "german;mediterranean",
+        "name": "meinART",
+        "outdoor_seating": "yes",
+        "website": "https://www.tus-rueppurr.de/verein/vereinsgaststaette",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1842553600,
+      "lat": 48.9893411,
+      "lon": 8.4573615,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:housenumber": "1",
+        "addr:postcode": "76227",
+        "addr:street": "Memeler Straße",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/DerZauberkessel/",
+        "level": "0",
+        "name": "Der Zauberkessel",
+        "old_name:1890-2010": "Goldener Adler",
+        "old_name:2010-2017": "Il Capriccio",
+        "old_name:2017-2018": "Gasthof zur Olive",
+        "old_name:2018-2021": "Aumer Wirtshaus",
+        "opening_hours": "Tu-Th 17:00-23:00; Fr 17:00-01:00; Sa 15:00-01:00",
+        "outdoor_seating": "yes",
+        "website": "https://www.derzauberkessel.com",
+        "website:menu": "https://www.derzauberkessel.com/speisekarte/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1860257331,
+      "lat": 48.9453523,
+      "lon": 8.3833172,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "76275",
+        "addr:street": "Englerstraße",
+        "amenity": "restaurant",
+        "contact:phone": "+49 7243 6059595",
+        "contact:website": "https://www.vivapizza-ettlingen.de/",
+        "cuisine": "italian",
+        "name": "Viva",
+        "opening_hours": "Mo 11:00-13:30; Tu-Th 11:00-13:30,17:00-21:30; Fr 11:00-13:30,17:00-22:30; Sa 17:00-22:30; Su,PH 16:00-21:30",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1860261925,
+      "lat": 48.9463952,
+      "lon": 8.37696,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "turkish",
+        "fixme": "Name prüfen",
+        "name": "Steinofen Pizza Döner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1893291202,
+      "lat": 48.976647,
+      "lon": 8.4069262,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2026-06-12",
+        "diet:vegan": "yes",
+        "indoor_seating": "yes",
+        "name": "Das Rieberg",
+        "opening_hours": "Tu-Su 09:00-18:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 721 891518",
+        "smoking": "no",
+        "website": "https://dasrieberg.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1898152402,
+      "lat": 48.9526472,
+      "lon": 8.381564,
+      "tags": {
+        "amenity": "ice_cream",
+        "name": "Eiscafe Mango",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "phone": "+49 7243 3589319"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2149039384,
+      "lat": 48.8969888,
+      "lon": 8.5748073,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Café W18",
+        "opening_hours": "Su 14:30-17:30",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2276054382,
+      "lat": 48.9380541,
+      "lon": 8.4089482,
+      "tags": {
+        "indoor_seating": "yes",
+        "name": "Reuss",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-16:00",
+        "outdoor_seating": "no",
+        "shop": "bakery",
+        "smoking": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2299951103,
+      "lat": 48.9454143,
+      "lon": 8.4082765,
+      "tags": {
+        "brand": "Bäcker Görtz",
+        "brand:wikidata": "Q97572517",
+        "indoor_seating": "yes",
+        "name": "Bäcker Görtz",
+        "outdoor_seating": "yes",
+        "shop": "bakery",
+        "smoking": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2401507184,
+      "lat": 48.8986061,
+      "lon": 8.405516,
+      "tags": {
+        "amenity": "restaurant",
+        "beer_garden": "yes",
+        "cuisine": "schnitzel;regional",
+        "name": "Schnitzelranch am Lindenbrunnen",
+        "opening_hours": "Mo,Th 17:00-21:00; Tu,We off; Fr,Sa 17:00-22:00; Su,PH 11:30-20:30",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 9515",
+        "takeaway": "yes",
+        "website": "https://www.schnitzelranch.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2418762254,
+      "lat": 48.9461545,
+      "lon": 8.4101678,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "diet:kosher": "no",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Kulisse Kino Ettlingen",
+        "opening_hours": "Mo-Th 17:00-23:00; Tu-Su 14:30-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 33 06 33",
+        "smoking": "outside",
+        "website": "https://kulisse-ettlingen.de",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2446146423,
+      "lat": 48.9405027,
+      "lon": 8.4041231,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "italian",
+        "name": "Pizza Romé",
+        "old_name": "Snack & Bäck",
+        "smoking": "no",
+        "takeaway": "only",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2495510240,
+      "lat": 48.9471739,
+      "lon": 8.3828996,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:housenumber": "2-4",
+        "addr:postcode": "76275",
+        "addr:street": "Hertzstraße",
+        "check_date": "2026-03-24",
+        "check_date:opening_hours": "2026-07-10",
+        "contact:phone": "+49 7243 324690",
+        "contact:website": "https://baeckerei-nussbaumer.de/",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Bäckerei Nussbaumer",
+        "opening_hours": "Mo-Fr 05:30-21:00; Sa 06:00-21:00; Su 08:00-17:00",
+        "outdoor_seating": "yes",
+        "shop": "bakery",
+        "wheelchair": "yes",
+        "wheelchair:description": "alles mit Rollstuhl erreichbar, Toilette nicht geprüft"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2530429656,
+      "lat": 48.9098385,
+      "lon": 8.5267744,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "indoor_seating": "yes",
+        "name": "Landgasthof Pension Zum Hirsch",
+        "opening_hours": "Mo-Th 11:30-22:30, Su,PH 11:30-14:00; Fr,Sa open \"Nach Absprache\"",
+        "outdoor_seating": "yes",
+        "phone": "+49 7202 89 54",
+        "tourism": "hotel",
+        "website": "https://www.hirsch-karlsbad.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2570478016,
+      "lat": 48.8652809,
+      "lon": 8.5050098,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:housenumber": "19",
+        "addr:postcode": "76307",
+        "addr:street": "Lange Straße",
+        "addr:suburb": "Ittersbach",
+        "amenity": "bar",
+        "name": "Arrestkeller",
+        "phone": "+497248924366"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2604728179,
+      "lat": 48.9234754,
+      "lon": 8.4751118,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:housenumber": "30",
+        "addr:postcode": "76337",
+        "addr:street": "Pforzheimer Straße",
+        "amenity": "fast_food",
+        "cuisine": "asian",
+        "name": "Asia Wok Imbiss",
+        "opening_hours": "We-Mo 11:00-22:00; PH 11:00-22:00; Tu off"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2604761306,
+      "lat": 48.9239569,
+      "lon": 8.4750096,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:housenumber": "1",
+        "addr:postcode": "76337",
+        "addr:street": "Busenbacher Straße",
+        "amenity": "fast_food",
+        "cuisine": "turkish",
+        "name": "Orient Döner & Pizza",
+        "opening_hours": "Mo-Sa 11:00-22:00; Su,PH 12:00-22:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2661437296,
+      "lat": 48.896838,
+      "lon": 8.5748141,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2022-10-28",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "stiel Bar",
+        "opening_hours": "Fr 20:00-24:00",
+        "operator": "Christliche Gemeinschaft Ellmendingen",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2670483027,
+      "lat": 48.9233822,
+      "lon": 8.476052,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:housenumber": "4",
+        "addr:postcode": "76337",
+        "addr:street": "Kronenstraße",
+        "amenity": "fast_food",
+        "contact:instagram": "https://www.instagram.com/donerbar_waldbronn/",
+        "cuisine": "kebab;pizza",
+        "diet:gluten_free": "yes",
+        "name": "dönerbar",
+        "opening_hours": "Tu-Su 11:30-21:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2672123507,
+      "lat": 48.9473213,
+      "lon": 8.5738061,
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:country": "DE",
+        "addr:housenumber": "35",
+        "addr:postcode": "75196",
+        "addr:street": "Hauptstraße",
+        "email": "info@baeckerei-rebmann.de",
+        "name": "Bäckerei Rebmann",
+        "opening_hours": "Mo-Fr 06:00-13:00; Sa 06:00-12:30; Su,PH off",
+        "phone": "+49 7232 7352120",
+        "shop": "bakery",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2678737861,
+      "lat": 48.9428942,
+      "lon": 8.4091515,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "12a",
+        "addr:postcode": "76275",
+        "addr:street": "Pforzheimer Straße",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Badische Backstub'",
+        "opening_hours": "Mo-Fr 05:30-17:30; Sa 05:30-16:00; Su,PH 08:00-17:00",
+        "outdoor_seating": "yes",
+        "shop": "bakery",
+        "smoking": "outside",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2895027612,
+      "lat": 48.9375909,
+      "lon": 8.3886956,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "76275",
+        "addr:street": "Im Sportpark",
+        "amenity": "restaurant",
+        "changing_table": "yes",
+        "changing_table:location": "female_toilet",
+        "check_date": "2022-01-08",
+        "check_date:opening_hours": "2024-02-28",
+        "contact:email": "schnitzelburg@gmx.de",
+        "contact:facebook": "https://www.facebook.com/R%C3%BCppurrer-Schnitzel-Burg-663962223974294",
+        "contact:phone": "+49 7243 7405059",
+        "contact:website": "https://schnitzelburg.metro.rest/",
+        "cuisine": "regional",
+        "diet:vegetarian": "yes",
+        "dog": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "1",
+        "name": "Schnitzelburg",
+        "opening_hours": "Mo off; Tu-Fr 11:30-14:00,17:00-22:00; Sa 17:00-22:00; Su 12:00-21:00",
+        "opening_hours:kitchen": "Mo off; Tu-Fr 11:30-13:30,17:30-21:30; Sa 17:30-21:30; Su 12:00-14:00,17:00-20:30",
+        "operator": "Familie Cepera",
+        "outdoor_seating": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "reservation": "yes",
+        "self_service": "no",
+        "table_service": "yes",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3028696984,
+      "lat": 48.8976071,
+      "lon": 8.4222699,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "76275",
+        "addr:street": "Moosbronner Straße",
+        "amenity": "restaurant",
+        "contact:facebook": "https://de-de.facebook.com/Griechische.Krone/",
+        "contact:website": "https://www.docdroid.net/3aFNN0X/krone-pdf",
+        "cuisine": "greek",
+        "name": "Zur Krone",
+        "operator": "Pavlos Soupiadis",
+        "phone": "+49 7243 29258",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3181101844,
+      "lat": 48.864156,
+      "lon": 8.4260219,
+      "tags": {
+        "addr:city": "Marxzell",
+        "addr:housenumber": "1",
+        "addr:postcode": "76359",
+        "addr:street": "Wiesenhof",
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2026-07-13",
+        "name": "Gästehaus Wiesenhof",
+        "opening_hours": "We-Fr 11:00-14:00,17:00-22:00; Sa,Su 11:00-22:00; Mo,Tu off",
+        "tourism": "guest_house",
+        "website": "http://www.gästehaus-wiesenhof.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306710205,
+      "lat": 48.9584484,
+      "lon": 8.5689397,
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:housenumber": "7",
+        "addr:postcode": "75196",
+        "addr:street": "Lammstraße",
+        "amenity": "restaurant",
+        "capacity": "30",
+        "cuisine": "italian",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Zum Lamm",
+        "opening_hours": "Mo-Su 11:30-14:00,17:00-22:00; We off; Sa 17:00-22:00",
+        "phone": "+49 7232 319613",
+        "smoking": "no",
+        "website": "http://www.lamm-remchingen.de",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3306766339,
+      "lat": 48.9788333,
+      "lon": 8.4183389,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "76199",
+        "addr:street": "Kuhlager-Seele-Weg",
+        "addr:suburb": "Rüppurr",
+        "amenity": "restaurant",
+        "capacity": "45",
+        "cuisine": "greek",
+        "delivery": "12:00-20:00",
+        "diet:vegetarian": "yes",
+        "email": "info@zwitscher-stube.com",
+        "name": "Zwitscherstube",
+        "opening_hours": "Apr-Sep Mo-Su 10:00-23:30",
+        "opening_hours:kitchen": "11:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 72196498619",
+        "takeaway": "12:00-20:00",
+        "website": "https://zwitscher-stube.com/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3419297594,
+      "lat": 48.9011789,
+      "lon": 8.5750442,
+      "tags": {
+        "addr:city": "Keltern",
+        "addr:housenumber": "5",
+        "addr:postcode": "75210",
+        "addr:street": "Ettlinger Straße",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "indoor_seating": "yes",
+        "name": "Döner & Pizza Imbiss",
+        "opening_hours": "Mo-Fr 10:00-21:00",
+        "operator": "Berat Feinkost",
+        "outdoor_seating": "no",
+        "phone": "+49 7236 130687",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3419490797,
+      "lat": 48.8888027,
+      "lon": 8.5688682,
+      "tags": {
+        "addr:city": "Keltern",
+        "addr:country": "DE",
+        "addr:housenumber": "44",
+        "addr:postcode": "75210",
+        "addr:street": "Schwabenstraße",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Landgasthof Rössle",
+        "opening_hours": "Mo-Sa 17:30-22:00; Tu off; We off; Su 11:30-14:30,17:30-21:00",
+        "phone": "+49 7082 3813"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3425457958,
+      "lat": 48.8950107,
+      "lon": 8.4210624,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "37",
+        "addr:postcode": "76275",
+        "addr:street": "Moosbronner Straße",
+        "check_date": "2023-02-18",
+        "name": "Bäckerei Nußbaumer",
+        "phone": "+49 7243 5724657",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3445426747,
+      "lat": 48.9304301,
+      "lon": 8.4204212,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "name": "Waldgaststätte Schützenhaus",
+        "website": "https://www.sv-ettlingen.de/Gaststaette/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3450978416,
+      "lat": 48.9144262,
+      "lon": 8.4557173,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:housenumber": "1",
+        "addr:postcode": "76337",
+        "addr:street": "Kochmühle",
+        "addr:suburb": "Neurod",
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2023-10-12",
+        "cuisine": "regional",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "An der Kochmühle",
+        "opening_hours": "We-Su 11:00-22:00",
+        "phone": "+49 7243 61849",
+        "website": "https://www.kochmuehle1.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3746261580,
+      "lat": 48.9658673,
+      "lon": 8.4053812,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "76199",
+        "addr:street": "Battstraße",
+        "check_date:opening_hours": "2024-07-22",
+        "indoor_seating": "yes",
+        "name": "Hatz",
+        "opening_hours": "Mo-Fr 06:00-22:00; Su,Su 07:00-22:00",
+        "outdoor_seating": "no",
+        "shop": "bakery",
+        "smoking": "no",
+        "website": "http://ich-geh-zum-hatz.de/index.php/efabattstrasse.html",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3747911106,
+      "lat": 48.9727729,
+      "lon": 8.5488007,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Taoyuan",
+        "opening_hours": "Tu-Fr 11:30-14:00,17:00-21:30; Sa,Su 11:30-14:30,17:00-22:00",
+        "payment:cash": "yes",
+        "payment:maestro": "yes",
+        "phone": "+49 7240 943728",
+        "website": "https://www.restaurant-taoyuan.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3810968525,
+      "lat": 48.9405001,
+      "lon": 8.40669,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "76275",
+        "addr:street": "Schlossplatz",
+        "amenity": "restaurant",
+        "contact:phone": "+49 7243 9453749",
+        "contact:website": "http://www.trattoria-amico.de/",
+        "cuisine": "italian",
+        "indoor_seating": "yes",
+        "name": "Trattoria Amico",
+        "opening_hours": "Tu-Sa 12:00-14:00,18:00-22:00",
+        "operator": "Calogera Amico Morcelli",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3923740520,
+      "lat": 48.9410006,
+      "lon": 8.4080556,
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:street": "Kirchenplatz",
+        "amenity": "cafe",
+        "delivery": "no",
+        "description": "Pâtisserie fine - Café",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Le Petit Macaron",
+        "opening_hours": "We-Sa 10:00-18:00, Su,PH 11:00-18:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 9459382",
+        "smoking": "outside",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.lepetitmacaron.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3996936857,
+      "lat": 48.919977,
+      "lon": 8.5431522,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76307",
+        "addr:street": "Mühlenweg",
+        "addr:suburb": "Auerbach",
+        "amenity": "restaurant",
+        "contact:email": "mamutaj@gmail.com",
+        "contact:phone": "+49 7202 92 40 90",
+        "cuisine": "greek;german;mediterranean",
+        "name": "Gasthaus Schlössle",
+        "opening_hours": "Tu-Fr 11:30-14:30,17:00-22:00; Sa,Su,PH 11:30-22:00; Mo off"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3998835039,
+      "lat": 48.9569667,
+      "lon": 8.5679017,
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:housenumber": "38",
+        "addr:postcode": "75196",
+        "addr:street": "Marktstraße",
+        "check_date:opening_hours": "2025-10-17",
+        "name": "Bäckerei Rebmann",
+        "opening_hours": "Mo-Fr 06:30-13:00; Sa 06:30-12:30",
+        "phone": "+49 7232 70059",
+        "shop": "bakery",
+        "website": "https://www.baeckerei-rebmann.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4075650934,
+      "lat": 48.9187669,
+      "lon": 8.5053046,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "76307",
+        "addr:street": "Weinbrennerstraße",
+        "addr:suburb": "Langensteinbach",
+        "amenity": "fast_food",
+        "contact:email": "info@curry-21.de",
+        "contact:phone": "+49 7202 7090142",
+        "contact:website": "http://www.curry-21.de/",
+        "cuisine": "german",
+        "name": "Curry 21",
+        "opening_hours": "Mo-Sa 11:30-21:00",
+        "operator": "Silke Abendschön",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4157731059,
+      "lat": 48.9535607,
+      "lon": 8.572887,
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:housenumber": "7",
+        "addr:postcode": "75196",
+        "addr:street": "Bahnhofstraße",
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "diet:vegetarian": "no",
+        "drive_through": "no",
+        "name": "Bahnhofs-Döner",
+        "opening_hours": "Mo-Sa 11:00-22:00; Su,PH 12:00-22:00",
+        "phone": "+49 7232 3134437",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4173272794,
+      "lat": 48.9415681,
+      "lon": 8.4062281,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "diet:halal": "no",
+        "diet:kosher": "no",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Cafe am Neuen Markt",
+        "opening_hours": "Mo-Sa 09:30-19:00; PH,Su 12:00-19:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "wheelchair": "no",
+        "wheelchair:description": "Um in das Café zu gelangen, führt eine Treppe hinauf (nich zugänglich für Rollstuhl). Allerdings Sitzplätze draußen am Marktplatz sind gut zu erreichen."
+      }
+    },
+    {
+      "type": "node",
+      "id": 4179230815,
+      "lat": 48.9387995,
+      "lon": 8.4125369,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "17a",
+        "addr:postcode": "76275",
+        "addr:street": "Schöllbronner Straße",
+        "alt_name": "Richard Nussbaumer",
+        "contact:phone": "+49 7243 9468050",
+        "indoor_seating": "yes",
+        "name": "Cafe Albgrün",
+        "opening_hours": "Mo-Fr 05:30-20:00; Sa 07:00-18:30; Su 08:00-18:00",
+        "outdoor_seating": "yes",
+        "shop": "bakery",
+        "smoking": "outside",
+        "website": "https://baeckerei-nussbaumer.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4225361391,
+      "lat": 48.9453673,
+      "lon": 8.4082912,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "indoor_seating": "yes",
+        "name": "Antalya Döner & Feinkost",
+        "outdoor_seating": "no",
+        "shop": "deli",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4353981212,
+      "lat": 48.9868564,
+      "lon": 8.4635698,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "36a",
+        "addr:postcode": "76227",
+        "addr:street": "Brühlstraße",
+        "addr:suburb": "Durlach",
+        "amenity": "restaurant",
+        "check_date": "2025-11-03",
+        "contact:phone": "+49 721 60902527",
+        "contact:website": "http://www.tg-aue.de/unsereGaststaette/",
+        "cuisine": "greek",
+        "description": "Sportgaststätte der TG Aue",
+        "name": "Meze Meze",
+        "opening_hours": "Mo, Tu, Th, Fr 10:30-14:30, 17:00-23:00; We, Su10:30-23:00; Sa off",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4383641664,
+      "lat": 48.9305703,
+      "lon": 8.4690987,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:housenumber": "17",
+        "addr:postcode": "76337",
+        "addr:street": "Im Beckener",
+        "amenity": "restaurant",
+        "check_date": "2026-09-22",
+        "check_date:opening_hours": "2026-09-22",
+        "cuisine": "american",
+        "description": "Clubhaus FC Busenbach 1920 e.V.",
+        "name": "Tomahawk",
+        "old_name": "Albhöhe",
+        "opening_hours": "Mo,Fr 17:00-22:00; Tu 17:00-21:00; We,Th off; Sa 17:00-22:30; Su 12:00-21:00",
+        "smoking": "outside",
+        "toilets:wheelchair": "yes",
+        "website": "https://tomahawk-waldbronn.eatbu.com/",
+        "website:menu": "https://cdn.website.dish.co/media/c3/d4/9457497/Speisekarte.pdf",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4447580105,
+      "lat": 48.892857,
+      "lon": 8.4111803,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "41",
+        "addr:postcode": "76275",
+        "addr:street": "Mittelbergstraße",
+        "addr:suburb": "Schöllbronn",
+        "amenity": "restaurant",
+        "contact:phone": "+49 7243 29143",
+        "contact:website": "https://www.tsv-schoellbronn.de/verein/clubhaus",
+        "cuisine": "greek",
+        "name": "TSV Panorama",
+        "opening_hours": "Mo off; Tu-Fr 16:30-24:00; Sa,Su 11:00-24:00",
+        "operator": "Familie Kufalis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4618690111,
+      "lat": 48.9662344,
+      "lon": 8.4039758,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:housenumber": "37",
+        "addr:postcode": "76199",
+        "addr:street": "Allmendstraße",
+        "check_date:opening_hours": "2024-04-22",
+        "name": "Nussbaumer",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-11:00",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5077856926,
+      "lat": 48.9717424,
+      "lon": 8.4675294,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "76228",
+        "addr:street": "Elsa-Brändström-Straße",
+        "addr:suburb": "Bergwald",
+        "amenity": "cafe",
+        "contact:email": "info@goodkarmacoffee.de",
+        "contact:phone": "+49 721 97682476",
+        "contact:website": "http://www.goodkarmacoffee.de/",
+        "cuisine": "coffee_shop",
+        "delivery": "yes",
+        "internet_access": "no",
+        "level": "0",
+        "name": "Good Karma Coffee",
+        "opening_hours": "Tu,Fr 10:00-18:00, Sa 10:00-14:00",
+        "smoking": "outside",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5198708324,
+      "lat": 48.9712135,
+      "lon": 8.4062685,
+      "tags": {
+        "check_date": "2026-05-18",
+        "check_date:opening_hours": "2022-10-08",
+        "indoor_seating": "no",
+        "name": "Backstube Brauss",
+        "opening_hours": "Mo-Fr 06:30-18:00; Sa 06:30-13:00; PH,Su off",
+        "outdoor_seating": "no",
+        "shop": "bakery",
+        "takeaway": "only",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5201744218,
+      "lat": 48.9214911,
+      "lon": 8.4746352,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:housenumber": "2",
+        "addr:street": "Etzenroter Straße",
+        "amenity": "cafe",
+        "email": "info@schwitzers.com",
+        "name": "Schwitzer's Brasserie & Lounge",
+        "opening_hours": "Mo-Th 12:00-22:00; Fr,Sa 12:00-23:00; Su 11:30-21:30",
+        "opening_hours:kitchen": "Mo-Fr 12:00-14:30,17:30-21:00; Sa 12:00-21:00; Su 11:30-21:00",
+        "phone": "+49 7243 35 48 50",
+        "toilets:wheelchair": "yes",
+        "website": "https://schwitzers.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5201744220,
+      "lat": 48.9209272,
+      "lon": 8.4748685,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:housenumber": "4",
+        "addr:street": "Etzenroter Straße",
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2026-05-26",
+        "cuisine": "regional",
+        "name": "Schwitzer's Hotel am Park",
+        "opening_hours": "Tu-Sa 18:30-20:30",
+        "opening_hours:signed": "no",
+        "phone": "+49 7243 35 48 50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5209005337,
+      "lat": 48.993082,
+      "lon": 8.4616935,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "76227",
+        "addr:street": "Grenzstraße",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Pizza Brüder",
+        "opening_hours": "Mo-Th 11:00-23:00; Fr 01:00-24:00; Sa 15:00-24:00; Su,PH 02:00-24:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "website": "http://pizzabrüder.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5219521022,
+      "lat": 48.9043818,
+      "lon": 8.5017603,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76307",
+        "addr:street": "Guttmannstraße",
+        "addr:suburb": "Langensteinbach",
+        "amenity": "cafe",
+        "level": "0",
+        "name": "Cafeteria im SRH-Klinikum Karlsbad",
+        "opening_hours": "Mo-Fr 07:00-17:00; Sa-Su 13:00-17:00; PH 13:00-17:00",
+        "phone": "+49 7202 61-0",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Parkplatz für Rollifahrer vorhanden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5247453372,
+      "lat": 48.9204724,
+      "lon": 8.498932,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "13",
+        "addr:postcode": "76307",
+        "addr:street": "Benzstraße",
+        "addr:suburb": "Langensteinbach",
+        "name": "Marktbäckerei Piston",
+        "phone": "+49 7202 405383",
+        "shop": "bakery",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Behinderten-Parkplatz vorhanden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5422663739,
+      "lat": 48.9410045,
+      "lon": 8.400401,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:housenumber": "15",
+        "addr:postcode": "76275",
+        "addr:street": "Goethestraße",
+        "indoor_seating": "yes",
+        "name": "Nussbaumer",
+        "oven": "electric",
+        "shop": "bakery",
+        "snack": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5422672245,
+      "lat": 48.9421484,
+      "lon": 8.4086131,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:housenumber": "10",
+        "addr:postcode": "76275",
+        "addr:street": "Kronenstraße",
+        "indoor_seating": "yes",
+        "name": "Maische Bäck",
+        "outdoor_seating": "no",
+        "shop": "bakery",
+        "smoking": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5422749821,
+      "lat": 48.9490488,
+      "lon": 8.4033502,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:housenumber": "4",
+        "addr:postcode": "76275",
+        "addr:street": "Berliner Platz",
+        "indoor_seating": "yes",
+        "name": "Bäckerei Reuß",
+        "opening_hours": "Mo-Fr 06:00-18:30; Sa 06:00-13:00",
+        "outdoor_seating": "yes",
+        "shop": "bakery",
+        "smoking": "outside",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5692364121,
+      "lat": 48.9247431,
+      "lon": 8.3660585,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:housenumber": "27",
+        "addr:postcode": "76275",
+        "addr:street": "Richard-Wagner-Straße",
+        "name": "Reuss",
+        "opening_hours": "Mo-Fr 06:00-19:00; Sa 06:00-16:00",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5692364521,
+      "lat": 48.9461023,
+      "lon": 8.3848052,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "76275",
+        "addr:street": "Hertzstraße",
+        "contact:website": "https://www.stadtbaeckerei-dreher.de/",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Dreher",
+        "official_name": "Stadtbäckerei Dreher GmbH",
+        "opening_hours": "Mo-Sa 08:00-16:00",
+        "outdoor_seating": "yes",
+        "shop": "bakery",
+        "smoking": "outside",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6298243225,
+      "lat": 48.9520296,
+      "lon": 8.3811937,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "89",
+        "addr:postcode": "76275",
+        "addr:street": "Ahornweg",
+        "alt_name": "Hello Pizza",
+        "amenity": "fast_food",
+        "contact:email": "mayame000@gmail.com",
+        "contact:facebook": "https://www.facebook.com/pizzaciaoItaliaettlingen",
+        "contact:phone": "+49 7243 5314949",
+        "contact:website": "https://www.pizza-ciao-ettlingen.de/",
+        "cuisine": "italian",
+        "delivery": "yes",
+        "name": "Pizza Ciao",
+        "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-24:00; Sa 16:00-24:00; Su 12:00-22:00",
+        "opening_hours:signed": "yes",
+        "operator": "Muhammad Ali",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6341545186,
+      "lat": 48.8877263,
+      "lon": 8.5458015,
+      "tags": {
+        "addr:city": "Keltern",
+        "addr:housenumber": "9",
+        "addr:postcode": "75210",
+        "addr:street": "Mühlbachstraße",
+        "amenity": "cafe",
+        "email": "info@der-naturkostladen-keltern.de",
+        "indoor_seating": "yes",
+        "name": "Ecki's Naturkostladen",
+        "opening_hours": "Mo-Fr 08:00-12:30,15:00-19:00; Sa 08:00-13:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 7236 980582",
+        "shop": "convenience",
+        "website": "https://www.der-naturkostladen-keltern.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6448205547,
+      "lat": 48.9406736,
+      "lon": 8.4087239,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "76275",
+        "addr:street": "Kirchenplatz",
+        "amenity": "cafe",
+        "check_date": "2026-05-23",
+        "cuisine": "breakfast;german",
+        "indoor_seating": "yes",
+        "name": "Alb-Café",
+        "opening_hours": "Tu-Sa 09:30-18:00; Su,PH 11:00-18:00; Mo off",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 345835",
+        "smoking": "outside",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6564348232,
+      "lat": 48.8758167,
+      "lon": 8.436951,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "Am Windeck",
+        "amenity": "cafe",
+        "name": "EvenTraum",
+        "outdoor_seating": "yes",
+        "phone": "+49 157 566 917 27",
+        "website": "https://eventraum-lola.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6564521347,
+      "lat": 48.940937,
+      "lon": 8.4070442,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "76275",
+        "addr:street": "Marktstraße",
+        "amenity": "restaurant",
+        "check_date": "2026-03-29",
+        "check_date:opening_hours": "2026-03-29",
+        "cuisine": "vietnamese",
+        "indoor_seating": "yes",
+        "name": "Moon Restaurant",
+        "old_name": "Curry275",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "only",
+        "phone": "+49 17632790301;+49 7243 7187584",
+        "smoking": "outside",
+        "website": "https://moon-restaurant.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6771161988,
+      "lat": 48.9711354,
+      "lon": 8.4041489,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "107",
+        "addr:postcode": "76199",
+        "addr:street": "Rastatter Straße",
+        "amenity": "fast_food",
+        "check_date": "2026-05-18",
+        "cuisine": "kebab",
+        "indoor_seating": "yes",
+        "name": "Rüppurr Döner & Pizzahaus",
+        "name:de": "Rüppurr Döner & Pizzahaus",
+        "opening_hours": "Mo-Sa 11:00-22:00; Su 12:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 721 89314888",
+        "smoking": "outside",
+        "website": "https://www.rueppurr-doener-und-pizza-haus.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6847819259,
+      "lat": 48.9588677,
+      "lon": 8.4939766,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:place": "Gut Batzenhof",
+        "addr:postcode": "76227",
+        "addr:suburb": "Hohenwettersbach",
+        "amenity": "restaurant",
+        "contact:email": "info@genusswerk-ka.de",
+        "contact:fax": "+49 721 47034307",
+        "contact:phone": "+49 721 47034306",
+        "contact:website": "https://www.genusswerk-ka.de/",
+        "description": "Restaurant & Café am Golfpark",
+        "indoor_seating": "yes",
+        "name": "Genusswerk",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "Matti Berger; Manuel Diehl",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6900413274,
+      "lat": 48.9262731,
+      "lon": 8.3802695,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "76275",
+        "addr:street": "Dorfwiesenstraße",
+        "amenity": "restaurant",
+        "contact:phone": "+49 7243 769606",
+        "contact:website": "http://www.pizzeria-alter-jahn.de/",
+        "cuisine": "italian",
+        "name": "Pizzeria Alter Jahn",
+        "opening_hours": "Tu-Sa 17:00-23:00; PH,Su 11:30-23:00; Mo off",
+        "operator": "Giuseppe Vetrano",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7188144485,
+      "lat": 48.9403326,
+      "lon": 8.4075214,
+      "tags": {
+        "addr:housenumber": "28",
+        "addr:postcode": "76275",
+        "addr:street": "Leopoldstraße",
+        "amenity": "restaurant",
+        "cuisine": "local",
+        "email": "Info@badischer-hof-ettlingen.de",
+        "indoor_seating": "yes",
+        "name": "Badischer Hof",
+        "opening_hours": "Mo-Th 10:30-00:00; Fr-Sa 10:30-01:00; Su 10:30-00:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 7696677",
+        "smoking": "outside",
+        "website": "https://www.badischer-hof-ettlingen.de",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7369060663,
+      "lat": 48.9520719,
+      "lon": 8.5706932,
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:housenumber": "8",
+        "addr:postcode": "75196",
+        "addr:street": "San-Biagio-Platani-Platz",
+        "amenity": "restaurant",
+        "contact:phone": "+49 7232 3149960",
+        "cuisine": "german",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "microbrewery": "yes",
+        "name": "LandBrauHaus | Brauhaus 2.0 GmbH",
+        "opening_hours": "Mo 17:00-23:00; Tu-Sa 11:45-23:00; Su 11:45-21:30",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "payment:girocard": "yes",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.landbrauhaus.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9011023166,
+      "lat": 48.9376086,
+      "lon": 8.4076011,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:housenumber": "30",
+        "addr:postcode": "76275",
+        "addr:street": "Schloßgartenstraße",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "email": "info@pizzeria-napoli.com",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Pizzeria Napoli",
+        "opening_hours": "Mo-Fr 11:00-14:00; Mo-Sa 17:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 3649588",
+        "smoking": "outside",
+        "website": "https://pizzeria-napoli-karlsruhe.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9081863778,
+      "lat": 48.9471565,
+      "lon": 8.4127432,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:housenumber": "24",
+        "addr:postcode": "76275",
+        "addr:street": "Durlacher Straße",
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "name": "Café Blumen Beetz",
+        "opening_hours": "Tu-Fr 09:00-18:00; Sa 09:00-14:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9496491773,
+      "lat": 48.9516835,
+      "lon": 8.5710298,
+      "tags": {
+        "amenity": "cafe",
+        "contact:facebook": "bistroalbertremchingen",
+        "contact:phone": "+49 7232 7350147",
+        "cuisine": "bistro",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Albert Einstein",
+        "opening_hours": "Mo-Fr 11:00-23:00; Sa,Su 09:00-23:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9524049531,
+      "lat": 48.9094246,
+      "lon": 8.4638651,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:housenumber": "56",
+        "addr:postcode": "76337",
+        "addr:street": "Hohbergstraße",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "wunderbar",
+        "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-12:30",
+        "phone": "+4972435314935",
+        "website": "https://www.wunderbar-etzenrot.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9660966838,
+      "lat": 48.9695308,
+      "lon": 8.4449589,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "email": "Sabrina.Rehhorn@gmx.de",
+        "name": "Schützenhaus Wolfartsweier",
+        "opening_hours": "Tu-We 11:30-14:00, 17:30-21:00; Fr-Sa 11:30-14:00, 17:30-21:00; Su 11:30-19:00",
+        "phone": "+49 721 491799",
+        "website": "https://www.schuetzenhaus-wolfartsweier.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9707041723,
+      "lat": 48.9707986,
+      "lon": 8.4431738,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "76228",
+        "addr:street": "Horbenloch",
+        "amenity": "restaurant",
+        "name": "Gaststätte ASV Wolfahrtsweier",
+        "old_name": "Horbenlochstube;Bistro Schiri",
+        "opening_hours": "We-Su 17:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9892855337,
+      "lat": 48.939505,
+      "lon": 8.4102839,
+      "tags": {
+        "addr:postcode": "76275",
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2024-05-27",
+        "diet:halal": "no",
+        "diet:kosher": "no",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Mama's",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9933282040,
+      "lat": 48.9113935,
+      "lon": 8.5049607,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:housenumber": "100",
+        "addr:postcode": "76307",
+        "addr:street": "Hauptstraße",
+        "amenity": "fast_food",
+        "contact:facebook": "https://www.facebook.com/p/100068807934451",
+        "cuisine": "turkish;kebab",
+        "name": "Stern Kebap",
+        "phone": "+49 4972 023389"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10102888796,
+      "lat": 48.9291674,
+      "lon": 8.3898881,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:housenumber": "1a",
+        "addr:postcode": "76275",
+        "addr:street": "Georg-Blasel-Straße 1a, 76275 Ettlingen",
+        "amenity": "cafe",
+        "contact:email": "info@casadelgusto24.de",
+        "contact:phone": "+49 7243 3509075",
+        "contact:website": "https://www.casadelgusto24.de/",
+        "cuisine": "italian",
+        "name": "Casa del Gusto",
+        "opening_hours": "We-Su 17:30-22:00; Mo,Tu off",
+        "operator": "Alexandra Feser",
+        "outdoor_seating": "yes",
+        "start_date": "2024-02-02"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10127028083,
+      "lat": 48.927933,
+      "lon": 8.3889672,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "28",
+        "addr:postcode": "76275",
+        "addr:street": "Ettlinger Straße",
+        "contact:email": "webmaster@maische-baeck.de",
+        "contact:phone": "+49 7243 15852",
+        "contact:website": "https://www.maische-baeck.de/",
+        "name": "Maische Bäck",
+        "opening_hours": "Mo-Fr 06:00-13:00; Sa 06:00-12:30",
+        "operator": "Dieter Ockert",
+        "shop": "bakery",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no",
+        "wheelchair:description": "5 Treppenstufen am Eingang."
+      }
+    },
+    {
+      "type": "node",
+      "id": 10142382640,
+      "lat": 48.9412583,
+      "lon": 8.4072768,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76275",
+        "addr:street": "Marktplatz",
+        "amenity": "cafe",
+        "contact:email": "info@boeckeler.org",
+        "contact:facebook": "https://www.facebook.com/Boeckeler.Confiserie",
+        "contact:instagram": "https://www.instagram.com/boeckeler.confiserie/",
+        "contact:phone": "+49 7243 7651530",
+        "contact:website": "https://www.boeckeler.org/standorte/cafe-ettlingen/",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "name": "Café Böckeler",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "operator": "Böckeler Confiserie und Kaffeehausbetriebe GmbH",
+        "outdoor_seating": "yes",
+        "reservation": "yes",
+        "smoking": "outside",
+        "start_date": "2022-11-04",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10232881509,
+      "lat": 48.9414788,
+      "lon": 8.4078986,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "indoor_seating": "yes",
+        "name": "die Ratsstuben",
+        "opening_hours": "Mo 17:30-23:00; We-Sa 12:00-14:30,17:15-23:00; Su 12:00-16:00,17:00-21:30",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 21 99 399",
+        "smoking": "outside",
+        "website": "https://die-ratsstuben.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10859848542,
+      "lat": 48.9018288,
+      "lon": 8.5704356,
+      "tags": {
+        "addr:city": "Keltern",
+        "addr:country": "DE",
+        "addr:housenumber": "43",
+        "addr:postcode": "75210",
+        "addr:street": "Ettlinger Straße",
+        "amenity": "ice_cream",
+        "indoor_seating": "yes",
+        "name": "Eisfabrik Keltern",
+        "opening_hours": "We-Su 14:00-19:00",
+        "outdoor_seating": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "website": "https://www.eisfabrik-keltern.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10912577206,
+      "lat": 48.9448083,
+      "lon": 8.488604,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Restaurant Winterrot",
+        "opening_hours": "Mo-Sa 17:00-21:30 open \"Restaurant\"",
+        "phone": "+49 721 5979470",
+        "website": "https://hotel-winterrot.de/restaurant-bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10998463712,
+      "lat": 48.9295003,
+      "lon": 8.4725489,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "76337",
+        "addr:street": "Marktplatz",
+        "amenity": "restaurant",
+        "contact:instagram": "chengsasiankitchen",
+        "contact:phone": "+49 7243 7404177",
+        "cuisine": "asian",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Cheng's Asian Kitchen",
+        "opening_hours": "Tu-Su 11:30-14:30,17:30-22:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11007325399,
+      "lat": 48.9927522,
+      "lon": 8.4612452,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "76227",
+        "addr:street": "Westmarkstraße",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Holi Fusion Kitchen",
+        "opening_hours": "Mo-Th 17:00-20:00; Fr 11:30-14:00,17:00-21:00; Sa,Su,PH off",
+        "outdoor_seating": "yes",
+        "phone": "+49 721 60953949",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "website": "https://holi-karlsruhe.eatbu.com/?lang=en",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11467225815,
+      "lat": 48.9325087,
+      "lon": 8.4773522,
+      "tags": {
+        "access": "customers",
+        "addr:city": "Waldbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76337",
+        "addr:street": "Ermlis-Allee",
+        "amenity": "fast_food",
+        "contact:email": "elements.waldbronn@gmail.com",
+        "contact:website": "https://elements-bistro-kiosk-eistreff-waldbronn.eatbu.com/",
+        "description": "Bistro Grill",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "elements",
+        "opening_hours": "We 18:30-21:00; Fr 15:30-22:00; Sa 13:00-22:00; Su,PH 10:00-18:00",
+        "outdoor_seating": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:paypal": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11508899282,
+      "lat": 48.9408232,
+      "lon": 8.3692209,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "29",
+        "addr:postcode": "76275",
+        "addr:street": "Rudolf-Plank-Straße",
+        "contact:phone": "+49 7243 52420",
+        "contact:website": "https://badische-backstub.de/",
+        "lunch": "yes",
+        "name": "Badische Backstub'",
+        "opening_hours": "Mo-Fr 06:00-15:00; Sa 07:00-11:30; Su,PH 08:00-11:00",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11516963085,
+      "lat": 48.9469852,
+      "lon": 8.4782897,
+      "tags": {
+        "name": "Richard Nussbaumer",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11624887468,
+      "lat": 48.9725702,
+      "lon": 8.5487781,
+      "tags": {
+        "addr:city": "Pfinztal",
+        "addr:housenumber": "9",
+        "addr:postcode": "76327",
+        "addr:street": "Hammerwerkstraße",
+        "cafe": "yes",
+        "check_date:opening_hours": "2026-01-22",
+        "contact:email": "info@baeckerei-nussbaumer.de",
+        "contact:phone": "+49 7240 206932",
+        "contact:website": "https://baeckerei-nussbaumer.de/nussbaumer-filialen/",
+        "name": "Bäckerei Nussbaumer",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 06:00-21:00",
+        "operator": "Bäckerei Nussbaumer GmbH & Co. KG",
+        "outdoor_seating": "yes",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11761574015,
+      "lat": 48.9300013,
+      "lon": 8.475984,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:housenumber": "8",
+        "addr:postcode": "76337",
+        "addr:street": "Talstraße",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizzeria Toscana",
+        "opening_hours": "Mo-Sa 18:00-22:00; Su,PH 12:00-14:00,17:00-21:00",
+        "phone": "+497243 66511",
+        "website": "https://www.toscana-waldbronn.de"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11919742279,
+      "lat": 48.8888296,
+      "lon": 8.5709064,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Hof Cafe Haus Senfkorn",
+        "opening_hours": "Tu 09:00-12:00,14:00-18:00",
+        "operator": "Senfkorn e.V.",
+        "outdoor": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11931086409,
+      "lat": 48.9932215,
+      "lon": 8.4615161,
+      "tags": {
+        "addr:housenumber": "72",
+        "addr:street": "Auer Straße",
+        "amenity": "cafe",
+        "check_date": "2024-05-24",
+        "indoor_seating": "yes",
+        "name": "Bistro Bunte Kuh 3.0",
+        "opening_hours": "Mo-Th 15:00-23:00; Fr,Sa 15:00-01:30",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11970737444,
+      "lat": 48.9204284,
+      "lon": 8.3741621,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2025-11-09",
+        "contact:email": "ermels-mittagstisch-events@gmx.de",
+        "contact:mobile": "+49 176 58873608",
+        "contact:website": "https://www.ermels.com/",
+        "description": "Mittagstisch und Events",
+        "lunch": "yes",
+        "name": "Ermel's",
+        "opening_hours": "Mo-Fr 11:00-14:00; Sa,Su,PH off",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12069877949,
+      "lat": 48.945395,
+      "lon": 8.4080873,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "sausage",
+        "indoor_seating": "no",
+        "name": "De Pälzer Grill",
+        "outdoor_seating": "yes",
+        "smoking": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12158244708,
+      "lat": 48.9401328,
+      "lon": 8.4084175,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "indoor_seating": "yes",
+        "name": "Vinh Long",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12179279633,
+      "lat": 48.9295185,
+      "lon": 8.4750715,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:housenumber": "7b",
+        "addr:postcode": "76337",
+        "addr:street": "Talstraße",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese;asian;sushi",
+        "diet:seafood": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "email": "info@suoi-restaurant.de",
+        "name": "SUOI",
+        "opening_hours": "Mo-Sa 11:30-14:30,17:00-22:00",
+        "outdoor_seating": "no",
+        "payment:apple_pay": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:google_pay": "yes",
+        "phone": "+49 7243 3737766",
+        "website": "https://suoi-restaurant.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12179279634,
+      "lat": 48.929526,
+      "lon": 8.4746745,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:housenumber": "7a",
+        "addr:postcode": "76337",
+        "addr:street": "Talstraße",
+        "check_date:opening_hours": "2025-12-23",
+        "name": "Nussbaumer",
+        "opening_hours": "Mo-Fr 06:00-18:00, Sa-Su 07:00-17:00",
+        "operator": "Bäckerei Nussbaumer GmbH & Co.KG",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+49 7243 7697915",
+        "shop": "bakery",
+        "website": "https://baeckerei-nussbaumer.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12179285144,
+      "lat": 48.930268,
+      "lon": 8.4744242,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:housenumber": "10",
+        "addr:postcode": "76337",
+        "addr:street": "Talstraße",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Thollembeek",
+        "opening_hours": "Mo-Sa 07:00-22:00",
+        "operator": "Bäckerei Thollembeek GmbH & Co. KG",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+49 7252 94450",
+        "shop": "bakery",
+        "website": "https://www.thollembeek.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12343366464,
+      "lat": 48.9141984,
+      "lon": 8.5059527,
+      "tags": {
+        "amenity": "fast_food",
+        "contact:facebook": "hahnchengrilllangensteinbach",
+        "contact:mobile": "+49 163 3780224",
+        "contact:whatsapp": "+49 163 3780224",
+        "cuisine": "chicken",
+        "diet:meat": "yes",
+        "drive_through": "no",
+        "name": "Gockel-Hütte",
+        "opening_hours": "Mo-Fr 11:00-18:00; Sa-Su off",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12495518247,
+      "lat": 48.9298775,
+      "lon": 8.4709929,
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:housenumber": "2",
+        "addr:postcode": "76337",
+        "addr:street": "Marktplatz",
+        "amenity": "fast_food",
+        "cuisine": "kebab;pizza",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "name": "Özi's Qebap",
+        "opening_hours": "Mo-Su 11:00-22:00; We off",
+        "website": "https://www.oezis-qebap.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12506469825,
+      "lat": 48.9317116,
+      "lon": 8.4725451,
+      "tags": {
+        "amenity": "pub",
+        "name": "Monte Casino",
+        "opening_hours": "Mo-Th 10:00-24:00, Fr,Sa 10:00-01:00, Su 10:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13071657045,
+      "lat": 48.9058217,
+      "lon": 8.5010554,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:housenumber": "17",
+        "addr:postcode": "76307",
+        "addr:street": "Spielberger Straße",
+        "amenity": "fast_food",
+        "contact:instagram": "fontanas_hot_pizza",
+        "contact:phone": "+49 7202 944933",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "description": "Abholung bei Badstraße 19",
+        "drive_through": "no",
+        "name": "Fontana's Hot Pizza",
+        "opening_hours": "Mo 11:00-14:00, 17:00-22:00; Tu off; We-Fr 11:00-14:00, 17:00-22:00; Sa-Su, PH 15:00-21:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13104021204,
+      "lat": 48.9166327,
+      "lon": 8.507238,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:housenumber": "6",
+        "addr:postcode": "76307",
+        "addr:street": "Pforzheimer Straße",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/p/Zum-goldenen-Ochsen-Karlsbad-100070359259354/",
+        "name": "Zum Goldenen Ochsen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13155110004,
+      "lat": 48.9414747,
+      "lon": 8.3998779,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "17",
+        "addr:postcode": "76275",
+        "addr:street": "Goethestraße",
+        "amenity": "cafe",
+        "email": "info@cafe-ela.de",
+        "name": "Cafe ela",
+        "opening_hours": "Mo-Fr 09:00-17:30; Sa 09:00-15:00",
+        "operator": "Michaela Jacobs",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 3589654",
+        "website": "https://www.cafe-ela.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13158362040,
+      "lat": 48.9206443,
+      "lon": 8.5035581,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:housenumber": "4",
+        "addr:postcode": "76307",
+        "addr:street": "Benzstraße",
+        "amenity": "ice_cream",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "yes",
+        "indoor_seating": "no",
+        "name": "EIS BÄR",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13246089050,
+      "lat": 48.9285351,
+      "lon": 8.5683672,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "la pizza Heimservice",
+        "opening_hours": "Mo-Th 16:00-24:00, Fr 16:00-02:00, Sa 12:00-02:00, Su,PH 12:00-23:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13260878908,
+      "lat": 48.9664585,
+      "lon": 8.5536345,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2025-11-02",
+        "cuisine": "turkish",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Istanbul Restaurant",
+        "opening_hours:signed": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13311021252,
+      "lat": 48.9744941,
+      "lon": 8.4044823,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Mango Thai",
+        "opening_hours": "Tu-Fr 11:30-15:00, 17:00-22:00; Sa 17:00-22:00; Su,PH 11:30-22:00; Mo off",
+        "website": "https://www.mango-thai.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13342605878,
+      "lat": 48.9055057,
+      "lon": 8.4322091,
+      "tags": {
+        "amenity": "restaurant",
+        "changing_table": "yes",
+        "cuisine": "german",
+        "highchair": "Available",
+        "internet_access": "no",
+        "name": "TSV Waldgaststätte",
+        "opening_hours": "We-Sa 16:30-24:00; Su 10:30-24:00; PH 10:30-24:00 open",
+        "opening_hours:kitchen": "We-Sa 16:30-21:00; Su 11:00-21:00; PH 11:00-21:00 open",
+        "outdoor_seating": "yes",
+        "reservation": "recommended",
+        "smoking": "outside",
+        "source": "bing",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:wheelchair": "designated",
+        "website": "https://www.waldgaststaette-spessart.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13390885194,
+      "lat": 48.9709328,
+      "lon": 8.5512927,
+      "tags": {
+        "addr:city": "Pfinztal",
+        "addr:country": "DE",
+        "addr:housenumber": "39",
+        "addr:postcode": "76327",
+        "addr:street": "Hammerwerkstraße",
+        "addr:suburb": "Kleinsteinbach",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "delivery": "only",
+        "indoor_seating": "no",
+        "level": "0",
+        "name": "NiRo's Napoli Taste",
+        "opening_hours": "Fr 18:00-21:00; Sa 17:00-20:00; Su 17:00-20:00",
+        "outdoor_seating": "no",
+        "takeaway": "only",
+        "website": "https://nirosnapolitaste.de/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13758776971,
+      "lat": 48.9577422,
+      "lon": 8.4661257,
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "2a",
+        "addr:postcode": "76228",
+        "addr:street": "Am Steinhäusle",
+        "addr:suburb": "Grünwettersbach",
+        "name": "Bäckerei Fütterer",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13880733001,
+      "lat": 48.9420039,
+      "lon": 8.4081595,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:postcode": "76235",
+        "addr:street": "Kronenstraße",
+        "amenity": "restaurant",
+        "check_date": "2026-05-26",
+        "check_date:opening_hours": "2026-05-26",
+        "cuisine": "portuguese;spanish;tapas",
+        "name": "Casa MamaTina",
+        "opening_hours": "Tu 09:00-14:00; We-Th 09:00-14:00, 17:30-22:00; Fr 09:00-14:00, 17:30-22:30; Sa 17:30-22:30; Su 09:00-13:00",
+        "phone": "+49 7243 3645834",
+        "website": "https://www.casa-mamatina.de"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14041391202,
+      "lat": 48.9893188,
+      "lon": 8.4573969,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "Memeler Straße",
+        "amenity": "biergarten",
+        "name": "Der Zauberkessel",
+        "opening_hours": "Tu-Th 17:00-23:00; Fr-Sa 17:00-01:00",
+        "website": "https://www.derzauberkessel.com/",
+        "website:menu": "https://www.derzauberkessel.com/speisekarte/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14113731523,
+      "lat": 48.942802,
+      "lon": 8.4108063,
+      "tags": {
+        "contact:website": "https://www.cafe-pierod.de/",
+        "name": "Eiscafe Pierod",
+        "shop": "ice_cream"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14157469009,
+      "lat": 48.9167765,
+      "lon": 8.5102904,
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:housenumber": "35",
+        "addr:postcode": "76307",
+        "addr:street": "Pforzheimer Straße",
+        "amenity": "restaurant",
+        "contact:email": "info@foerstlich.de",
+        "contact:phone": "+49 7202 9425775",
+        "contact:website": "https://www.foerstlich.de/",
+        "name": "Förstlich",
+        "opening_hours": "We-Fr 17:00-23:00",
+        "website:menu": "https://www.foerstlich.de/menue"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14313688249,
+      "lat": 48.9214323,
+      "lon": 8.3747033,
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76275",
+        "addr:street": "Im Stöck",
+        "cafe": "yes",
+        "contact:phone": "+49 7243 7159789",
+        "contact:website": "https://www.baeckerei-koehler.de/",
+        "indoor_seating": "yes",
+        "lunch": "yes",
+        "name": "Köhler`s Landbäckerei",
+        "official_name": "Köhler`s Landbäckerei GmbH & Co KG",
+        "opening_hours": "Mo-Fr 06:00-17:00; Sa,Su 08:00-11:00",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "shop": "bakery",
+        "start_date": "2026-10-19"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28525571,
+      "center": {
+        "lat": 48.9205059,
+        "lon": 8.3676139
+      },
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "76275",
+        "addr:street": "Teichweg",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:phone": "+49 7243 90240",
+        "cuisine": "german",
+        "name": "TV05 Vereinsgaststätte",
+        "opening_hours": "Mo-We 17:00-24:00; Th 16:00-24:00; Fr 17:00-24:00",
+        "operator": "Familie Petry"
+      }
+    },
+    {
+      "type": "way",
+      "id": 34956522,
+      "center": {
+        "lat": 48.9902,
+        "lon": 8.4671071
+      },
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:place": "Im Breitbarts-Brüchle",
+        "addr:postcode": "76227",
+        "addr:suburb": "Durlach",
+        "amenity": "restaurant",
+        "building": "yes",
+        "check_date": "2026-07-03",
+        "check_date:diet:vegetarian": "2026-07-03",
+        "contact:email": "info@schreberklause-karlsruhe.de",
+        "contact:phone": "+49 721 94317731",
+        "contact:website": "http://schreberklause-karlsruhe.de/",
+        "cuisine": "greek",
+        "diet:vegetarian": "yes",
+        "name": "Schreberklause",
+        "opening_hours": "Tu-Sa 17:30-22:30; Mo off, We-Sa 11:30-14:30, Su 11:30-22:00",
+        "operator": "Argirios Giannikis",
+        "outdoor_seating": "yes",
+        "source:outline": "Maps4BW (LGL-BW, www.lgl-bw.de)",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 41680996,
+      "center": {
+        "lat": 48.9552295,
+        "lon": 8.4791674
+      },
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "76228",
+        "addr:street": "Balinger Straße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "german",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Tannweg",
+        "opening_hours": "We,Th 17:00-21:45; Fr,Sa 12:00-01:45,17:00-21:45, Su 11:45-13:45,17:00-19:30",
+        "phone": "+49 721 945550",
+        "website": "https://www.tannweg.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 64925886,
+      "center": {
+        "lat": 48.941946,
+        "lon": 8.4096386
+      },
+      "tags": {
+        "amenity": "biergarten",
+        "cuisine": "italian",
+        "name": "Padellino",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 67493122,
+      "center": {
+        "lat": 48.936383,
+        "lon": 8.4068533
+      },
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "76275",
+        "addr:street": "Horbachstraße",
+        "amenity": "cafe",
+        "building": "yes",
+        "changing_table": "yes",
+        "changing_table:fee": "no",
+        "changing_table:location": "wheelchair_toilet",
+        "check_date:opening_hours": "2025-07-25",
+        "cuisine": "regional;breakfast;cake;pasta",
+        "diet:gluten_free": "only",
+        "diet:vegan": "yes",
+        "email": "info@lillehuscafe.de",
+        "gluten_free": "yes",
+        "highchair": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "LilleHus Café",
+        "opening_hours": "We-Su 09:00-17:00",
+        "outdoor_seating": "yes",
+        "payment:account_cards": "yes",
+        "payment:app": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+49 7243 12536",
+        "smoking": "outside",
+        "source": "Maps4BW, LGL, www.lgl-bw.de",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.lillehuscafe.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 67681790,
+      "center": {
+        "lat": 48.9398676,
+        "lon": 8.391216
+      },
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76275",
+        "addr:street": "Im Sportpark",
+        "amenity": "restaurant",
+        "building": "yes",
+        "indoor_seating": "yes",
+        "name": "Gaststätte ASV Ettlingen",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 68455863,
+      "center": {
+        "lat": 48.9403528,
+        "lon": 8.4073473
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "building": "kiosk",
+        "check_date": "2026-05-31",
+        "cuisine": "chinese",
+        "indoor_seating": "yes",
+        "name": "Asia-Wok",
+        "opening_hours": "Mo-Sa 11:00-21:00; PH off",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 72478242,
+      "center": {
+        "lat": 48.9451953,
+        "lon": 8.3985826
+      },
+      "tags": {
+        "amenity": "pub",
+        "building": "kiosk",
+        "check_date": "2024-10-10",
+        "indoor_seating": "yes",
+        "name": "Kiosk am Wasen",
+        "outdoor_seating": "no",
+        "shop": "kiosk",
+        "smoking": "outside",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 72880762,
+      "center": {
+        "lat": 48.9394708,
+        "lon": 8.4169851
+      },
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "67",
+        "addr:postcode": "76275",
+        "addr:street": "Pforzheimer Straße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "check_date:opening_hours": "2025-11-29",
+        "indoor_seating": "yes",
+        "name": "Hartmaier's Villa Restaurant",
+        "opening_hours": "We-Mo 12:15-15:00,18:00-23:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "source": "Maps4BW, LGL, www.lgl-bw.de",
+        "toilets": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 73204006,
+      "center": {
+        "lat": 48.9396961,
+        "lon": 8.4172139
+      },
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "67",
+        "addr:postcode": "76275",
+        "addr:street": "Pforzheimer Straße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "diet:vegetarian": "no",
+        "indoor_seating": "yes",
+        "name": "WaTT's",
+        "opening_hours": "Mo-Sa 17:00-23:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.watts.de/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 99029194,
+      "center": {
+        "lat": 48.9564603,
+        "lon": 8.4699908
+      },
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "76228",
+        "addr:street": "Im Rodel",
+        "addr:suburb": "Grünwettersbach",
+        "amenity": "restaurant",
+        "building": "house",
+        "building:levels": "1",
+        "cuisine": "mediterranean;regional",
+        "diet:vegetarian": "yes",
+        "email": "jaceks.gastronomie@gmail.com",
+        "name": "Jaceks's Gastronomie",
+        "opening_hours": "Tu-Sa 16:00-01:00, Su 11:30-01:00",
+        "phone": "+49 721 45744",
+        "source": "LA-KA",
+        "website": "https://jaceks-gastronomie.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 100290687,
+      "center": {
+        "lat": 48.9444953,
+        "lon": 8.4787908
+      },
+      "tags": {
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "76228",
+        "addr:street": "Waldbronner Straße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "check_date": "2025-11-07",
+        "check_date:diet:vegan": "2025-11-07",
+        "check_date:diet:vegetarian": "2025-11-07",
+        "check_date:opening_hours": "2024-10-07",
+        "contact:email": "costaluigi@web.de",
+        "contact:phone": "+49 721 45898",
+        "contact:website": "http://www.waldenserschaenke.de/",
+        "cuisine": "pizza",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Waldenserschänke",
+        "opening_hours": "Tu,We,Sa 17:00-22:00; Th,Fr 12:00-14:00,17:00-22:00; Su 12:00-21:00; Mo off",
+        "operator": "Luigi Costa",
+        "source": "LA-KA",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 100656027,
+      "center": {
+        "lat": 48.9461754,
+        "lon": 8.4801788
+      },
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "76228",
+        "addr:street": "Waldbronner Straße",
+        "addr:suburb": "Palmbach",
+        "amenity": "restaurant",
+        "building": "yes",
+        "changing_table": "no",
+        "check_date": "2025-11-07",
+        "check_date:diet:vegetarian": "2025-11-07",
+        "check_date:opening_hours": "2025-11-07",
+        "check_date:toilets:wheelchair": "2025-11-07",
+        "contact:phone": "+49 721 451227",
+        "contact:website": "http://www.schmalztoepfle.de/",
+        "diet:vegetarian": "no",
+        "name": "Schmalztöpfle",
+        "opening_hours": "Tu-Su 18:00+",
+        "source": "LA-KA",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 111834318,
+      "center": {
+        "lat": 48.9140967,
+        "lon": 8.4944663
+      },
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "65",
+        "addr:postcode": "76307",
+        "addr:street": "Jahnstraße",
+        "addr:suburb": "Langensteinbach",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:email": "wagenburg.maurer@web.cde",
+        "name": "Zur Wagenburg",
+        "note": "Clubhaus des SV Langensteinbach",
+        "phone": "+49 170 2084132",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Behindertenparkplatz vorhanden"
+      }
+    },
+    {
+      "type": "way",
+      "id": 112391038,
+      "center": {
+        "lat": 48.884727,
+        "lon": 8.3978799
+      },
+      "tags": {
+        "addr:city": "Malsch",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:place": "Rimmelsbacher Hof",
+        "addr:postcode": "76316",
+        "addr:suburb": "Malsch-Völkersbach",
+        "amenity": "restaurant",
+        "brewery": "hoepfner",
+        "building": "yes",
+        "contact:phone": "+49 7204 202",
+        "contact:website": "http://www.rimmelsbacher-hof.de/",
+        "cuisine": "regional",
+        "description": "Küchenschluss: Fr/Sa 2000Uhr, So 1900Uhr",
+        "email": "info@rimmelsbacher-hof.de",
+        "name": "Waldgasthaus Rimmelsbacher Hof",
+        "opening_hours": "Mo, Tu off; We, Th 12:00-17:00; Fr, Sa 12:00-21:00; Su 12:00-20:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "reservation": "yes",
+        "toilets": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.rimmelsbacher-hof.de/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 113422412,
+      "center": {
+        "lat": 48.860401,
+        "lon": 8.4478336
+      },
+      "tags": {
+        "addr:city": "Marxzell",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76359",
+        "addr:street": "Burbacher Straße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Marxzeller Mühle",
+        "wikidata": "Q111853225"
+      }
+    },
+    {
+      "type": "way",
+      "id": 117109708,
+      "center": {
+        "lat": 48.899839,
+        "lon": 8.4621416
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Gaststätte Kunz am Talberg",
+        "opening_hours": "Mo-We off; Th-Sa 17:00-23:00; Su 11:30-14:00,17:00-22:00",
+        "operator": "SV Spielberg 1920 e. V."
+      }
+    },
+    {
+      "type": "way",
+      "id": 117486078,
+      "center": {
+        "lat": 48.9161403,
+        "lon": 8.5067186
+      },
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "76307",
+        "addr:street": "Hauptstraße",
+        "addr:suburb": "Langensteinbach",
+        "alt_name": "Stracciatella Eiscafé",
+        "amenity": "cafe",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/p/Stracciatella-Eiscaf%C3%A9-100057320685117/",
+        "contact:instagram": "eiscafestracciatella",
+        "cuisine": "ice_cream",
+        "indoor_seating": "yes",
+        "lastcheck": "2020-07-04",
+        "name": "Eiscafé Stracciatella",
+        "outdoor_seating": "yes",
+        "source": "Maps4BW, LGL, www.lgl-bw.de",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 118718074,
+      "center": {
+        "lat": 48.9183254,
+        "lon": 8.3659287
+      },
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:housenumber": "16",
+        "addr:postcode": "76275",
+        "addr:street": "Alemannenweg",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "german",
+        "name": "Zur Alemannia",
+        "opening_hours": "Mo 17:00-23:00; Tu off; We-Sa 17:00-23:00; Su 11:00-14:30,17:00-22:00",
+        "outdoor_seating": "yes",
+        "toilets": "yes",
+        "toilets:access": "permissive",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 118929292,
+      "center": {
+        "lat": 48.9206446,
+        "lon": 8.5023898
+      },
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "76307",
+        "addr:street": "Benzstraße",
+        "addr:suburb": "Langensteinbach",
+        "building": "yes",
+        "name": "KATZ",
+        "shop": "bakery",
+        "source": "Maps4BW, LGL, www.lgl-bw.de"
+      }
+    },
+    {
+      "type": "way",
+      "id": 119398783,
+      "center": {
+        "lat": 48.9201114,
+        "lon": 8.4735067
+      },
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "76337",
+        "addr:street": "Etzenroter Straße",
+        "amenity": "cafe",
+        "building": "yes",
+        "check_date:opening_hours": "2026-05-26",
+        "name": "Kurpark Pavillon",
+        "opening_hours": "Mo-Sa 14:30-21:00; Su,PH 11:30-20:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 9391139"
+      }
+    },
+    {
+      "type": "way",
+      "id": 122599717,
+      "center": {
+        "lat": 48.9443003,
+        "lon": 8.5746853
+      },
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:country": "DE",
+        "addr:housenumber": "1/1",
+        "addr:postcode": "75196",
+        "addr:street": "Hauptstraße",
+        "amenity": "ice_cream",
+        "building": "house",
+        "instagram": "vinleys.eisladen",
+        "name": "Vinleys Eisladen",
+        "opening_hours": "Mo-Fr 12:00-19:00, Sa-Su 13:00-19:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 125527105,
+      "center": {
+        "lat": 48.9725727,
+        "lon": 8.4087111
+      },
+      "tags": {
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "29a",
+        "addr:postcode": "76199",
+        "addr:street": "Diakonissenstraße",
+        "amenity": "fast_food",
+        "building": "yes",
+        "contact:phone": "+49 721 9892055",
+        "contact:website": "https://www.classdoener-pizzahaus.de/",
+        "cuisine": "kebab",
+        "description": "Döner & Pizza Haus",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "indoor_seating": "yes",
+        "name": "Rüppurr Class",
+        "opening_hours": "Mo-Sa 10:00-22:30; PH,Su 12:00-22:30",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 131761704,
+      "center": {
+        "lat": 48.9210333,
+        "lon": 8.4846875
+      },
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:housenumber": "77",
+        "addr:postcode": "76337",
+        "addr:street": "Pforzheimer Straße",
+        "building": "retail",
+        "name": "Nussbaumer Bäckerei",
+        "opening_hours": "Mo-Fr 06:00-18:30; Sa 06:00-17:00; Su 07:00-17:00",
+        "phone": "+49 7243 567811",
+        "shop": "bakery",
+        "website": "https://baeckerei-nussbaumer.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 199088673,
+      "center": {
+        "lat": 48.9006323,
+        "lon": 8.5777609
+      },
+      "tags": {
+        "addr:city": "Keltern",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "75210",
+        "addr:street": "Wildbader Straße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "email": "info@traube-ellmendingen.de",
+        "name": "Traube",
+        "opening_hours": "Mo-Sa 17:00-23:30; Tu off; We off; Th off; Su 11:30-14:00,17:00-23:30",
+        "operator": "Familie Maurer",
+        "phone": "+49 7236 8149",
+        "website": "https://www.traube-ellmendingen.de",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 216496424,
+      "center": {
+        "lat": 48.9015272,
+        "lon": 8.5767839
+      },
+      "tags": {
+        "addr:city": "Keltern",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "75210",
+        "addr:street": "Durlacher Straße",
+        "amenity": "restaurant",
+        "building": "commercial",
+        "cuisine": "regional",
+        "email": "info@goldenerochsen-keltern.de",
+        "name": "Goldener Ochsen",
+        "opening_hours": "Mo-Sa 12:00-14:30,18:00-22:00; Su 12:00-14:30",
+        "phone": "+49 7236 8142",
+        "tourism": "hotel",
+        "website": "https://www.goldenerochsen-keltern.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217869113,
+      "center": {
+        "lat": 48.9202055,
+        "lon": 8.4799586
+      },
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "18",
+        "addr:postcode": "76337",
+        "addr:street": "Neubrunnenschlag",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Weinhaus Steppe",
+        "opening_hours": "Mo-We 18:00-22:00",
+        "phone": "+49 7243 56560",
+        "tourism": "hotel",
+        "website": "https://www.weinhaus-steppe.de/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218875631,
+      "center": {
+        "lat": 48.9313351,
+        "lon": 8.4789667
+      },
+      "tags": {
+        "addr:city": "Waldbronn",
+        "addr:country": "DE",
+        "addr:housenumber": "93",
+        "addr:postcode": "76337",
+        "addr:street": "Stuttgarter Straße",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "building": "yes",
+        "changing_table": "yes",
+        "cuisine": "german;seafood;steak_house;french;mediterranean;european;salad;tea;juice;sausage;fries",
+        "diet:meat": "yes",
+        "diet:mediterranean": "yes",
+        "diet:vegetarian": "yes",
+        "highchair": "yes",
+        "internet_access": "wlan",
+        "name": "Restaurant Zum Polske",
+        "opening_hours": "Mo-Sa 17:00-23:00",
+        "outdoor_seating": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:google_pay": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+4917640727874",
+        "reservation": "recommended",
+        "takeaway": "yes",
+        "website": "https://zumpolske.de",
+        "website:menu": "https://cdn.website.dish.co/media/03/bd/9216566/Speisekarte.pdf"
+      }
+    },
+    {
+      "type": "way",
+      "id": 233497543,
+      "center": {
+        "lat": 48.9461772,
+        "lon": 8.4099905
+      },
+      "tags": {
+        "amenity": "biergarten",
+        "name": "Kulisse",
+        "opening_hours": "Mo-Su 14:30-23:00",
+        "smoking": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 240164533,
+      "center": {
+        "lat": 48.9049616,
+        "lon": 8.4997281
+      },
+      "tags": {
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "76307",
+        "addr:street": "Spielberger Straße",
+        "addr:suburb": "Langensteinbach",
+        "amenity": "restaurant",
+        "brewery": "Waldhaus",
+        "building": "yes",
+        "contact:email": "Info@extrem-anders.de",
+        "contact:facebook": "https://www.facebook.com/people/Extrem-anders/100046755262335/",
+        "contact:phone": "+49 7202 4099509",
+        "contact:website": "https://www.extrem-anders.de/",
+        "name": "Extrem Anders",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": ">>Zugang über Rampe an der Seitentür >>Wegen Zugang zum barrierefreien WC bitte beim Personal anfragen >> Der angeschlossene Minigolfplatz ist rollstuhlgeeignet"
+      }
+    },
+    {
+      "type": "way",
+      "id": 241127924,
+      "center": {
+        "lat": 48.9140025,
+        "lon": 8.5588554
+      },
+      "tags": {
+        "addr:city": "Keltern",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "75210",
+        "addr:street": "Königstraße",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "diet:vegetarian": "no",
+        "name": "Adler",
+        "opening_hours": "Mo-Fr 11:30-14:15,16:30-22:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "phone": "+49 7236 980 306",
+        "takeaway": "no",
+        "website": "https://www.gasthaus-adler-keltern.de/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 246646245,
+      "center": {
+        "lat": 48.9131102,
+        "lon": 8.494403
+      },
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "76307",
+        "addr:street": "Am Schelmenbusch",
+        "addr:suburb": "Langensteinbach",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:phone": "+49 7202 3989972",
+        "cuisine": "italian",
+        "delivery": "yes",
+        "delivery:partner": "Lieferando",
+        "name": "More Amore",
+        "note": "Clubhaus des TC Langensteinbach",
+        "opening_hours": "Mo off; Tu-Sa 11:00-14:00,17:30-22:00; Su 15:00-21:00",
+        "source": "Maps4BW, LGL, www.lgl-bw.de",
+        "website:menu": "https://www.tc-langensteinbach.de/wp-content/uploads/2026/06/MoreAmore_Speisekarte_2026.pdf"
+      }
+    },
+    {
+      "type": "way",
+      "id": 292071059,
+      "center": {
+        "lat": 48.8615637,
+        "lon": 8.4482633
+      },
+      "tags": {
+        "addr:city": "Marxzell",
+        "addr:housenumber": "4",
+        "addr:postcode": "76359",
+        "addr:street": "Albtalstraße",
+        "amenity": "cafe",
+        "building": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Cafe Museum Marxzell",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 313406478,
+      "center": {
+        "lat": 48.931815,
+        "lon": 8.5708647
+      },
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:housenumber": "3",
+        "addr:postcode": "75196",
+        "addr:street": "Talstraße",
+        "building": "commercial",
+        "name": "Bio-Punkt",
+        "shop": "deli"
+      }
+    },
+    {
+      "type": "way",
+      "id": 316190356,
+      "center": {
+        "lat": 48.8626536,
+        "lon": 8.470329
+      },
+      "tags": {
+        "addr:city": "Marxzell",
+        "addr:housenumber": "101",
+        "addr:postcode": "76359",
+        "addr:street": "Blumenstraße",
+        "addr:suburb": "Pfaffenrot",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "1",
+        "capacity": "85",
+        "cuisine": "italian",
+        "delivery": "no",
+        "name": "Zum Stegbach",
+        "opening_hours": "Tu-Fr 16:00+; Sa 12:00+; Su 10:00+",
+        "smoking": "isolated",
+        "takeaway": "yes",
+        "website": "https://www.tsv-pfaffenrot.de/sportgaststaette/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 316205545,
+      "center": {
+        "lat": 48.8635489,
+        "lon": 8.4961887
+      },
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:country": "DE",
+        "addr:housename": "Clubhaus VFR Ittersbach",
+        "addr:housenumber": "1",
+        "addr:postcode": "76307",
+        "addr:street": "Am Sportplatz",
+        "addr:suburb": "Ittersbach",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:phone": "+49 7248 6334",
+        "cuisine": "greek",
+        "name": "Restaurant Akropolis",
+        "opening_hours": "We-Sa 17:00-23:00; Su 11:30-15:00,16:00-20:00",
+        "source": "Maps4BW",
+        "toilets:wheelchair": "no",
+        "website": "https://akropolis-ittersbach.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 340282095,
+      "center": {
+        "lat": 48.9361722,
+        "lon": 8.4950078
+      },
+      "tags": {
+        "addr:city": "Karlsbad",
+        "addr:housenumber": "4",
+        "addr:postcode": "76307",
+        "addr:street": "Im Steinig",
+        "amenity": "cafe",
+        "building": "yes",
+        "contact:phone": "+49 7202 9421546",
+        "contact:website": "https://www.gefluegelhof-denninger.de/",
+        "name": "Hofcafe Scheunenladen",
+        "opening_hours": "Th 14:30-18:00; Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30"
+      }
+    },
+    {
+      "type": "way",
+      "id": 389206284,
+      "center": {
+        "lat": 48.9394765,
+        "lon": 8.4096572
+      },
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76275",
+        "addr:street": "Thiebauthstraße",
+        "amenity": "ice_cream",
+        "building": "retail",
+        "diet:halal": "no",
+        "diet:kosher": "no",
+        "email": "pavillon@cafe-pierod.de",
+        "indoor_seating": "yes",
+        "name": "Pierod",
+        "opening_hours": "Mar-Sep Mo-Sa 09:00-22:00; Mar-Sep PH,Su 11:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 718245",
+        "smoking": "outside",
+        "website": "https://www.cafe-pierod.de/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 592616694,
+      "center": {
+        "lat": 48.8868009,
+        "lon": 8.4168166
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Kiosk"
+      }
+    },
+    {
+      "type": "way",
+      "id": 675533321,
+      "center": {
+        "lat": 48.9417475,
+        "lon": 8.4049567
+      },
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "76275",
+        "addr:street": "Rheinstraße",
+        "alt_name": "Vogelbräu",
+        "amenity": "restaurant",
+        "check_date": "2026-09-25",
+        "check_date:diet:vegan": "2025-06-19",
+        "check_date:opening_hours": "2026-09-25",
+        "contact:email": "ettlingen@vogelbraeu.de",
+        "contact:phone": "+49 7243 561720",
+        "contact:website": "https://www.vogelbraeu.de",
+        "cuisine": "german",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "microbrewery": "yes",
+        "name": "Vogel Hausbräu Ettlingen",
+        "opening_hours": "Mo-Th 11:00-24:00; Fr-Sa 10:00-01:00; Su 10:00-12:00",
+        "operator": "der Vogelbräu GmbH",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "start_date": "1988-06-12",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 800465516,
+      "center": {
+        "lat": 48.9296626,
+        "lon": 8.4705736
+      },
+      "tags": {
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Cafe am Marktplatz",
+        "opening_hours": "Mo-Th 16:00-22:00; Fr,Sa 12:00-23:00; Su 12:00-22:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1004941883,
+      "center": {
+        "lat": 48.8891436,
+        "lon": 8.4504551
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/ImbissFischweier",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "no",
+        "name": "Imbiss Fischweier",
+        "opening_hours": "Mar-Nov: Mo,Tu 11:00-20:00; Th-Su 11:00-20:00; We off; Dec-Feb: off",
+        "outdoor_seating": "yes",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1089834717,
+      "center": {
+        "lat": 48.9375196,
+        "lon": 8.4194677
+      },
+      "tags": {
+        "addr:city": "Ettlingen",
+        "addr:housenumber": "72a",
+        "addr:postcode": "76275",
+        "addr:street": "Pforzheimer Straße",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "building": "retail",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Su-Th 09:00-24:00; Fr 12:00-01:00; Sa 09:00-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 7243 9490014",
+        "smoking": "outside",
+        "start_date": "2022-10-28",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1436285218,
+      "center": {
+        "lat": 48.948469,
+        "lon": 8.5745344
+      },
+      "tags": {
+        "addr:city": "Remchingen",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "75196",
+        "addr:street": "Hildastraße",
+        "amenity": "cafe",
+        "building": "house",
+        "building:levels": "2",
+        "cuisine": "cake;coffee_shop;breakfast",
+        "email": "chenchen0301@hotmail.com",
+        "instagram": "chens.cafe.kitchen",
+        "mobile": "+4917681156169",
+        "name": "CHEN’s Cafe + Kitchen",
+        "opening_hours": "Tu-Fr 09:00-12:30,14:30-17:30; Mo \"Backtag\"; PH off",
+        "phone": "+4972323838715",
+        "roof:levels": "0"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1455334762,
+      "center": {
+        "lat": 48.9453993,
+        "lon": 8.3904519
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "grill",
+        "diet:vegetarian": "no",
+        "name": "Meli's Grill",
+        "opening_hours": "Mo-Sa 10:30-20:00; Su,PH off",
+        "wheelchair": "yes"
+      }
+    }
+  ]
+}

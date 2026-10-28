@@ -1,0 +1,105 @@
+{
+  "_hinweis": "Von Hand gepflegte Korrekturen. \"eintraege\" zeigt auf OSM-IDs, \"zusaetzlich\" sind Lokale, die OpenStreetMap nicht kennt. Angaben bitte bei Gelegenheit auf den Seiten der Betriebe gegenprüfen.",
+  "eintraege": {
+    "node/6657525699": {
+      "name": "Bodega GALLO Borracho",
+      "kueche": "Spanisch, Griechisch",
+      "gruppe": "Griechisch & Mediterran",
+      "hinweis": "Früher Deutschhaus, Tapas"
+    },
+    "way/59232881": {
+      "name": "Kern",
+      "hinweis": "Oberauroff, Biergarten, mit Hotel"
+    },
+    "node/13432981585": {
+      "name": "Emmy’s Cake",
+      "hinweis": "Im Gewerbegebiet, Torten auf Bestellung"
+    }
+  },
+  "zusaetzlich": [
+    {
+      "name": "Shinn Sushi",
+      "kueche": "Sushi, Japanisch",
+      "gruppe": "Asiatisch",
+      "ort": "Idstein",
+      "tel": "06126 9592288",
+      "url": "https://shinn.günstigbestellen.de/",
+      "ruhetag": "Di",
+      "hinweis": "Nur Barzahlung",
+      "liefert": true,
+      "km": 0.1
+    },
+    {
+      "name": "Soni Trattoria & Pizzaria",
+      "kueche": "Pizza, Türkisch",
+      "gruppe": "Türkisch & Kebap",
+      "ort": "Idstein-Altstadt",
+      "tel": "0176 62484399",
+      "url": "https://pizza-soni-idstein.de/",
+      "ruhetag": "Mi",
+      "hinweis": "Pizza und Kebap unter einem Dach",
+      "liefert": true,
+      "km": 0.1
+    },
+    {
+      "name": "Ayaz’s Döner Pizza Haus",
+      "kueche": "Türkisch, Pizza",
+      "gruppe": "Türkisch & Kebap",
+      "ort": "Idstein",
+      "tel": "06126 9583587",
+      "url": "",
+      "ruhetag": "",
+      "hinweis": "Bahnhofstraße, auch Lahmacun",
+      "liefert": true,
+      "km": 0.3
+    },
+    {
+      "name": "Restaurant Eulenstein",
+      "kueche": "Gehoben",
+      "gruppe": "Gehoben",
+      "ort": "Idstein",
+      "tel": "06126 9535286",
+      "url": "http://www.restaurant-eulenstein.com/",
+      "ruhetag": "Mo, Di",
+      "hinweis": "Unscheinbar im Wohngebiet, kleine Karte",
+      "liefert": false,
+      "km": 0.8
+    },
+    {
+      "name": "Addis-Saba",
+      "kueche": "Äthiopisch",
+      "gruppe": "Sonstiges",
+      "ort": "Idstein",
+      "tel": "06126 7002506",
+      "url": "http://www.addis-saba.de/",
+      "ruhetag": "",
+      "hinweis": "Täglich geöffnet",
+      "liefert": false,
+      "km": 0.8
+    },
+    {
+      "name": "Bäckerei Simon",
+      "kueche": "Bäckerei",
+      "gruppe": "Café, Eis & Bäckerei",
+      "ort": "Idstein",
+      "tel": "06126 988050",
+      "url": "http://www.baeckerei-simon.de/",
+      "ruhetag": "So",
+      "hinweis": "Frühstück erst ab 8 Uhr",
+      "liefert": false,
+      "km": 1.8
+    },
+    {
+      "name": "Asia Express",
+      "kueche": "Asiatisch",
+      "gruppe": "Asiatisch",
+      "ort": "Bad Camberg",
+      "tel": "06434 9091885",
+      "url": "https://asiaexpressbadcamberg.de/",
+      "ruhetag": "",
+      "hinweis": "Täglich geöffnet",
+      "liefert": false,
+      "km": 8.4
+    }
+  ]
+}
