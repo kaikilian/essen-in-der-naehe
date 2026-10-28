@@ -49,6 +49,7 @@ jobs:
         # Damit ein späterer Build ohne Netz dasselbe Ergebnis liefert
         # und man im Verlauf sieht, was sich in OSM geändert hat.
         if: github.event_name != 'pull_request'
+        continue-on-error: true
         run: |
           if [ -n "$(git status --porcelain roh daten)" ]; then
             git config user.name  'github-actions[bot]'
@@ -61,7 +62,7 @@ jobs:
           fi
 
       - name: Hochladen
-        if: github.ref == 'refs/heads/main'
+        if: always() && github.ref == 'refs/heads/main'
         env:
           FTP_HOST: ${{ secrets.FTP_HOST }}
           FTP_USER: ${{ secrets.FTP_USER }}
