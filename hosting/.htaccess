@@ -3,7 +3,8 @@ RewriteEngine On
 RewriteCond %{HTTPS} !=on
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
-# Die Wunschliste ist nicht fürs Publikum
-<Files "anfragen.json">
+# Rohdaten der Beiträge sind nicht fürs Publikum.
+# gemeinschaft.json bleibt bewusst lesbar - die holt die Seite.
+<FilesMatch "^(anfragen|stimmen)\.json$|^\.salz$">
   Require all denied
-</Files>
+</FilesMatch>

@@ -138,6 +138,19 @@ tbody tr:hover { background: var(--surface-2); }
 .c-name a:hover { color: var(--accent); }
 .c-kueche { color: var(--fg-dim); min-width: 110px; }
 .num { font-family: var(--font-mono); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.c-note { white-space: nowrap; }
+.schnitt { font-family: var(--font-mono); font-weight: 600; font-size: .9rem; }
+.anzahl { font-family: var(--font-mono); font-size: .72rem; color: var(--fg-dim); margin-left: 3px; }
+.c-tun { white-space: nowrap; }
+.tun {
+  font: inherit; font-size: .8rem; background: none; border: 0; padding: 0 0 0 7px;
+  color: var(--accent); text-decoration: none; cursor: pointer;
+}
+.tun:first-child { padding-left: 0; }
+.tun:hover { text-decoration: underline; }
+.tun[disabled] { color: var(--fg-dim); cursor: default; text-decoration: none; }
+.sym { font-size: .95rem; line-height: 1; }
+.tag-weg { background: color-mix(in srgb, var(--warm) 16%, transparent); color: var(--warm); }
 .c-note select {
   font: inherit; font-family: var(--font-mono); font-size: .82rem; font-weight: 600;
   color: var(--fg); background: var(--surface); border: 1px solid transparent;
@@ -255,7 +268,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
           <th data-s="tel" scope="col">Telefon <span class="arrow">↑</span></th>
           <th data-s="ruhetag" scope="col">Ruhetag <span class="arrow">↑</span></th>
           <th data-s="hinweis" scope="col">Hinweis <span class="arrow">↑</span></th>
-          <th scope="col">Route</th>
+          <th scope="col">Aktionen</th>
         </tr>
       </thead>
       <tbody id="tb"></tbody>
@@ -266,8 +279,12 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
   <footer>
     <p>Kartendaten von <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>,
        © OpenStreetMap-Mitwirkende, Lizenz ODbL. Stand <span id="stand">—</span>.</p>
-    <p><b>Note</b> vergibst du selbst. Sie wird nur in deinem Browser gespeichert, geht an niemanden und ist auf einem
-       anderen Gerät nicht da.</p>
+    <p><b>Note</b> vergibt jeder selbst. Die große Zahl ist der Schnitt aller Stimmen, die kleine dahinter ihre Anzahl.
+       Deine eigene Wahl steht im Auswahlfeld und bleibt in diesem Browser gespeichert. Gespeichert wird nur die Note
+       selbst — kein Name, keine Anmeldung, keine Adresse im Klartext.</p>
+    <p><b>✎</b> öffnet den Editor von OpenStreetMap für genau diesen Eintrag. Wer dort etwas richtigstellt — falscher
+       Name, andere Öffnungszeiten, Laden zu — verbessert damit alle Karten, und beim nächsten Lauf steht es auch hier
+       richtig. <b>⚑</b> meldet einen Eintrag als geschlossen; ab zwei Meldungen erscheint ein Hinweis in der Zeile.</p>
     <p><b>Liefert</b> heißt eigener Lieferdienst; ob bis zu dir gefahren wird, klärt nur ein Anruf.
        Ruhetage stammen aus den Öffnungszeiten in OpenStreetMap und sind gerade bei Landgasthöfen oft veraltet —
        vor der Fahrt anrufen. „Heute geöffnet“ wertet nur die Ruhetage aus, keine Uhrzeiten und keine Betriebsferien.</p>
@@ -358,21 +375,63 @@ function host(u) {
 }
 const NOTEN_KEY = "essen-noten";
 let NOTEN = {};
+let MELDUNGEN = {};
+let BEITRAG = false;   // steht beitrag.php bereit?
 try { NOTEN = JSON.parse(localStorage.getItem(NOTEN_KEY) || "{}"); } catch (e) { NOTEN = {}; }
+try { MELDUNGEN = JSON.parse(localStorage.getItem("essen-meldungen") || "{}"); } catch (e) { MELDUNGEN = {}; }
 
-function noteVon(r) {
-  const eigen = NOTEN[r.id];
-  return eigen != null ? eigen : (r.note != null ? r.note : null);
-}
 function noteSetzen(id, wert) {
   if (wert === "") delete NOTEN[id]; else NOTEN[id] = Number(wert);
   try { localStorage.setItem(NOTEN_KEY, JSON.stringify(NOTEN)); } catch (e) { /* privates Fenster */ }
 }
-function noteFeld(r) {
-  const w = noteVon(r);
+/* Was die Gemeinschaft beigesteuert hat - wird beim Laden nachgeholt. */
+let GEMEINSCHAFT = {};
+const gem = r => GEMEINSCHAFT[r.id] || null;
+const gemeldet = r => (gem(r) || {}).geschlossen || 0;
+
+/* Zum Sortieren: erst der Schnitt der anderen, sonst die eigene Note. */
+function noteVon(r) {
+  const g = gem(r);
+  if (g && g.schnitt != null) return g.schnitt;
+  const eigen = NOTEN[r.id];
+  if (eigen != null) return eigen;
+  return r.note != null ? r.note : null;
+}
+
+function noteZelle(r) {
+  const g = gem(r);
+  const eigen = NOTEN[r.id] ?? null;
   const opt = ["", 1, 2, 3, 4, 5].map(v =>
-    `<option value="${v}"${String(w ?? "") === String(v) ? " selected" : ""}>${v === "" ? "–" : v}</option>`).join("");
-  return `<select data-id="${esc(r.id)}" data-leer="${w == null ? "ja" : "nein"}" aria-label="Eigene Note für ${esc(r.name)}">${opt}</select>`;
+    `<option value="${v}"${String(eigen ?? "") === String(v) ? " selected" : ""}>${v === "" ? "–" : v}</option>`).join("");
+  const schnitt = (g && g.schnitt != null)
+    ? `<span class="schnitt">${g.schnitt.toFixed(1).replace(".", ",")}</span>` +
+      `<span class="anzahl">(${g.anzahl})</span><br>`
+    : "";
+  return schnitt +
+    `<select data-id="${esc(r.id)}" data-leer="${eigen == null ? "ja" : "nein"}" ` +
+    `aria-label="Eigene Note für ${esc(r.name)}">${opt}</select>`;
+}
+
+/* Stift öffnet den OSM-Editor genau für dieses Objekt. Wer dort etwas
+   richtigstellt, verbessert alle Karten, nicht nur diese Liste. */
+function osmLink(r) {
+  const [typ, nr] = String(r.id).split("/");
+  if (!["node", "way", "relation"].includes(typ) || r.lat == null) return null;
+  return `https://www.openstreetmap.org/edit?${typ}=${nr}#map=19/${r.lat}/${r.lon}`;
+}
+
+function aktionen(r) {
+  const teile = [`<a class="tun" href="${maps(r)}" target="_blank" rel="noopener">Route&nbsp;↗</a>`];
+  const osm = osmLink(r);
+  if (osm) teile.push(`<a class="tun sym" href="${osm}" target="_blank" rel="noopener" ` +
+    `title="Angaben in OpenStreetMap berichtigen" aria-label="In OpenStreetMap berichtigen">✎</a>`);
+  if (BEITRAG) {
+    const schon = MELDUNGEN[r.id];
+    teile.push(`<button type="button" class="tun sym" data-melden="${esc(r.id)}"${schon ? " disabled" : ""} ` +
+      `title="${schon ? "von dir gemeldet" : "als geschlossen melden"}" ` +
+      `aria-label="Als geschlossen melden">${schon ? "✓" : "⚑"}</button>`);
+  }
+  return teile.join("");
 }
 
 function maps(r) {
@@ -479,15 +538,16 @@ function render() {
     return '<tr>' +
       '<td class="c-name">' + name +
         (r.liefert ? '<span class="tag tag-l">liefert</span>' : "") +
-        (zuHeute ? '<span class="tag tag-zu">heute zu</span>' : "") + '</td>' +
+        (zuHeute ? '<span class="tag tag-zu">heute zu</span>' : "") +
+        (gemeldet(r) ? '<span class="tag tag-weg" title="von Besuchern gemeldet">' + gemeldet(r) + '\u00d7 geschlossen gemeldet</span>' : "") + '</td>' +
       '<td class="c-kueche">' + esc(r.kueche) + '</td>' +
-      '<td class="c-note" data-k="Note">' + noteFeld(r) + '</td>' +
+      '<td class="c-note" data-k="Note">' + noteZelle(r) + '</td>' +
       '<td class="c-ort" data-k="Ort">' + esc(r.ort) + '</td>' +
       '<td class="num c-km" data-k="Luftlinie">' + r.km.toFixed(1).replace(".", ",") + ' km</td>' +
       '<td class="num c-tel" data-k="Tel.">' + (r.tel ? esc(r.tel) : '<span class="dash">–</span>') + '</td>' +
       '<td class="c-zu" data-k="Ruhetag">' + (r.ruhetag ? esc(r.ruhetag) : '<span class="dash">–</span>') + '</td>' +
       '<td class="c-hinweis">' + esc(r.hinweis) + '</td>' +
-      '<td><a class="route" href="' + maps(r) + '" target="_blank" rel="noopener">Route&nbsp;↗</a></td>' +
+      '<td class="c-tun">' + aktionen(r) + '</td>' +
       '</tr>';
   }).join("");
 
@@ -535,12 +595,44 @@ $("fOsm").onchange = e => {
   try { localStorage.setItem("essen-osm", state.osm ? "1" : "0"); } catch (err) {}
   render();
 };
-tb.addEventListener("change", e => {
+/* Beiträge gehen an den eigenen Server, nicht an Dritte. Klappt das nicht,
+   bleibt die Note wenigstens lokal erhalten und die Seite läuft weiter. */
+async function senden(felder) {
+  if (!BEITRAG) return null;
+  try {
+    const antwort = await fetch("beitrag.php", { method: "POST", body: new URLSearchParams(felder) });
+    const d = await antwort.json().catch(() => ({}));
+    if (!antwort.ok) return { fehler: d.fehler || "Hat nicht geklappt." };
+    if (d.eintrag) GEMEINSCHAFT[felder.id] = d.eintrag;
+    else delete GEMEINSCHAFT[felder.id];
+    return d;
+  } catch (e) {
+    return { fehler: "Keine Verbindung." };
+  }
+}
+
+tb.addEventListener("change", async e => {
   const sel = e.target.closest("select[data-id]");
   if (!sel) return;
-  noteSetzen(sel.dataset.id, sel.value);
+  const id = sel.dataset.id;
+  noteSetzen(id, sel.value);
   sel.dataset.leer = sel.value === "" ? "ja" : "nein";
-  if (state.sort === "note") render();
+  const d = await senden({ art: "note", id, wert: sel.value });
+  if (d && d.fehler) { sel.title = d.fehler; return; }
+  render();
+});
+
+tb.addEventListener("click", async e => {
+  const knopf = e.target.closest("button[data-melden]");
+  if (!knopf || knopf.disabled) return;
+  const id = knopf.dataset.melden;
+  knopf.disabled = true;
+  knopf.textContent = "…";
+  const d = await senden({ art: "geschlossen", id });
+  if (d && d.fehler) { knopf.textContent = "⚑"; knopf.disabled = false; knopf.title = d.fehler; return; }
+  MELDUNGEN[id] = true;
+  try { localStorage.setItem("essen-meldungen", JSON.stringify(MELDUNGEN)); } catch (err) {}
+  render();
 });
 $("fKm").oninput = e => {
   const v = +e.target.value;
@@ -565,6 +657,27 @@ window.addEventListener("hashchange", () => {
 
 /* Das Wunschformular erscheint nur, wenn anfrage.php daneben liegt -
    in der Vorschau ohne Server bleibt es aus. */
+/* Noten und Meldungen der anderen nachladen. Liegt die Datei nicht da -
+   etwa in einer lokalen Vorschau - bleibt alles beim rein eigenen Stand. */
+(async () => {
+  try {
+    const antwort = await fetch("gemeinschaft.json", { cache: "no-store" });
+    if (!antwort.ok) return;
+    const d = await antwort.json();
+    GEMEINSCHAFT = d.eintraege || {};
+    render();
+  } catch (e) { /* kein Server, kein Problem */ }
+})();
+
+/* Beitragen geht nur, wenn beitrag.php daneben liegt. */
+(async () => {
+  try {
+    const probe = await fetch("beitrag.php?ping=1");
+    BEITRAG = probe.ok;
+  } catch (e) { BEITRAG = false; }
+  if (BEITRAG) render();
+})();
+
 (async () => {
   const form = $("wunsch"), echo = $("wunschEcho");
   try {
